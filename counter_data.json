@@ -40,13 +40,13 @@
       "Number": 7,
       "ReferenceID": 8795,
       "ReferenceType": "NSEL-01",
-      "Value": 161
+      "Value": 221
     },
     {
       "Number": 8,
       "ReferenceID": 8701,
       "ReferenceType": "NSEL-01",
-      "Value": 2310
+      "Value": 2704
     },
     {
       "Number": 9,
@@ -58,7 +58,7 @@
       "Number": 10,
       "ReferenceID": 8848,
       "ReferenceType": "NSEL-01",
-      "Value": 61941
+      "Value": 62490
     },
     {
       "Number": 11,
@@ -94,7 +94,7 @@
       "Number": 16,
       "ReferenceID": 8692,
       "ReferenceType": "NSEL-01",
-      "Value": 396
+      "Value": 406
     },
     {
       "Number": 17,
@@ -106,7 +106,7 @@
       "Number": 18,
       "ReferenceID": 8629,
       "ReferenceType": "NSEL-01",
-      "Value": 137
+      "Value": 138
     },
     {
       "Number": 19,
@@ -142,7 +142,7 @@
       "Number": 24,
       "ReferenceID": 8562,
       "ReferenceType": "NSEL-01",
-      "Value": 1905
+      "Value": 1911
     },
     {
       "Number": 25,
@@ -172,7 +172,7 @@
       "Number": 29,
       "ReferenceID": 8874,
       "ReferenceType": "NSEL-01",
-      "Value": 483
+      "Value": 490
     },
     {
       "Number": 30,
@@ -202,13 +202,13 @@
       "Number": 34,
       "ReferenceID": 8638,
       "ReferenceType": "NSEL-01",
-      "Value": 6764
+      "Value": 6784
     },
     {
       "Number": 35,
       "ReferenceID": 8638,
       "ReferenceType": "NSEL-02",
-      "Value": 4762
+      "Value": 4782
     },
     {
       "Number": 36,
@@ -244,7 +244,7 @@
       "Number": 41,
       "ReferenceID": 8642,
       "ReferenceType": "NSEL-01",
-      "Value": 157
+      "Value": 215
     },
     {
       "Number": 42,
@@ -262,25 +262,25 @@
       "Number": 44,
       "ReferenceID": 8645,
       "ReferenceType": "NSEL-01",
-      "Value": 67
+      "Value": 68
     },
     {
       "Number": 45,
       "ReferenceID": 8568,
       "ReferenceType": "NSEL-01",
-      "Value": 503
+      "Value": 518
     },
     {
       "Number": 46,
       "ReferenceID": 8568,
       "ReferenceType": "NSEL-02",
-      "Value": 414
+      "Value": 429
     },
     {
       "Number": 47,
       "ReferenceID": 8568,
       "ReferenceType": "NSEL-03",
-      "Value": 69
+      "Value": 71
     },
     {
       "Number": 48,
@@ -340,7 +340,7 @@
       "Number": 57,
       "ReferenceID": 8576,
       "ReferenceType": "NSEL-01",
-      "Value": 135
+      "Value": 136
     },
     {
       "Number": 58,
@@ -370,13 +370,13 @@
       "Number": 62,
       "ReferenceID": 8676,
       "ReferenceType": "NSEL-01",
-      "Value": 62
+      "Value": 63
     },
     {
       "Number": 63,
       "ReferenceID": 8570,
       "ReferenceType": "NSEL-01",
-      "Value": 933
+      "Value": 937
     },
     {
       "Number": 64,
@@ -388,13 +388,13 @@
       "Number": 65,
       "ReferenceID": 8678,
       "ReferenceType": "NSEL-01",
-      "Value": 291
+      "Value": 442
     },
     {
       "Number": 66,
       "ReferenceID": 8678,
       "ReferenceType": "NSEL-02",
-      "Value": 225
+      "Value": 342
     },
     {
       "Number": 67,
@@ -412,7 +412,7 @@
       "Number": 69,
       "ReferenceID": 8583,
       "ReferenceType": "NSEL-01",
-      "Value": 2065
+      "Value": 2138
     },
     {
       "Number": 70,
@@ -436,7 +436,7 @@
       "Number": 73,
       "ReferenceID": 8833,
       "ReferenceType": "NSEL-03",
-      "Value": 380
+      "Value": 403
     },
     {
       "Number": 74,
@@ -454,7 +454,7 @@
       "Number": 76,
       "ReferenceID": 8571,
       "ReferenceType": "NSEL-03",
-      "Value": 32
+      "Value": 33
     },
     {
       "Number": 77,
@@ -508,7 +508,7 @@
       "Number": 85,
       "ReferenceID": 8708,
       "ReferenceType": "NSEL-01",
-      "Value": 715
+      "Value": 833
     },
     {
       "Number": 86,
@@ -520,25 +520,25 @@
       "Number": 87,
       "ReferenceID": 8711,
       "ReferenceType": "NSEL-01",
-      "Value": 307
+      "Value": 319
     },
     {
       "Number": 88,
       "ReferenceID": 8867,
       "ReferenceType": "NSEL-01",
-      "Value": 3593
+      "Value": 3596
     },
     {
       "Number": 89,
       "ReferenceID": 8868,
       "ReferenceType": "NSEL-01",
-      "Value": 4421
+      "Value": 4430
     },
     {
       "Number": 90,
       "ReferenceID": 8871,
       "ReferenceType": "NSEL-01",
-      "Value": 2189
+      "Value": 2219
     },
     {
       "Number": 91,
@@ -586,7 +586,7 @@
       "Number": 98,
       "ReferenceID": 8588,
       "ReferenceType": "NSEL-02",
-      "Value": 475
+      "Value": 479
     },
     {
       "Number": 99,
@@ -598,7 +598,7 @@
       "Number": 100,
       "ReferenceID": 8589,
       "ReferenceType": "NSEL-02",
-      "Value": 382
+      "Value": 401
     },
     {
       "Number": 101,
@@ -700,7 +700,7 @@
       "Number": 117,
       "ReferenceID": 8594,
       "ReferenceType": "NSEL-03",
-      "Value": 236
+      "Value": 265
     },
     {
       "Number": 118,
@@ -712,7 +712,7 @@
       "Number": 119,
       "ReferenceID": 8595,
       "ReferenceType": "NSEL-02",
-      "Value": 313
+      "Value": 372
     },
     {
       "Number": 120,
@@ -736,7 +736,7 @@
       "Number": 123,
       "ReferenceID": 8599,
       "ReferenceType": "NSEL-01",
-      "Value": 3679
+      "Value": 3770
     },
     {
       "Number": 124,
@@ -760,7 +760,7 @@
       "Number": 127,
       "ReferenceID": 8600,
       "ReferenceType": "NSEL-02",
-      "Value": 124
+      "Value": 130
     },
     {
       "Number": 128,
@@ -772,7 +772,7 @@
       "Number": 129,
       "ReferenceID": 8603,
       "ReferenceType": "NSEL-01",
-      "Value": 627
+      "Value": 628
     },
     {
       "Number": 130,
@@ -790,7 +790,7 @@
       "Number": 132,
       "ReferenceID": 8602,
       "ReferenceType": "NSEL-01",
-      "Value": 1536
+      "Value": 1720
     },
     {
       "Number": 133,
@@ -814,7 +814,7 @@
       "Number": 136,
       "ReferenceID": 8973,
       "ReferenceType": "NSEL-02",
-      "Value": 690
+      "Value": 793
     },
     {
       "Number": 137,
@@ -844,7 +844,7 @@
       "Number": 141,
       "ReferenceID": 8605,
       "ReferenceType": "NSEL-01",
-      "Value": 896
+      "Value": 900
     },
     {
       "Number": 142,
@@ -868,13 +868,13 @@
       "Number": 145,
       "ReferenceID": 8684,
       "ReferenceType": "NSEL-02",
-      "Value": 2915
+      "Value": 2921
     },
     {
       "Number": 146,
       "ReferenceID": 8684,
       "ReferenceType": "NSEL-03",
-      "Value": 1580
+      "Value": 1585
     },
     {
       "Number": 147,
@@ -898,7 +898,7 @@
       "Number": 150,
       "ReferenceID": 8608,
       "ReferenceType": "NSEL-01",
-      "Value": 616
+      "Value": 698
     },
     {
       "Number": 151,
@@ -916,7 +916,7 @@
       "Number": 153,
       "ReferenceID": 8609,
       "ReferenceType": "NSEL-02",
-      "Value": 48
+      "Value": 51
     },
     {
       "Number": 154,
@@ -928,7 +928,7 @@
       "Number": 155,
       "ReferenceID": 8610,
       "ReferenceType": "NSEL-02",
-      "Value": 460
+      "Value": 539
     },
     {
       "Number": 156,
@@ -946,7 +946,7 @@
       "Number": 158,
       "ReferenceID": 8619,
       "ReferenceType": "NSEL-01",
-      "Value": 423
+      "Value": 424
     },
     {
       "Number": 159,
@@ -964,7 +964,7 @@
       "Number": 161,
       "ReferenceID": 8616,
       "ReferenceType": "NSEL-01",
-      "Value": 1817
+      "Value": 1818
     },
     {
       "Number": 162,
@@ -1036,7 +1036,7 @@
       "Number": 173,
       "ReferenceID": 8479,
       "ReferenceType": "NSEL-01",
-      "Value": 6247
+      "Value": 6329
     },
     {
       "Number": 174,
@@ -1048,7 +1048,7 @@
       "Number": 175,
       "ReferenceID": 8479,
       "ReferenceType": "NSEL-03",
-      "Value": 4095
+      "Value": 4161
     },
     {
       "Number": 176,
@@ -1072,7 +1072,7 @@
       "Number": 179,
       "ReferenceID": 8659,
       "ReferenceType": "NSEL-01",
-      "Value": 109
+      "Value": 110
     },
     {
       "Number": 180,
@@ -1108,7 +1108,7 @@
       "Number": 185,
       "ReferenceID": 8518,
       "ReferenceType": "NSEL-02",
-      "Value": 1802
+      "Value": 1989
     },
     {
       "Number": 186,
@@ -1120,13 +1120,13 @@
       "Number": 187,
       "ReferenceID": 8866,
       "ReferenceType": "NSEL-01",
-      "Value": 1194
+      "Value": 1304
     },
     {
       "Number": 188,
       "ReferenceID": 8436,
       "ReferenceType": "NSEL-01",
-      "Value": 2512
+      "Value": 2519
     },
     {
       "Number": 189,
@@ -1186,7 +1186,7 @@
       "Number": 198,
       "ReferenceID": 8502,
       "ReferenceType": "NSEL-01",
-      "Value": 279
+      "Value": 287
     },
     {
       "Number": 199,
@@ -1216,7 +1216,7 @@
       "Number": 203,
       "ReferenceID": 8791,
       "ReferenceType": "NSEL-01",
-      "Value": 241
+      "Value": 243
     },
     {
       "Number": 204,
@@ -1234,19 +1234,19 @@
       "Number": 206,
       "ReferenceID": 8491,
       "ReferenceType": "NSEL-03",
-      "Value": 926
+      "Value": 929
     },
     {
       "Number": 207,
       "ReferenceID": 8492,
       "ReferenceType": "NSEL-01",
-      "Value": 2920
+      "Value": 2944
     },
     {
       "Number": 208,
       "ReferenceID": 8492,
       "ReferenceType": "NSEL-02",
-      "Value": 746
+      "Value": 752
     },
     {
       "Number": 209,
@@ -1282,7 +1282,7 @@
       "Number": 214,
       "ReferenceID": 8705,
       "ReferenceType": "NSEL-01",
-      "Value": 847
+      "Value": 860
     },
     {
       "Number": 215,
@@ -1312,13 +1312,13 @@
       "Number": 219,
       "ReferenceID": 8668,
       "ReferenceType": "NSEL-01",
-      "Value": 770
+      "Value": 847
     },
     {
       "Number": 220,
       "ReferenceID": 8682,
       "ReferenceType": "NSEL-01",
-      "Value": 9735
+      "Value": 9746
     },
     {
       "Number": 221,
@@ -1348,19 +1348,19 @@
       "Number": 225,
       "ReferenceID": 8455,
       "ReferenceType": "NSEL-02",
-      "Value": 946
+      "Value": 949
     },
     {
       "Number": 226,
       "ReferenceID": 8455,
       "ReferenceType": "NSEL-03",
-      "Value": 356
+      "Value": 357
     },
     {
       "Number": 227,
       "ReferenceID": 8862,
       "ReferenceType": "NSEL-01",
-      "Value": 475
+      "Value": 478
     },
     {
       "Number": 228,
@@ -1372,7 +1372,7 @@
       "Number": 229,
       "ReferenceID": 8865,
       "ReferenceType": "NSEL-01",
-      "Value": 299
+      "Value": 300
     },
     {
       "Number": 230,
@@ -1384,13 +1384,13 @@
       "Number": 231,
       "ReferenceID": 8469,
       "ReferenceType": "NSEL-01",
-      "Value": 2127
+      "Value": 2133
     },
     {
       "Number": 232,
       "ReferenceID": 8469,
       "ReferenceType": "NSEL-02",
-      "Value": 1549
+      "Value": 1555
     },
     {
       "Number": 233,
@@ -1414,7 +1414,7 @@
       "Number": 236,
       "ReferenceID": 8439,
       "ReferenceType": "NSEL-01",
-      "Value": 6099
+      "Value": 6118
     },
     {
       "Number": 237,
@@ -1432,7 +1432,7 @@
       "Number": 239,
       "ReferenceID": 8446,
       "ReferenceType": "NSEL-02",
-      "Value": 1659
+      "Value": 1660
     },
     {
       "Number": 240,
@@ -1450,7 +1450,7 @@
       "Number": 242,
       "ReferenceID": 8547,
       "ReferenceType": "NSEL-02",
-      "Value": 5414
+      "Value": 5415
     },
     {
       "Number": 243,
@@ -1462,13 +1462,13 @@
       "Number": 244,
       "ReferenceID": 8851,
       "ReferenceType": "NSEL-01",
-      "Value": 7489
+      "Value": 7660
     },
     {
       "Number": 245,
       "ReferenceID": 8852,
       "ReferenceType": "NSEL-01",
-      "Value": 8116
+      "Value": 8136
     },
     {
       "Number": 246,
@@ -1486,7 +1486,7 @@
       "Number": 248,
       "ReferenceID": 8471,
       "ReferenceType": "NSEL-03",
-      "Value": 1558
+      "Value": 1564
     },
     {
       "Number": 249,
@@ -1498,7 +1498,7 @@
       "Number": 250,
       "ReferenceID": 8787,
       "ReferenceType": "NSEL-02",
-      "Value": 4526
+      "Value": 4816
     },
     {
       "Number": 251,
@@ -1510,7 +1510,7 @@
       "Number": 252,
       "ReferenceID": 8788,
       "ReferenceType": "NSEL-01",
-      "Value": 3106
+      "Value": 3239
     },
     {
       "Number": 253,
@@ -1522,7 +1522,7 @@
       "Number": 254,
       "ReferenceID": 8807,
       "ReferenceType": "NSEL-01",
-      "Value": 280
+      "Value": 285
     },
     {
       "Number": 255,
@@ -1546,7 +1546,7 @@
       "Number": 258,
       "ReferenceID": 8803,
       "ReferenceType": "NSEL-01",
-      "Value": 1829
+      "Value": 2075
     },
     {
       "Number": 259,
@@ -1558,13 +1558,13 @@
       "Number": 260,
       "ReferenceID": 8805,
       "ReferenceType": "NSEL-01",
-      "Value": 1518
+      "Value": 1727
     },
     {
       "Number": 261,
       "ReferenceID": 8433,
       "ReferenceType": "NSEL-01",
-      "Value": 1247
+      "Value": 1248
     },
     {
       "Number": 262,
@@ -1594,13 +1594,13 @@
       "Number": 266,
       "ReferenceID": 8496,
       "ReferenceType": "NSEL-01",
-      "Value": 1479
+      "Value": 1480
     },
     {
       "Number": 267,
       "ReferenceID": 8662,
       "ReferenceType": "NSEL-01",
-      "Value": 134
+      "Value": 138
     },
     {
       "Number": 268,
@@ -1618,7 +1618,7 @@
       "Number": 270,
       "ReferenceID": 8512,
       "ReferenceType": "NSEL-01",
-      "Value": 408
+      "Value": 415
     },
     {
       "Number": 271,
@@ -1636,7 +1636,7 @@
       "Number": 273,
       "ReferenceID": 8459,
       "ReferenceType": "NSEL-01",
-      "Value": 922
+      "Value": 923
     },
     {
       "Number": 274,
@@ -1684,7 +1684,7 @@
       "Number": 281,
       "ReferenceID": 8476,
       "ReferenceType": "NSEL-01",
-      "Value": 443
+      "Value": 445
     },
     {
       "Number": 282,
@@ -1714,7 +1714,7 @@
       "Number": 286,
       "ReferenceID": 8453,
       "ReferenceType": "NSEL-01",
-      "Value": 3730
+      "Value": 3753
     },
     {
       "Number": 287,
@@ -1738,7 +1738,7 @@
       "Number": 290,
       "ReferenceID": 8810,
       "ReferenceType": "NSEL-02",
-      "Value": 948
+      "Value": 983
     },
     {
       "Number": 291,
@@ -1768,7 +1768,7 @@
       "Number": 295,
       "ReferenceID": 8490,
       "ReferenceType": "NSEL-01",
-      "Value": 306
+      "Value": 322
     },
     {
       "Number": 296,
@@ -1792,7 +1792,7 @@
       "Number": 299,
       "ReferenceID": 8513,
       "ReferenceType": "NSEL-01",
-      "Value": 1145
+      "Value": 1148
     },
     {
       "Number": 300,
@@ -1810,13 +1810,13 @@
       "Number": 302,
       "ReferenceID": 8442,
       "ReferenceType": "NSEL-01",
-      "Value": 856
+      "Value": 862
     },
     {
       "Number": 303,
       "ReferenceID": 8443,
       "ReferenceType": "NSEL-01",
-      "Value": 308
+      "Value": 310
     },
     {
       "Number": 304,
@@ -1846,13 +1846,13 @@
       "Number": 308,
       "ReferenceID": 8681,
       "ReferenceType": "NSEL-01",
-      "Value": 10012
+      "Value": 10024
     },
     {
       "Number": 309,
       "ReferenceID": 8681,
       "ReferenceType": "NSEL-02",
-      "Value": 8613
+      "Value": 8625
     },
     {
       "Number": 310,
@@ -1864,7 +1864,7 @@
       "Number": 311,
       "ReferenceID": 8681,
       "ReferenceType": "NSEL-04",
-      "Value": 5284
+      "Value": 5291
     },
     {
       "Number": 312,
@@ -1876,13 +1876,13 @@
       "Number": 313,
       "ReferenceID": 8516,
       "ReferenceType": "NSEL-01",
-      "Value": 120913
+      "Value": 122906
     },
     {
       "Number": 314,
       "ReferenceID": 8517,
       "ReferenceType": "NSEL-01",
-      "Value": 132134
+      "Value": 134367
     },
     {
       "Number": 315,
@@ -1894,25 +1894,25 @@
       "Number": 316,
       "ReferenceID": 8430,
       "ReferenceType": "NSEL-01",
-      "Value": 918
+      "Value": 920
     },
     {
       "Number": 317,
       "ReferenceID": 8811,
       "ReferenceType": "NSEL-01",
-      "Value": 646
+      "Value": 654
     },
     {
       "Number": 318,
       "ReferenceID": 8813,
       "ReferenceType": "NSEL-01",
-      "Value": 1640
+      "Value": 1644
     },
     {
       "Number": 319,
       "ReferenceID": 8671,
       "ReferenceType": "NSEL-01",
-      "Value": 792
+      "Value": 794
     },
     {
       "Number": 320,
@@ -1936,7 +1936,7 @@
       "Number": 323,
       "ReferenceID": 8636,
       "ReferenceType": "NSEL-01",
-      "Value": 2801
+      "Value": 2814
     },
     {
       "Number": 324,
@@ -1948,7 +1948,7 @@
       "Number": 325,
       "ReferenceID": 8639,
       "ReferenceType": "NSEL-01",
-      "Value": 1020
+      "Value": 1293
     },
     {
       "Number": 326,
@@ -1960,7 +1960,7 @@
       "Number": 327,
       "ReferenceID": 8579,
       "ReferenceType": "NSEL-01",
-      "Value": 868
+      "Value": 883
     },
     {
       "Number": 328,
@@ -1978,7 +1978,7 @@
       "Number": 330,
       "ReferenceID": 8582,
       "ReferenceType": "NSEL-01",
-      "Value": 880
+      "Value": 917
     },
     {
       "Number": 331,
@@ -2014,7 +2014,7 @@
       "Number": 336,
       "ReferenceID": 8688,
       "ReferenceType": "NSEL-01",
-      "Value": 594
+      "Value": 659
     },
     {
       "Number": 337,
@@ -2038,13 +2038,13 @@
       "Number": 340,
       "ReferenceID": 8683,
       "ReferenceType": "NSEL-03",
-      "Value": 5626
+      "Value": 5632
     },
     {
       "Number": 341,
       "ReferenceID": 8606,
       "ReferenceType": "NSEL-01",
-      "Value": 294
+      "Value": 345
     },
     {
       "Number": 342,
@@ -2056,7 +2056,7 @@
       "Number": 343,
       "ReferenceID": 8685,
       "ReferenceType": "NSEL-01",
-      "Value": 998
+      "Value": 1126
     },
     {
       "Number": 344,
@@ -2068,13 +2068,13 @@
       "Number": 345,
       "ReferenceID": 8611,
       "ReferenceType": "NSEL-01",
-      "Value": 626
+      "Value": 630
     },
     {
       "Number": 346,
       "ReferenceID": 8617,
       "ReferenceType": "NSEL-01",
-      "Value": 2378
+      "Value": 2409
     },
     {
       "Number": 347,
@@ -2086,7 +2086,7 @@
       "Number": 348,
       "ReferenceID": 8713,
       "ReferenceType": "NSEL-01",
-      "Value": 12003
+      "Value": 12029
     },
     {
       "Number": 349,
@@ -2098,7 +2098,7 @@
       "Number": 350,
       "ReferenceID": 8715,
       "ReferenceType": "NSEL-01",
-      "Value": 11701
+      "Value": 11870
     },
     {
       "Number": 351,
@@ -2122,7 +2122,7 @@
       "Number": 354,
       "ReferenceID": 8719,
       "ReferenceType": "NSEL-01",
-      "Value": 239
+      "Value": 243
     },
     {
       "Number": 355,
@@ -2176,7 +2176,7 @@
       "Number": 363,
       "ReferenceID": 8728,
       "ReferenceType": "NSEL-01",
-      "Value": 3653
+      "Value": 3654
     },
     {
       "Number": 364,
@@ -2194,7 +2194,7 @@
       "Number": 366,
       "ReferenceID": 8731,
       "ReferenceType": "NSEL-01",
-      "Value": 15265
+      "Value": 15278
     },
     {
       "Number": 367,
@@ -2236,13 +2236,13 @@
       "Number": 373,
       "ReferenceID": 8738,
       "ReferenceType": "NSEL-01",
-      "Value": 8539
+      "Value": 8726
     },
     {
       "Number": 374,
       "ReferenceID": 8739,
       "ReferenceType": "NSEL-01",
-      "Value": 6411
+      "Value": 6915
     },
     {
       "Number": 375,
@@ -2260,7 +2260,7 @@
       "Number": 377,
       "ReferenceID": 8742,
       "ReferenceType": "NSEL-01",
-      "Value": 3304
+      "Value": 3439
     },
     {
       "Number": 378,
@@ -2296,7 +2296,7 @@
       "Number": 383,
       "ReferenceID": 8748,
       "ReferenceType": "NSEL-01",
-      "Value": 2735
+      "Value": 2775
     },
     {
       "Number": 384,
@@ -2308,13 +2308,13 @@
       "Number": 385,
       "ReferenceID": 8750,
       "ReferenceType": "NSEL-01",
-      "Value": 12869
+      "Value": 13196
     },
     {
       "Number": 386,
       "ReferenceID": 8751,
       "ReferenceType": "NSEL-01",
-      "Value": 2515
+      "Value": 2535
     },
     {
       "Number": 387,
@@ -2344,7 +2344,7 @@
       "Number": 391,
       "ReferenceID": 8756,
       "ReferenceType": "NSEL-01",
-      "Value": 8202
+      "Value": 8236
     },
     {
       "Number": 392,
@@ -2368,7 +2368,7 @@
       "Number": 395,
       "ReferenceID": 8760,
       "ReferenceType": "NSEL-01",
-      "Value": 3399
+      "Value": 3685
     },
     {
       "Number": 396,
@@ -2386,7 +2386,7 @@
       "Number": 398,
       "ReferenceID": 8897,
       "ReferenceType": "NSEL-01",
-      "Value": 575
+      "Value": 588
     },
     {
       "Number": 399,
@@ -2428,13 +2428,13 @@
       "Number": 405,
       "ReferenceID": 8632,
       "ReferenceType": "NSEL-01",
-      "Value": 125
+      "Value": 126
     },
     {
       "Number": 406,
       "ReferenceID": 8891,
       "ReferenceType": "NSEL-01",
-      "Value": 588
+      "Value": 687
     },
     {
       "Number": 407,
@@ -2452,19 +2452,19 @@
       "Number": 409,
       "ReferenceID": 8918,
       "ReferenceType": "NSEL-01",
-      "Value": 443
+      "Value": 456
     },
     {
       "Number": 410,
       "ReferenceID": 8917,
       "ReferenceType": "NSEL-01",
-      "Value": 401
+      "Value": 412
     },
     {
       "Number": 411,
       "ReferenceID": 8956,
       "ReferenceType": "NSEL-01",
-      "Value": 43
+      "Value": 45
     },
     {
       "Number": 412,
@@ -2482,7 +2482,7 @@
       "Number": 414,
       "ReferenceID": 8899,
       "ReferenceType": "NSEL-01",
-      "Value": 369
+      "Value": 463
     },
     {
       "Number": 415,
@@ -2494,7 +2494,7 @@
       "Number": 416,
       "ReferenceID": 8940,
       "ReferenceType": "NSEL-01",
-      "Value": 481
+      "Value": 490
     },
     {
       "Number": 417,
@@ -2518,13 +2518,13 @@
       "Number": 420,
       "ReferenceID": 8957,
       "ReferenceType": "NSEL-01",
-      "Value": 653
+      "Value": 677
     },
     {
       "Number": 421,
       "ReferenceID": 8834,
       "ReferenceType": "NSEL-01",
-      "Value": 199
+      "Value": 206
     },
     {
       "Number": 422,
@@ -2542,7 +2542,7 @@
       "Number": 424,
       "ReferenceID": 8837,
       "ReferenceType": "NSEL-01",
-      "Value": 426
+      "Value": 444
     },
     {
       "Number": 425,
@@ -2566,13 +2566,13 @@
       "Number": 428,
       "ReferenceID": 8960,
       "ReferenceType": "NSEL-01",
-      "Value": 3534
+      "Value": 4068
     },
     {
       "Number": 429,
       "ReferenceID": 8961,
       "ReferenceType": "NSEL-01",
-      "Value": 3579
+      "Value": 4172
     },
     {
       "Number": 430,
@@ -2584,7 +2584,7 @@
       "Number": 431,
       "ReferenceID": 8894,
       "ReferenceType": "NSEL-01",
-      "Value": 30745
+      "Value": 30993
     },
     {
       "Number": 432,
@@ -2704,13 +2704,13 @@
       "Number": 451,
       "ReferenceID": 8908,
       "ReferenceType": "NSEL-01",
-      "Value": 162
+      "Value": 180
     },
     {
       "Number": 452,
       "ReferenceID": 8909,
       "ReferenceType": "NSEL-01",
-      "Value": 870
+      "Value": 872
     },
     {
       "Number": 453,
@@ -2722,13 +2722,13 @@
       "Number": 454,
       "ReferenceID": 8910,
       "ReferenceType": "NSEL-01",
-      "Value": 1860
+      "Value": 1866
     },
     {
       "Number": 455,
       "ReferenceID": 8911,
       "ReferenceType": "NSEL-01",
-      "Value": 1168
+      "Value": 1172
     },
     {
       "Number": 456,
@@ -2776,13 +2776,13 @@
       "Number": 463,
       "ReferenceID": 8968,
       "ReferenceType": "NSEL-01",
-      "Value": 305
+      "Value": 346
     },
     {
       "Number": 464,
       "ReferenceID": 8914,
       "ReferenceType": "NSEL-01",
-      "Value": 90
+      "Value": 93
     },
     {
       "Number": 465,
@@ -2794,25 +2794,25 @@
       "Number": 466,
       "ReferenceID": 8951,
       "ReferenceType": "NSEL-01",
-      "Value": 379
+      "Value": 383
     },
     {
       "Number": 467,
       "ReferenceID": 8931,
       "ReferenceType": "NSEL-01",
-      "Value": 659
+      "Value": 691
     },
     {
       "Number": 468,
       "ReferenceID": 8519,
       "ReferenceType": "NSEL-01",
-      "Value": 407
+      "Value": 438
     },
     {
       "Number": 469,
       "ReferenceID": 8937,
       "ReferenceType": "NSEL-01",
-      "Value": 3654
+      "Value": 4153
     },
     {
       "Number": 470,
@@ -2848,7 +2848,7 @@
       "Number": 475,
       "ReferenceID": 8948,
       "ReferenceType": "NSEL-01",
-      "Value": 4019
+      "Value": 4253
     },
     {
       "Number": 476,
@@ -2860,13 +2860,13 @@
       "Number": 477,
       "ReferenceID": 8844,
       "ReferenceType": "NSEL-01",
-      "Value": 1684
+      "Value": 1689
     },
     {
       "Number": 478,
       "ReferenceID": 8934,
       "ReferenceType": "NSEL-01",
-      "Value": 62796
+      "Value": 63558
     },
     {
       "Number": 479,
@@ -2896,7 +2896,7 @@
       "Number": 483,
       "ReferenceID": 8392,
       "ReferenceType": "NSEL-02",
-      "Value": 6646
+      "Value": 6977
     },
     {
       "Number": 484,
@@ -2914,13 +2914,13 @@
       "Number": 486,
       "ReferenceID": 8415,
       "ReferenceType": "NSEL-01",
-      "Value": 624
+      "Value": 625
     },
     {
       "Number": 487,
       "ReferenceID": 8416,
       "ReferenceType": "NSEL-01",
-      "Value": 1584
+      "Value": 1586
     },
     {
       "Number": 488,
@@ -2932,13 +2932,13 @@
       "Number": 489,
       "ReferenceID": 8419,
       "ReferenceType": "NSEL-01",
-      "Value": 1818
+      "Value": 1835
     },
     {
       "Number": 490,
       "ReferenceID": 8420,
       "ReferenceType": "NSEL-01",
-      "Value": 5782
+      "Value": 6317
     },
     {
       "Number": 491,
@@ -2962,7 +2962,7 @@
       "Number": 494,
       "ReferenceID": 8425,
       "ReferenceType": "NSEL-01",
-      "Value": 5619
+      "Value": 5978
     },
     {
       "Number": 495,
@@ -2974,7 +2974,7 @@
       "Number": 496,
       "ReferenceID": 8782,
       "ReferenceType": "NSEL-01",
-      "Value": 1873
+      "Value": 1876
     },
     {
       "Number": 497,
@@ -3004,7 +3004,7 @@
       "Number": 501,
       "ReferenceID": 8381,
       "ReferenceType": "NSEL-03",
-      "Value": 696
+      "Value": 697
     },
     {
       "Number": 502,
@@ -3022,7 +3022,7 @@
       "Number": 504,
       "ReferenceID": 8385,
       "ReferenceType": "NSEL-03",
-      "Value": 288
+      "Value": 291
     },
     {
       "Number": 505,
@@ -3046,25 +3046,25 @@
       "Number": 508,
       "ReferenceID": 8771,
       "ReferenceType": "NSEL-01",
-      "Value": 41587
+      "Value": 41629
     },
     {
       "Number": 509,
       "ReferenceID": 8772,
       "ReferenceType": "NSEL-01",
-      "Value": 81148
+      "Value": 83311
     },
     {
       "Number": 510,
       "ReferenceID": 8774,
       "ReferenceType": "NSEL-01",
-      "Value": 242590
+      "Value": 249868
     },
     {
       "Number": 511,
       "ReferenceID": 8775,
       "ReferenceType": "NSEL-01",
-      "Value": 233396
+      "Value": 240075
     },
     {
       "Number": 512,
@@ -3082,7 +3082,7 @@
       "Number": 514,
       "ReferenceID": 8778,
       "ReferenceType": "NSEL-01",
-      "Value": 238335
+      "Value": 245352
     },
     {
       "Number": 515,
@@ -3094,7 +3094,7 @@
       "Number": 516,
       "ReferenceID": 8930,
       "ReferenceType": "NSEL-01",
-      "Value": 76449
+      "Value": 78088
     },
     {
       "Number": 517,
@@ -3106,7 +3106,7 @@
       "Number": 518,
       "ReferenceID": 8762,
       "ReferenceType": "NSEL-01",
-      "Value": 26456
+      "Value": 26928
     },
     {
       "Number": 519,
@@ -3124,13 +3124,13 @@
       "Number": 521,
       "ReferenceID": 8765,
       "ReferenceType": "NSEL-01",
-      "Value": 54277
+      "Value": 55438
     },
     {
       "Number": 522,
       "ReferenceID": 8766,
       "ReferenceType": "NSEL-01",
-      "Value": 57527
+      "Value": 58735
     },
     {
       "Number": 523,
@@ -3142,7 +3142,7 @@
       "Number": 524,
       "ReferenceID": 8768,
       "ReferenceType": "NSEL-01",
-      "Value": 69134
+      "Value": 70607
     },
     {
       "Number": 525,
@@ -3154,13 +3154,13 @@
       "Number": 526,
       "ReferenceID": 8770,
       "ReferenceType": "NSEL-01",
-      "Value": 203611
+      "Value": 210207
     },
     {
       "Number": 527,
       "ReferenceID": 8822,
       "ReferenceType": "NSEL-01",
-      "Value": 50569
+      "Value": 51641
     },
     {
       "Number": 528,
@@ -3178,7 +3178,7 @@
       "Number": 530,
       "ReferenceID": 8825,
       "ReferenceType": "NSEL-01",
-      "Value": 45666
+      "Value": 46728
     },
     {
       "Number": 531,
@@ -3196,13 +3196,13 @@
       "Number": 533,
       "ReferenceID": 8828,
       "ReferenceType": "NSEL-01",
-      "Value": 48198
+      "Value": 49413
     },
     {
       "Number": 534,
       "ReferenceID": 8877,
       "ReferenceType": "NSEL-01",
-      "Value": 242202
+      "Value": 248323
     },
     {
       "Number": 535,
@@ -3238,7 +3238,7 @@
       "Number": 540,
       "ReferenceID": 8974,
       "ReferenceType": "NSEL-01",
-      "Value": 298030
+      "Value": 306208
     },
     {
       "Number": 541,
@@ -3250,13 +3250,13 @@
       "Number": 542,
       "ReferenceID": 8884,
       "ReferenceType": "NSEL-01",
-      "Value": 304895
+      "Value": 313310
     },
     {
       "Number": 543,
       "ReferenceID": 8885,
       "ReferenceType": "NSEL-01",
-      "Value": 303084
+      "Value": 311525
     },
     {
       "Number": 544,
@@ -3268,7 +3268,7 @@
       "Number": 545,
       "ReferenceID": 8888,
       "ReferenceType": "NSEL-01",
-      "Value": 307272
+      "Value": 315868
     },
     {
       "Number": 546,
@@ -3340,7 +3340,7 @@
       "Number": 557,
       "ReferenceID": 21675,
       "ReferenceType": "CAND",
-      "Value": 291
+      "Value": 293
     },
     {
       "Number": 558,
@@ -3376,7 +3376,7 @@
       "Number": 563,
       "ReferenceID": 21830,
       "ReferenceType": "CAND",
-      "Value": 1141
+      "Value": 1144
     },
     {
       "Number": 564,
@@ -3388,7 +3388,7 @@
       "Number": 565,
       "ReferenceID": 21827,
       "ReferenceType": "CAND",
-      "Value": 1305
+      "Value": 1312
     },
     {
       "Number": 566,
@@ -3406,13 +3406,13 @@
       "Number": 568,
       "ReferenceID": 21446,
       "ReferenceType": "CAND",
-      "Value": 316
+      "Value": 440
     },
     {
       "Number": 569,
       "ReferenceID": 21435,
       "ReferenceType": "CAND",
-      "Value": 25512
+      "Value": 28498
     },
     {
       "Number": 570,
@@ -3424,13 +3424,13 @@
       "Number": 571,
       "ReferenceID": 21848,
       "ReferenceType": "CAND",
-      "Value": 197454
+      "Value": 199299
     },
     {
       "Number": 572,
       "ReferenceID": 21847,
       "ReferenceType": "CAND",
-      "Value": 194457
+      "Value": 196052
     },
     {
       "Number": 573,
@@ -3442,7 +3442,7 @@
       "Number": 574,
       "ReferenceID": 21850,
       "ReferenceType": "CAND",
-      "Value": 140760
+      "Value": 142308
     },
     {
       "Number": 575,
@@ -3508,13 +3508,13 @@
       "Number": 585,
       "ReferenceID": 21485,
       "ReferenceType": "CAND",
-      "Value": 1169
+      "Value": 1191
     },
     {
       "Number": 586,
       "ReferenceID": 21486,
       "ReferenceType": "CAND",
-      "Value": 1232
+      "Value": 1236
     },
     {
       "Number": 587,
@@ -3532,7 +3532,7 @@
       "Number": 589,
       "ReferenceID": 21429,
       "ReferenceType": "CAND",
-      "Value": 512
+      "Value": 516
     },
     {
       "Number": 590,
@@ -3550,13 +3550,13 @@
       "Number": 592,
       "ReferenceID": 21432,
       "ReferenceType": "CAND",
-      "Value": 621
+      "Value": 630
     },
     {
       "Number": 593,
       "ReferenceID": 21436,
       "ReferenceType": "CAND",
-      "Value": 420
+      "Value": 428
     },
     {
       "Number": 594,
@@ -3574,25 +3574,25 @@
       "Number": 596,
       "ReferenceID": 21438,
       "ReferenceType": "CAND",
-      "Value": 692
+      "Value": 702
     },
     {
       "Number": 597,
       "ReferenceID": 21618,
       "ReferenceType": "CAND",
-      "Value": 1229
+      "Value": 1234
     },
     {
       "Number": 598,
       "ReferenceID": 21612,
       "ReferenceType": "CAND",
-      "Value": 1146
+      "Value": 1148
     },
     {
       "Number": 599,
       "ReferenceID": 21615,
       "ReferenceType": "CAND",
-      "Value": 1046
+      "Value": 1051
     },
     {
       "Number": 600,
@@ -3616,7 +3616,7 @@
       "Number": 603,
       "ReferenceID": 21379,
       "ReferenceType": "CAND",
-      "Value": 1124
+      "Value": 1127
     },
     {
       "Number": 604,
@@ -3634,7 +3634,7 @@
       "Number": 606,
       "ReferenceID": 21678,
       "ReferenceType": "CAND",
-      "Value": 1661
+      "Value": 1665
     },
     {
       "Number": 607,
@@ -3652,25 +3652,25 @@
       "Number": 609,
       "ReferenceID": 21681,
       "ReferenceType": "CAND",
-      "Value": 1062
+      "Value": 1067
     },
     {
       "Number": 610,
       "ReferenceID": 21635,
       "ReferenceType": "CAND",
-      "Value": 354
+      "Value": 357
     },
     {
       "Number": 611,
       "ReferenceID": 21634,
       "ReferenceType": "CAND",
-      "Value": 382
+      "Value": 384
     },
     {
       "Number": 612,
       "ReferenceID": 21631,
       "ReferenceType": "CAND",
-      "Value": 431
+      "Value": 434
     },
     {
       "Number": 613,
@@ -3688,7 +3688,7 @@
       "Number": 615,
       "ReferenceID": 21632,
       "ReferenceType": "CAND",
-      "Value": 544
+      "Value": 551
     },
     {
       "Number": 616,
@@ -3718,7 +3718,7 @@
       "Number": 620,
       "ReferenceID": 21687,
       "ReferenceType": "CAND",
-      "Value": 891
+      "Value": 1065
     },
     {
       "Number": 621,
@@ -3742,7 +3742,7 @@
       "Number": 624,
       "ReferenceID": 21525,
       "ReferenceType": "CAND",
-      "Value": 6918
+      "Value": 6923
     },
     {
       "Number": 625,
@@ -3766,7 +3766,7 @@
       "Number": 628,
       "ReferenceID": 21529,
       "ReferenceType": "CAND",
-      "Value": 3739
+      "Value": 3741
     },
     {
       "Number": 629,
@@ -3814,13 +3814,13 @@
       "Number": 636,
       "ReferenceID": 21770,
       "ReferenceType": "CAND",
-      "Value": 154
+      "Value": 243
     },
     {
       "Number": 637,
       "ReferenceID": 21767,
       "ReferenceType": "CAND",
-      "Value": 691
+      "Value": 856
     },
     {
       "Number": 638,
@@ -3832,7 +3832,7 @@
       "Number": 639,
       "ReferenceID": 21541,
       "ReferenceType": "CAND",
-      "Value": 481
+      "Value": 482
     },
     {
       "Number": 640,
@@ -3844,7 +3844,7 @@
       "Number": 641,
       "ReferenceID": 21544,
       "ReferenceType": "CAND",
-      "Value": 217
+      "Value": 218
     },
     {
       "Number": 642,
@@ -3874,7 +3874,7 @@
       "Number": 646,
       "ReferenceID": 21425,
       "ReferenceType": "CAND",
-      "Value": 175
+      "Value": 179
     },
     {
       "Number": 647,
@@ -3892,7 +3892,7 @@
       "Number": 649,
       "ReferenceID": 21426,
       "ReferenceType": "CAND",
-      "Value": 180
+      "Value": 181
     },
     {
       "Number": 650,
@@ -3916,7 +3916,7 @@
       "Number": 653,
       "ReferenceID": 21646,
       "ReferenceType": "CAND",
-      "Value": 3246
+      "Value": 3248
     },
     {
       "Number": 654,
@@ -3928,7 +3928,7 @@
       "Number": 655,
       "ReferenceID": 21641,
       "ReferenceType": "CAND",
-      "Value": 2625
+      "Value": 2628
     },
     {
       "Number": 656,
@@ -3952,7 +3952,7 @@
       "Number": 659,
       "ReferenceID": 21549,
       "ReferenceType": "CAND",
-      "Value": 932
+      "Value": 934
     },
     {
       "Number": 660,
@@ -3964,7 +3964,7 @@
       "Number": 661,
       "ReferenceID": 21551,
       "ReferenceType": "CAND",
-      "Value": 710
+      "Value": 711
     },
     {
       "Number": 662,
@@ -4024,7 +4024,7 @@
       "Number": 671,
       "ReferenceID": 21386,
       "ReferenceType": "CAND",
-      "Value": 326
+      "Value": 327
     },
     {
       "Number": 672,
@@ -4048,13 +4048,13 @@
       "Number": 675,
       "ReferenceID": 21511,
       "ReferenceType": "CAND",
-      "Value": 487
+      "Value": 493
     },
     {
       "Number": 676,
       "ReferenceID": 21512,
       "ReferenceType": "CAND",
-      "Value": 518
+      "Value": 532
     },
     {
       "Number": 677,
@@ -4078,7 +4078,7 @@
       "Number": 680,
       "ReferenceID": 21515,
       "ReferenceType": "CAND",
-      "Value": 244
+      "Value": 245
     },
     {
       "Number": 682,
@@ -4090,7 +4090,7 @@
       "Number": 683,
       "ReferenceID": 21521,
       "ReferenceType": "CAND",
-      "Value": 295
+      "Value": 312
     },
     {
       "Number": 684,
@@ -4126,7 +4126,7 @@
       "Number": 689,
       "ReferenceID": 21465,
       "ReferenceType": "CAND",
-      "Value": 375
+      "Value": 535
     },
     {
       "Number": 690,
@@ -4138,7 +4138,7 @@
       "Number": 691,
       "ReferenceID": 21458,
       "ReferenceType": "CAND",
-      "Value": 325
+      "Value": 408
     },
     {
       "Number": 692,
@@ -4156,13 +4156,13 @@
       "Number": 694,
       "ReferenceID": 21469,
       "ReferenceType": "CAND",
-      "Value": 235
+      "Value": 345
     },
     {
       "Number": 695,
       "ReferenceID": 21472,
       "ReferenceType": "CAND",
-      "Value": 393
+      "Value": 594
     },
     {
       "Number": 696,
@@ -4180,7 +4180,7 @@
       "Number": 698,
       "ReferenceID": 21594,
       "ReferenceType": "CAND",
-      "Value": 736
+      "Value": 759
     },
     {
       "Number": 699,
@@ -4192,37 +4192,37 @@
       "Number": 700,
       "ReferenceID": 21601,
       "ReferenceType": "CAND",
-      "Value": 774
+      "Value": 803
     },
     {
       "Number": 701,
       "ReferenceID": 21603,
       "ReferenceType": "CAND",
-      "Value": 1282
+      "Value": 1300
     },
     {
       "Number": 702,
       "ReferenceID": 21604,
       "ReferenceType": "CAND",
-      "Value": 874
+      "Value": 889
     },
     {
       "Number": 703,
       "ReferenceID": 21598,
       "ReferenceType": "CAND",
-      "Value": 1633
+      "Value": 1655
     },
     {
       "Number": 704,
       "ReferenceID": 21599,
       "ReferenceType": "CAND",
-      "Value": 1464
+      "Value": 1488
     },
     {
       "Number": 705,
       "ReferenceID": 21460,
       "ReferenceType": "CAND",
-      "Value": 999
+      "Value": 1025
     },
     {
       "Number": 706,
@@ -4240,7 +4240,7 @@
       "Number": 708,
       "ReferenceID": 21462,
       "ReferenceType": "CAND",
-      "Value": 802
+      "Value": 824
     },
     {
       "Number": 709,
@@ -4252,7 +4252,7 @@
       "Number": 710,
       "ReferenceID": 21466,
       "ReferenceType": "CAND",
-      "Value": 1502
+      "Value": 1523
     },
     {
       "Number": 711,
@@ -4294,7 +4294,7 @@
       "Number": 717,
       "ReferenceID": 21836,
       "ReferenceType": "CAND",
-      "Value": 698
+      "Value": 699
     },
     {
       "Number": 718,
@@ -4378,13 +4378,13 @@
       "Number": 732,
       "ReferenceID": 21395,
       "ReferenceType": "CAND",
-      "Value": 592
+      "Value": 628
     },
     {
       "Number": 733,
       "ReferenceID": 21396,
       "ReferenceType": "CAND",
-      "Value": 1081
+      "Value": 1131
     },
     {
       "Number": 735,
@@ -4396,7 +4396,7 @@
       "Number": 736,
       "ReferenceID": 21452,
       "ReferenceType": "CAND",
-      "Value": 391
+      "Value": 499
     },
     {
       "Number": 737,
@@ -4414,7 +4414,7 @@
       "Number": 739,
       "ReferenceID": 21450,
       "ReferenceType": "CAND",
-      "Value": 925
+      "Value": 1161
     },
     {
       "Number": 740,
@@ -4426,25 +4426,25 @@
       "Number": 741,
       "ReferenceID": 21496,
       "ReferenceType": "CAND",
-      "Value": 4821
+      "Value": 5813
     },
     {
       "Number": 742,
       "ReferenceID": 21495,
       "ReferenceType": "CAND",
-      "Value": 3364
+      "Value": 3858
     },
     {
       "Number": 743,
       "ReferenceID": 21497,
       "ReferenceType": "CAND",
-      "Value": 4415
+      "Value": 5184
     },
     {
       "Number": 744,
       "ReferenceID": 21498,
       "ReferenceType": "CAND",
-      "Value": 4818
+      "Value": 5283
     },
     {
       "Number": 745,
@@ -4462,7 +4462,7 @@
       "Number": 747,
       "ReferenceID": 21853,
       "ReferenceType": "CAND",
-      "Value": 21303
+      "Value": 21316
     },
     {
       "Number": 748,
@@ -4540,7 +4540,7 @@
       "Number": 760,
       "ReferenceID": 21738,
       "ReferenceType": "CAND",
-      "Value": 1290
+      "Value": 1299
     },
     {
       "Number": 761,
@@ -4582,7 +4582,7 @@
       "Number": 767,
       "ReferenceID": 21492,
       "ReferenceType": "CAND",
-      "Value": 1452
+      "Value": 1453
     },
     {
       "Number": 768,
@@ -4594,7 +4594,7 @@
       "Number": 769,
       "ReferenceID": 21489,
       "ReferenceType": "CAND",
-      "Value": 1641
+      "Value": 1645
     },
     {
       "Number": 770,
@@ -4624,19 +4624,19 @@
       "Number": 774,
       "ReferenceID": 21534,
       "ReferenceType": "CAND",
-      "Value": 625
+      "Value": 636
     },
     {
       "Number": 775,
       "ReferenceID": 21538,
       "ReferenceType": "CAND",
-      "Value": 280
+      "Value": 284
     },
     {
       "Number": 776,
       "ReferenceID": 21535,
       "ReferenceType": "CAND",
-      "Value": 626
+      "Value": 640
     },
     {
       "Number": 777,
@@ -4702,7 +4702,7 @@
       "Number": 787,
       "ReferenceID": 21721,
       "ReferenceType": "CAND",
-      "Value": 303
+      "Value": 306
     },
     {
       "Number": 788,
@@ -4714,13 +4714,13 @@
       "Number": 789,
       "ReferenceID": 21715,
       "ReferenceType": "CAND",
-      "Value": 290
+      "Value": 293
     },
     {
       "Number": 790,
       "ReferenceID": 21717,
       "ReferenceType": "CAND",
-      "Value": 205
+      "Value": 206
     },
     {
       "Number": 791,
@@ -4738,7 +4738,7 @@
       "Number": 793,
       "ReferenceID": 21724,
       "ReferenceType": "CAND",
-      "Value": 19
+      "Value": 20
     },
     {
       "Number": 794,
@@ -4750,13 +4750,13 @@
       "Number": 795,
       "ReferenceID": 21558,
       "ReferenceType": "CAND",
-      "Value": 803
+      "Value": 806
     },
     {
       "Number": 796,
       "ReferenceID": 21560,
       "ReferenceType": "CAND",
-      "Value": 679
+      "Value": 680
     },
     {
       "Number": 797,
@@ -4780,25 +4780,25 @@
       "Number": 800,
       "ReferenceID": 21562,
       "ReferenceType": "CAND",
-      "Value": 401
+      "Value": 403
     },
     {
       "Number": 801,
       "ReferenceID": 21554,
       "ReferenceType": "CAND",
-      "Value": 655
+      "Value": 657
     },
     {
       "Number": 802,
       "ReferenceID": 21784,
       "ReferenceType": "CAND",
-      "Value": 3672
+      "Value": 3709
     },
     {
       "Number": 803,
       "ReferenceID": 21787,
       "ReferenceType": "CAND",
-      "Value": 3671
+      "Value": 3717
     },
     {
       "Number": 804,
@@ -4822,13 +4822,13 @@
       "Number": 807,
       "ReferenceID": 21747,
       "ReferenceType": "CAND",
-      "Value": 449
+      "Value": 450
     },
     {
       "Number": 808,
       "ReferenceID": 21741,
       "ReferenceType": "CAND",
-      "Value": 967
+      "Value": 971
     },
     {
       "Number": 809,
@@ -4864,7 +4864,7 @@
       "Number": 814,
       "ReferenceID": 21744,
       "ReferenceType": "CAND",
-      "Value": 340
+      "Value": 341
     },
     {
       "Number": 815,
@@ -4876,7 +4876,7 @@
       "Number": 816,
       "ReferenceID": 21402,
       "ReferenceType": "CAND",
-      "Value": 1231
+      "Value": 1425
     },
     {
       "Number": 817,
@@ -4888,7 +4888,7 @@
       "Number": 818,
       "ReferenceID": 21401,
       "ReferenceType": "CAND",
-      "Value": 2026
+      "Value": 2211
     },
     {
       "Number": 819,
@@ -4900,13 +4900,13 @@
       "Number": 820,
       "ReferenceID": 21449,
       "ReferenceType": "CAND",
-      "Value": 2582
+      "Value": 2765
     },
     {
       "Number": 821,
       "ReferenceID": 21455,
       "ReferenceType": "CAND",
-      "Value": 1411
+      "Value": 1531
     },
     {
       "Number": 822,
@@ -4948,7 +4948,7 @@
       "Number": 828,
       "ReferenceID": 21412,
       "ReferenceType": "CAND",
-      "Value": 516
+      "Value": 517
     },
     {
       "Number": 829,
@@ -4960,19 +4960,19 @@
       "Number": 830,
       "ReferenceID": 21589,
       "ReferenceType": "CAND",
-      "Value": 1858
+      "Value": 1908
     },
     {
       "Number": 831,
       "ReferenceID": 21584,
       "ReferenceType": "CAND",
-      "Value": 4771
+      "Value": 4846
     },
     {
       "Number": 832,
       "ReferenceID": 21585,
       "ReferenceType": "CAND",
-      "Value": 1083
+      "Value": 1116
     },
     {
       "Number": 833,
@@ -5014,7 +5014,7 @@
       "Number": 839,
       "ReferenceID": 21761,
       "ReferenceType": "CAND",
-      "Value": 262
+      "Value": 271
     },
     {
       "Number": 840,
@@ -5056,7 +5056,7 @@
       "Number": 846,
       "ReferenceID": 21609,
       "ReferenceType": "CAND",
-      "Value": 925
+      "Value": 985
     },
     {
       "Number": 847,
@@ -5068,7 +5068,7 @@
       "Number": 848,
       "ReferenceID": 21611,
       "ReferenceType": "CAND",
-      "Value": 1251
+      "Value": 1374
     },
     {
       "Number": 849,
@@ -5104,19 +5104,19 @@
       "Number": 854,
       "ReferenceID": 21793,
       "ReferenceType": "CAND",
-      "Value": 1148
+      "Value": 1277
     },
     {
       "Number": 855,
       "ReferenceID": 21790,
       "ReferenceType": "CAND",
-      "Value": 1222
+      "Value": 1386
     },
     {
       "Number": 856,
       "ReferenceID": 21795,
       "ReferenceType": "CAND",
-      "Value": 463
+      "Value": 528
     },
     {
       "Number": 857,
@@ -5134,7 +5134,7 @@
       "Number": 859,
       "ReferenceID": 21789,
       "ReferenceType": "CAND",
-      "Value": 342
+      "Value": 394
     },
     {
       "Number": 860,
@@ -5182,7 +5182,7 @@
       "Number": 867,
       "ReferenceID": 21478,
       "ReferenceType": "CAND",
-      "Value": 15085
+      "Value": 15096
     },
     {
       "Number": 868,
@@ -5200,13 +5200,13 @@
       "Number": 870,
       "ReferenceID": 21798,
       "ReferenceType": "CAND",
-      "Value": 1104
+      "Value": 1112
     },
     {
       "Number": 871,
       "ReferenceID": 21799,
       "ReferenceType": "CAND",
-      "Value": 546
+      "Value": 552
     },
     {
       "Number": 872,
@@ -5218,7 +5218,7 @@
       "Number": 873,
       "ReferenceID": 21801,
       "ReferenceType": "CAND",
-      "Value": 974
+      "Value": 982
     },
     {
       "Number": 874,
@@ -5248,7 +5248,7 @@
       "Number": 878,
       "ReferenceID": 21650,
       "ReferenceType": "CAND",
-      "Value": 6965
+      "Value": 6968
     },
     {
       "Number": 879,
@@ -5260,13 +5260,13 @@
       "Number": 880,
       "ReferenceID": 21651,
       "ReferenceType": "CAND",
-      "Value": 831
+      "Value": 832
     },
     {
       "Number": 881,
       "ReferenceID": 21813,
       "ReferenceType": "CAND",
-      "Value": 4071
+      "Value": 4074
     },
     {
       "Number": 882,
@@ -5314,7 +5314,7 @@
       "Number": 889,
       "ReferenceID": 21824,
       "ReferenceType": "CAND",
-      "Value": 1550
+      "Value": 1551
     },
     {
       "Number": 890,
@@ -5344,13 +5344,13 @@
       "Number": 894,
       "ReferenceID": 21415,
       "ReferenceType": "CAND",
-      "Value": 237
+      "Value": 279
     },
     {
       "Number": 895,
       "ReferenceID": 21413,
       "ReferenceType": "CAND",
-      "Value": 869
+      "Value": 952
     },
     {
       "Number": 896,
@@ -5380,7 +5380,7 @@
       "Number": 900,
       "ReferenceID": 21572,
       "ReferenceType": "CAND",
-      "Value": 1973
+      "Value": 2181
     },
     {
       "Number": 901,
@@ -5392,13 +5392,13 @@
       "Number": 902,
       "ReferenceID": 21575,
       "ReferenceType": "CAND",
-      "Value": 1202
+      "Value": 1353
     },
     {
       "Number": 903,
       "ReferenceID": 21571,
       "ReferenceType": "CAND",
-      "Value": 782
+      "Value": 845
     },
     {
       "Number": 904,
@@ -5410,7 +5410,7 @@
       "Number": 905,
       "ReferenceID": 21621,
       "ReferenceType": "CAND",
-      "Value": 584
+      "Value": 586
     },
     {
       "Number": 906,
@@ -5428,7 +5428,7 @@
       "Number": 908,
       "ReferenceID": 21664,
       "ReferenceType": "CAND",
-      "Value": 841
+      "Value": 859
     },
     {
       "Number": 909,
@@ -5446,7 +5446,7 @@
       "Number": 911,
       "ReferenceID": 21667,
       "ReferenceType": "CAND",
-      "Value": 257
+      "Value": 261
     },
     {
       "Number": 912,
@@ -5470,13 +5470,13 @@
       "Number": 915,
       "ReferenceID": 21699,
       "ReferenceType": "CAND",
-      "Value": 297
+      "Value": 299
     },
     {
       "Number": 916,
       "ReferenceID": 21701,
       "ReferenceType": "CAND",
-      "Value": 1709
+      "Value": 1710
     },
     {
       "Number": 917,
@@ -5488,13 +5488,13 @@
       "Number": 918,
       "ReferenceID": 21693,
       "ReferenceType": "CAND",
-      "Value": 1463
+      "Value": 1465
     },
     {
       "Number": 919,
       "ReferenceID": 21698,
       "ReferenceType": "CAND",
-      "Value": 774
+      "Value": 775
     },
     {
       "Number": 920,
@@ -5530,13 +5530,13 @@
       "Number": 925,
       "ReferenceID": 21694,
       "ReferenceType": "CAND",
-      "Value": 2048
+      "Value": 2049
     },
     {
       "Number": 926,
       "ReferenceID": 21695,
       "ReferenceType": "CAND",
-      "Value": 1400
+      "Value": 1402
     },
     {
       "Number": 927,
@@ -5584,31 +5584,31 @@
       "Number": 934,
       "ReferenceID": 21292,
       "ReferenceType": "CAND",
-      "Value": 704
+      "Value": 706
     },
     {
       "Number": 935,
       "ReferenceID": 20831,
       "ReferenceType": "CAND",
-      "Value": 1597
+      "Value": 1598
     },
     {
       "Number": 936,
       "ReferenceID": 20991,
       "ReferenceType": "CAND",
-      "Value": 610
+      "Value": 636
     },
     {
       "Number": 937,
       "ReferenceID": 21307,
       "ReferenceType": "CAND",
-      "Value": 598
+      "Value": 638
     },
     {
       "Number": 938,
       "ReferenceID": 20971,
       "ReferenceType": "CAND",
-      "Value": 2818
+      "Value": 2964
     },
     {
       "Number": 939,
@@ -5626,7 +5626,7 @@
       "Number": 941,
       "ReferenceID": 20819,
       "ReferenceType": "CAND",
-      "Value": 3872
+      "Value": 4104
     },
     {
       "Number": 942,
@@ -5662,7 +5662,7 @@
       "Number": 947,
       "ReferenceID": 21254,
       "ReferenceType": "CAND",
-      "Value": 4154
+      "Value": 4196
     },
     {
       "Number": 948,
@@ -5680,7 +5680,7 @@
       "Number": 950,
       "ReferenceID": 20974,
       "ReferenceType": "CAND",
-      "Value": 3650
+      "Value": 3672
     },
     {
       "Number": 951,
@@ -5704,7 +5704,7 @@
       "Number": 954,
       "ReferenceID": 20646,
       "ReferenceType": "CAND",
-      "Value": 882
+      "Value": 883
     },
     {
       "Number": 955,
@@ -5740,7 +5740,7 @@
       "Number": 960,
       "ReferenceID": 21000,
       "ReferenceType": "CAND",
-      "Value": 1558
+      "Value": 1560
     },
     {
       "Number": 961,
@@ -5758,7 +5758,7 @@
       "Number": 963,
       "ReferenceID": 20904,
       "ReferenceType": "CAND",
-      "Value": 675
+      "Value": 677
     },
     {
       "Number": 964,
@@ -5788,13 +5788,13 @@
       "Number": 968,
       "ReferenceID": 20799,
       "ReferenceType": "CAND",
-      "Value": 1027
+      "Value": 1114
     },
     {
       "Number": 969,
       "ReferenceID": 20844,
       "ReferenceType": "CAND",
-      "Value": 1160
+      "Value": 1253
     },
     {
       "Number": 970,
@@ -5806,13 +5806,13 @@
       "Number": 971,
       "ReferenceID": 20838,
       "ReferenceType": "CAND",
-      "Value": 1316
+      "Value": 1386
     },
     {
       "Number": 972,
       "ReferenceID": 20945,
       "ReferenceType": "CAND",
-      "Value": 3567
+      "Value": 3735
     },
     {
       "Number": 973,
@@ -5842,25 +5842,25 @@
       "Number": 977,
       "ReferenceID": 21034,
       "ReferenceType": "CAND",
-      "Value": 865
+      "Value": 890
     },
     {
       "Number": 978,
       "ReferenceID": 21373,
       "ReferenceType": "CAND",
-      "Value": 633
+      "Value": 652
     },
     {
       "Number": 979,
       "ReferenceID": 20705,
       "ReferenceType": "CAND",
-      "Value": 836
+      "Value": 861
     },
     {
       "Number": 980,
       "ReferenceID": 21411,
       "ReferenceType": "CAND",
-      "Value": 607
+      "Value": 627
     },
     {
       "Number": 981,
@@ -5890,7 +5890,7 @@
       "Number": 985,
       "ReferenceID": 20842,
       "ReferenceType": "CAND",
-      "Value": 3499
+      "Value": 3501
     },
     {
       "Number": 986,
@@ -5902,7 +5902,7 @@
       "Number": 987,
       "ReferenceID": 21243,
       "ReferenceType": "CAND",
-      "Value": 735
+      "Value": 737
     },
     {
       "Number": 988,
@@ -5920,19 +5920,19 @@
       "Number": 990,
       "ReferenceID": 21375,
       "ReferenceType": "CAND",
-      "Value": 183
+      "Value": 195
     },
     {
       "Number": 991,
       "ReferenceID": 21366,
       "ReferenceType": "CAND",
-      "Value": 641
+      "Value": 665
     },
     {
       "Number": 992,
       "ReferenceID": 20809,
       "ReferenceType": "CAND",
-      "Value": 586
+      "Value": 602
     },
     {
       "Number": 993,
@@ -5944,19 +5944,19 @@
       "Number": 994,
       "ReferenceID": 21004,
       "ReferenceType": "CAND",
-      "Value": 1407
+      "Value": 1477
     },
     {
       "Number": 995,
       "ReferenceID": 20978,
       "ReferenceType": "CAND",
-      "Value": 207
+      "Value": 220
     },
     {
       "Number": 996,
       "ReferenceID": 21174,
       "ReferenceType": "CAND",
-      "Value": 546
+      "Value": 594
     },
     {
       "Number": 997,
@@ -5992,7 +5992,7 @@
       "Number": 1002,
       "ReferenceID": 21005,
       "ReferenceType": "CAND",
-      "Value": 894
+      "Value": 896
     },
     {
       "Number": 1003,
@@ -6016,7 +6016,7 @@
       "Number": 1006,
       "ReferenceID": 20617,
       "ReferenceType": "CAND",
-      "Value": 3527
+      "Value": 3531
     },
     {
       "Number": 1007,
@@ -6040,7 +6040,7 @@
       "Number": 1010,
       "ReferenceID": 21100,
       "ReferenceType": "CAND",
-      "Value": 2485
+      "Value": 2489
     },
     {
       "Number": 1011,
@@ -6052,7 +6052,7 @@
       "Number": 1012,
       "ReferenceID": 21273,
       "ReferenceType": "CAND",
-      "Value": 1486
+      "Value": 1503
     },
     {
       "Number": 1013,
@@ -6064,7 +6064,7 @@
       "Number": 1014,
       "ReferenceID": 20817,
       "ReferenceType": "CAND",
-      "Value": 2331
+      "Value": 2332
     },
     {
       "Number": 1015,
@@ -6088,7 +6088,7 @@
       "Number": 1018,
       "ReferenceID": 21751,
       "ReferenceType": "CAND",
-      "Value": 1092
+      "Value": 1093
     },
     {
       "Number": 1019,
@@ -6130,13 +6130,13 @@
       "Number": 1025,
       "ReferenceID": 21758,
       "ReferenceType": "CAND",
-      "Value": 3434
+      "Value": 3450
     },
     {
       "Number": 1026,
       "ReferenceID": 21019,
       "ReferenceType": "CAND",
-      "Value": 927
+      "Value": 1082
     },
     {
       "Number": 1027,
@@ -6172,13 +6172,13 @@
       "Number": 1032,
       "ReferenceID": 21803,
       "ReferenceType": "CAND",
-      "Value": 4335
+      "Value": 4338
     },
     {
       "Number": 1033,
       "ReferenceID": 21804,
       "ReferenceType": "CAND",
-      "Value": 7529
+      "Value": 7532
     },
     {
       "Number": 1034,
@@ -6190,7 +6190,7 @@
       "Number": 1035,
       "ReferenceID": 21807,
       "ReferenceType": "CAND",
-      "Value": 7865
+      "Value": 7867
     },
     {
       "Number": 1036,
@@ -6208,7 +6208,7 @@
       "Number": 1038,
       "ReferenceID": 21810,
       "ReferenceType": "CAND",
-      "Value": 4288
+      "Value": 4290
     },
     {
       "Number": 1039,
@@ -6226,7 +6226,7 @@
       "Number": 1041,
       "ReferenceID": 20701,
       "ReferenceType": "CAND",
-      "Value": 1329
+      "Value": 1334
     },
     {
       "Number": 1042,
@@ -6238,7 +6238,7 @@
       "Number": 1043,
       "ReferenceID": 20662,
       "ReferenceType": "CAND",
-      "Value": 916
+      "Value": 920
     },
     {
       "Number": 1044,
@@ -6250,19 +6250,19 @@
       "Number": 1045,
       "ReferenceID": 21842,
       "ReferenceType": "CAND",
-      "Value": 2458
+      "Value": 2463
     },
     {
       "Number": 1046,
       "ReferenceID": 21846,
       "ReferenceType": "CAND",
-      "Value": 669
+      "Value": 671
     },
     {
       "Number": 1047,
       "ReferenceID": 21841,
       "ReferenceType": "CAND",
-      "Value": 425
+      "Value": 427
     },
     {
       "Number": 1048,
@@ -6274,7 +6274,7 @@
       "Number": 1049,
       "ReferenceID": 21844,
       "ReferenceType": "CAND",
-      "Value": 1319
+      "Value": 1324
     },
     {
       "Number": 1050,
@@ -6298,7 +6298,7 @@
       "Number": 1053,
       "ReferenceID": 21229,
       "ReferenceType": "CAND",
-      "Value": 4016
+      "Value": 4018
     },
     {
       "Number": 1054,
@@ -6352,13 +6352,13 @@
       "Number": 1062,
       "ReferenceID": 20678,
       "ReferenceType": "CAND",
-      "Value": 3712
+      "Value": 3718
     },
     {
       "Number": 1063,
       "ReferenceID": 20913,
       "ReferenceType": "CAND",
-      "Value": 4073
+      "Value": 4078
     },
     {
       "Number": 1064,
@@ -6394,7 +6394,7 @@
       "Number": 1069,
       "ReferenceID": 20779,
       "ReferenceType": "CAND",
-      "Value": 2240
+      "Value": 2242
     },
     {
       "Number": 1070,
@@ -6430,7 +6430,7 @@
       "Number": 1075,
       "ReferenceID": 20962,
       "ReferenceType": "CAND",
-      "Value": 2807
+      "Value": 2809
     },
     {
       "Number": 1076,
@@ -6448,7 +6448,7 @@
       "Number": 1078,
       "ReferenceID": 20625,
       "ReferenceType": "CAND",
-      "Value": 6952
+      "Value": 6953
     },
     {
       "Number": 1079,
@@ -6460,7 +6460,7 @@
       "Number": 1080,
       "ReferenceID": 21864,
       "ReferenceType": "CAND",
-      "Value": 22710
+      "Value": 23127
     },
     {
       "Number": 1081,
@@ -6496,19 +6496,19 @@
       "Number": 1086,
       "ReferenceID": 20762,
       "ReferenceType": "CAND",
-      "Value": 2056
+      "Value": 2065
     },
     {
       "Number": 1087,
       "ReferenceID": 20636,
       "ReferenceType": "CAND",
-      "Value": 2354
+      "Value": 2363
     },
     {
       "Number": 1088,
       "ReferenceID": 21064,
       "ReferenceType": "CAND",
-      "Value": 3703
+      "Value": 3722
     },
     {
       "Number": 1089,
@@ -6538,19 +6538,19 @@
       "Number": 1093,
       "ReferenceID": 20602,
       "ReferenceType": "CAND",
-      "Value": 3392
+      "Value": 3547
     },
     {
       "Number": 1094,
       "ReferenceID": 20848,
       "ReferenceType": "CAND",
-      "Value": 2923
+      "Value": 3163
     },
     {
       "Number": 1095,
       "ReferenceID": 20745,
       "ReferenceType": "CAND",
-      "Value": 3948
+      "Value": 4185
     },
     {
       "Number": 1096,
@@ -6574,7 +6574,7 @@
       "Number": 1099,
       "ReferenceID": 20994,
       "ReferenceType": "CAND",
-      "Value": 832
+      "Value": 835
     },
     {
       "Number": 1100,
@@ -6586,19 +6586,19 @@
       "Number": 1101,
       "ReferenceID": 20977,
       "ReferenceType": "CAND",
-      "Value": 750
+      "Value": 762
     },
     {
       "Number": 1102,
       "ReferenceID": 20659,
       "ReferenceType": "CAND",
-      "Value": 511
+      "Value": 519
     },
     {
       "Number": 1103,
       "ReferenceID": 21180,
       "ReferenceType": "CAND",
-      "Value": 1614
+      "Value": 1710
     },
     {
       "Number": 1104,
@@ -6622,19 +6622,19 @@
       "Number": 1107,
       "ReferenceID": 21186,
       "ReferenceType": "CAND",
-      "Value": 1635
+      "Value": 1779
     },
     {
       "Number": 1108,
       "ReferenceID": 21057,
       "ReferenceType": "CAND",
-      "Value": 5526
+      "Value": 6059
     },
     {
       "Number": 1109,
       "ReferenceID": 21211,
       "ReferenceType": "CAND",
-      "Value": 5525
+      "Value": 6064
     },
     {
       "Number": 1110,
@@ -6670,7 +6670,7 @@
       "Number": 1115,
       "ReferenceID": 21237,
       "ReferenceType": "CAND",
-      "Value": 712
+      "Value": 713
     },
     {
       "Number": 1116,
@@ -6682,7 +6682,7 @@
       "Number": 1117,
       "ReferenceID": 20807,
       "ReferenceType": "CAND",
-      "Value": 2898
+      "Value": 2901
     },
     {
       "Number": 1118,
@@ -6700,19 +6700,19 @@
       "Number": 1120,
       "ReferenceID": 20980,
       "ReferenceType": "CAND",
-      "Value": 5054
+      "Value": 5055
     },
     {
       "Number": 1121,
       "ReferenceID": 21061,
       "ReferenceType": "CAND",
-      "Value": 1849
+      "Value": 1850
     },
     {
       "Number": 1122,
       "ReferenceID": 20645,
       "ReferenceType": "CAND",
-      "Value": 3131
+      "Value": 3132
     },
     {
       "Number": 1123,
@@ -6736,19 +6736,19 @@
       "Number": 1126,
       "ReferenceID": 21115,
       "ReferenceType": "CAND",
-      "Value": 595
+      "Value": 623
     },
     {
       "Number": 1127,
       "ReferenceID": 20917,
       "ReferenceType": "CAND",
-      "Value": 434
+      "Value": 443
     },
     {
       "Number": 1128,
       "ReferenceID": 20828,
       "ReferenceType": "CAND",
-      "Value": 866
+      "Value": 879
     },
     {
       "Number": 1129,
@@ -6760,19 +6760,19 @@
       "Number": 1130,
       "ReferenceID": 21176,
       "ReferenceType": "CAND",
-      "Value": 2467
+      "Value": 2470
     },
     {
       "Number": 1131,
       "ReferenceID": 20805,
       "ReferenceType": "CAND",
-      "Value": 2430
+      "Value": 2433
     },
     {
       "Number": 1132,
       "ReferenceID": 21056,
       "ReferenceType": "CAND",
-      "Value": 1216
+      "Value": 1233
     },
     {
       "Number": 1133,
@@ -6838,7 +6838,7 @@
       "Number": 1143,
       "ReferenceID": 20696,
       "ReferenceType": "CAND",
-      "Value": 3964
+      "Value": 3968
     },
     {
       "Number": 1144,
@@ -6850,7 +6850,7 @@
       "Number": 1145,
       "ReferenceID": 20759,
       "ReferenceType": "CAND",
-      "Value": 4167
+      "Value": 4176
     },
     {
       "Number": 1146,
@@ -6928,7 +6928,7 @@
       "Number": 1158,
       "ReferenceID": 20782,
       "ReferenceType": "CAND",
-      "Value": 1924
+      "Value": 1925
     },
     {
       "Number": 1159,
@@ -6958,19 +6958,19 @@
       "Number": 1163,
       "ReferenceID": 20931,
       "ReferenceType": "CAND",
-      "Value": 2807
+      "Value": 2819
     },
     {
       "Number": 1164,
       "ReferenceID": 21306,
       "ReferenceType": "CAND",
-      "Value": 2286
+      "Value": 2299
     },
     {
       "Number": 1165,
       "ReferenceID": 21158,
       "ReferenceType": "CAND",
-      "Value": 457
+      "Value": 471
     },
     {
       "Number": 1166,
@@ -6982,7 +6982,7 @@
       "Number": 1167,
       "ReferenceID": 20934,
       "ReferenceType": "CAND",
-      "Value": 812
+      "Value": 837
     },
     {
       "Number": 1168,
@@ -7000,13 +7000,13 @@
       "Number": 1170,
       "ReferenceID": 20903,
       "ReferenceType": "CAND",
-      "Value": 1164
+      "Value": 1185
     },
     {
       "Number": 1171,
       "ReferenceID": 20955,
       "ReferenceType": "CAND",
-      "Value": 469
+      "Value": 475
     },
     {
       "Number": 1172,
@@ -7030,25 +7030,25 @@
       "Number": 1175,
       "ReferenceID": 20622,
       "ReferenceType": "CAND",
-      "Value": 985
+      "Value": 989
     },
     {
       "Number": 1176,
       "ReferenceID": 21244,
       "ReferenceType": "CAND",
-      "Value": 308
+      "Value": 326
     },
     {
       "Number": 1177,
       "ReferenceID": 20616,
       "ReferenceType": "CAND",
-      "Value": 142
+      "Value": 148
     },
     {
       "Number": 1178,
       "ReferenceID": 20613,
       "ReferenceType": "CAND",
-      "Value": 243
+      "Value": 255
     },
     {
       "Number": 1179,
@@ -7072,7 +7072,7 @@
       "Number": 1182,
       "ReferenceID": 21217,
       "ReferenceType": "CAND",
-      "Value": 887
+      "Value": 888
     },
     {
       "Number": 1183,
@@ -7096,7 +7096,7 @@
       "Number": 1186,
       "ReferenceID": 21111,
       "ReferenceType": "CAND",
-      "Value": 1801
+      "Value": 1806
     },
     {
       "Number": 1187,
@@ -7108,7 +7108,7 @@
       "Number": 1188,
       "ReferenceID": 21269,
       "ReferenceType": "CAND",
-      "Value": 709
+      "Value": 716
     },
     {
       "Number": 1189,
@@ -7198,7 +7198,7 @@
       "Number": 1203,
       "ReferenceID": 21661,
       "ReferenceType": "CAND",
-      "Value": 9079
+      "Value": 9081
     },
     {
       "Number": 1204,
@@ -7210,7 +7210,7 @@
       "Number": 1205,
       "ReferenceID": 21305,
       "ReferenceType": "CAND",
-      "Value": 75588
+      "Value": 77417
     },
     {
       "Number": 1206,
@@ -7228,19 +7228,19 @@
       "Number": 1208,
       "ReferenceID": 21011,
       "ReferenceType": "CAND",
-      "Value": 127163
+      "Value": 129379
     },
     {
       "Number": 1209,
       "ReferenceID": 20788,
       "ReferenceType": "CAND",
-      "Value": 222495
+      "Value": 225711
     },
     {
       "Number": 1210,
       "ReferenceID": 20699,
       "ReferenceType": "CAND",
-      "Value": 68727
+      "Value": 69888
     },
     {
       "Number": 1211,
@@ -7252,7 +7252,7 @@
       "Number": 1212,
       "ReferenceID": 20756,
       "ReferenceType": "CAND",
-      "Value": 108361
+      "Value": 110830
     },
     {
       "Number": 1213,
@@ -7264,7 +7264,7 @@
       "Number": 1214,
       "ReferenceID": 21252,
       "ReferenceType": "CAND",
-      "Value": 47027
+      "Value": 48194
     },
     {
       "Number": 1215,
@@ -7294,7 +7294,7 @@
       "Number": 1219,
       "ReferenceID": 20918,
       "ReferenceType": "CAND",
-      "Value": 2022
+      "Value": 2046
     },
     {
       "Number": 1220,
@@ -7306,19 +7306,19 @@
       "Number": 1221,
       "ReferenceID": 20941,
       "ReferenceType": "CAND",
-      "Value": 4304
+      "Value": 4315
     },
     {
       "Number": 1222,
       "ReferenceID": 21309,
       "ReferenceType": "CAND",
-      "Value": 3086
+      "Value": 3093
     },
     {
       "Number": 1223,
       "ReferenceID": 21383,
       "ReferenceType": "CAND",
-      "Value": 2829
+      "Value": 2836
     },
     {
       "Number": 1224,
@@ -7330,13 +7330,13 @@
       "Number": 1225,
       "ReferenceID": 21684,
       "ReferenceType": "CAND",
-      "Value": 1968
+      "Value": 1974
     },
     {
       "Number": 1226,
       "ReferenceID": 21683,
       "ReferenceType": "CAND",
-      "Value": 2095
+      "Value": 2103
     },
     {
       "Number": 1227,
@@ -7366,7 +7366,7 @@
       "Number": 1231,
       "ReferenceID": 21532,
       "ReferenceType": "CAND",
-      "Value": 3851
+      "Value": 3854
     },
     {
       "Number": 1232,
@@ -7390,7 +7390,7 @@
       "Number": 1235,
       "ReferenceID": 21771,
       "ReferenceType": "CAND",
-      "Value": 774
+      "Value": 1044
     },
     {
       "Number": 1236,
@@ -7402,31 +7402,31 @@
       "Number": 1237,
       "ReferenceID": 21764,
       "ReferenceType": "CAND",
-      "Value": 7127
+      "Value": 7996
     },
     {
       "Number": 1238,
       "ReferenceID": 21774,
       "ReferenceType": "CAND",
-      "Value": 1894
+      "Value": 2353
     },
     {
       "Number": 1239,
       "ReferenceID": 21502,
       "ReferenceType": "CAND",
-      "Value": 3031
+      "Value": 3070
     },
     {
       "Number": 1240,
       "ReferenceID": 21501,
       "ReferenceType": "CAND",
-      "Value": 2490
+      "Value": 2512
     },
     {
       "Number": 1241,
       "ReferenceID": 21509,
       "ReferenceType": "CAND",
-      "Value": 2127
+      "Value": 2149
     },
     {
       "Number": 1242,
@@ -7444,7 +7444,7 @@
       "Number": 1244,
       "ReferenceID": 21597,
       "ReferenceType": "CAND",
-      "Value": 1716
+      "Value": 1758
     },
     {
       "Number": 1245,
@@ -7456,7 +7456,7 @@
       "Number": 1246,
       "ReferenceID": 21595,
       "ReferenceType": "CAND",
-      "Value": 2396
+      "Value": 2449
     },
     {
       "Number": 1247,
@@ -7468,13 +7468,13 @@
       "Number": 1248,
       "ReferenceID": 21540,
       "ReferenceType": "CAND",
-      "Value": 1068
+      "Value": 1090
     },
     {
       "Number": 1249,
       "ReferenceID": 21718,
       "ReferenceType": "CAND",
-      "Value": 2516
+      "Value": 2528
     },
     {
       "Number": 1250,
@@ -7486,7 +7486,7 @@
       "Number": 1251,
       "ReferenceID": 21561,
       "ReferenceType": "CAND",
-      "Value": 2636
+      "Value": 2649
     },
     {
       "Number": 1252,
@@ -7540,19 +7540,19 @@
       "Number": 1260,
       "ReferenceID": 21657,
       "ReferenceType": "CAND",
-      "Value": 8044
+      "Value": 8047
     },
     {
       "Number": 1261,
       "ReferenceID": 21658,
       "ReferenceType": "CAND",
-      "Value": 6891
+      "Value": 6895
     },
     {
       "Number": 1262,
       "ReferenceID": 21416,
       "ReferenceType": "CAND",
-      "Value": 1228
+      "Value": 1357
     },
     {
       "Number": 1263,
@@ -7570,7 +7570,7 @@
       "Number": 1265,
       "ReferenceID": 21578,
       "ReferenceType": "CAND",
-      "Value": 2397
+      "Value": 2649
     },
     {
       "Number": 1266,
@@ -7582,7 +7582,7 @@
       "Number": 1267,
       "ReferenceID": 21624,
       "ReferenceType": "CAND",
-      "Value": 1258
+      "Value": 1259
     },
     {
       "Number": 1268,
@@ -7600,7 +7600,7 @@
       "Number": 1270,
       "ReferenceID": 21671,
       "ReferenceType": "CAND",
-      "Value": 1403
+      "Value": 1426
     },
     {
       "Number": 1271,
@@ -7624,13 +7624,13 @@
       "Number": 1274,
       "ReferenceID": 20462,
       "ReferenceType": "CAND",
-      "Value": 26505
+      "Value": 26528
     },
     {
       "Number": 1275,
       "ReferenceID": 20464,
       "ReferenceType": "CAND",
-      "Value": 21067
+      "Value": 21169
     },
     {
       "Number": 1276,
@@ -7654,19 +7654,19 @@
       "Number": 1279,
       "ReferenceID": 20467,
       "ReferenceType": "CAND",
-      "Value": 64159
+      "Value": 65780
     },
     {
       "Number": 1280,
       "ReferenceID": 20770,
       "ReferenceType": "CAND",
-      "Value": 16548
+      "Value": 17168
     },
     {
       "Number": 1281,
       "ReferenceID": 20469,
       "ReferenceType": "CAND",
-      "Value": 36382
+      "Value": 36493
     },
     {
       "Number": 1282,
@@ -7678,7 +7678,7 @@
       "Number": 1283,
       "ReferenceID": 20470,
       "ReferenceType": "CAND",
-      "Value": 31876
+      "Value": 33893
     },
     {
       "Number": 1284,
@@ -7690,19 +7690,19 @@
       "Number": 1285,
       "ReferenceID": 20472,
       "ReferenceType": "CAND",
-      "Value": 2797
+      "Value": 2815
     },
     {
       "Number": 1286,
       "ReferenceID": 20473,
       "ReferenceType": "CAND",
-      "Value": 3194
+      "Value": 3221
     },
     {
       "Number": 1287,
       "ReferenceID": 20474,
       "ReferenceType": "CAND",
-      "Value": 6181
+      "Value": 6363
     },
     {
       "Number": 1288,
@@ -7714,7 +7714,7 @@
       "Number": 1289,
       "ReferenceID": 20476,
       "ReferenceType": "CAND",
-      "Value": 4218
+      "Value": 4219
     },
     {
       "Number": 1290,
@@ -7732,7 +7732,7 @@
       "Number": 1292,
       "ReferenceID": 20479,
       "ReferenceType": "CAND",
-      "Value": 10013
+      "Value": 10026
     },
     {
       "Number": 1293,
@@ -7750,7 +7750,7 @@
       "Number": 1295,
       "ReferenceID": 20771,
       "ReferenceType": "CAND",
-      "Value": 19493
+      "Value": 19592
     },
     {
       "Number": 1296,
@@ -7780,7 +7780,7 @@
       "Number": 1300,
       "ReferenceID": 20772,
       "ReferenceType": "CAND",
-      "Value": 7150
+      "Value": 7161
     },
     {
       "Number": 1301,
@@ -7792,7 +7792,7 @@
       "Number": 1302,
       "ReferenceID": 20487,
       "ReferenceType": "CAND",
-      "Value": 19216
+      "Value": 19622
     },
     {
       "Number": 1303,
@@ -7804,13 +7804,13 @@
       "Number": 1304,
       "ReferenceID": 20489,
       "ReferenceType": "CAND",
-      "Value": 17410
+      "Value": 17415
     },
     {
       "Number": 1305,
       "ReferenceID": 20490,
       "ReferenceType": "CAND",
-      "Value": 25146
+      "Value": 25307
     },
     {
       "Number": 1306,
@@ -7840,13 +7840,13 @@
       "Number": 1310,
       "ReferenceID": 20493,
       "ReferenceType": "CAND",
-      "Value": 32334
+      "Value": 32359
     },
     {
       "Number": 1311,
       "ReferenceID": 20496,
       "ReferenceType": "CAND",
-      "Value": 30422
+      "Value": 31700
     },
     {
       "Number": 1312,
@@ -7876,7 +7876,7 @@
       "Number": 1316,
       "ReferenceID": 20499,
       "ReferenceType": "CAND",
-      "Value": 21635
+      "Value": 21727
     },
     {
       "Number": 1317,
@@ -7894,7 +7894,7 @@
       "Number": 1319,
       "ReferenceID": 20502,
       "ReferenceType": "CAND",
-      "Value": 25954
+      "Value": 26422
     },
     {
       "Number": 1320,
@@ -7942,25 +7942,25 @@
       "Number": 1327,
       "ReferenceID": 20510,
       "ReferenceType": "CAND",
-      "Value": 21278
+      "Value": 22507
     },
     {
       "Number": 1328,
       "ReferenceID": 20512,
       "ReferenceType": "CAND",
-      "Value": 10958
+      "Value": 11724
     },
     {
       "Number": 1329,
       "ReferenceID": 20511,
       "ReferenceType": "CAND",
-      "Value": 20915
+      "Value": 22043
     },
     {
       "Number": 1330,
       "ReferenceID": 20513,
       "ReferenceType": "CAND",
-      "Value": 28802
+      "Value": 32038
     },
     {
       "Number": 1331,
@@ -7972,13 +7972,13 @@
       "Number": 1332,
       "ReferenceID": 20515,
       "ReferenceType": "CAND",
-      "Value": 6095
+      "Value": 6281
     },
     {
       "Number": 1333,
       "ReferenceID": 20516,
       "ReferenceType": "CAND",
-      "Value": 5738
+      "Value": 5898
     },
     {
       "Number": 1334,
@@ -7990,7 +7990,7 @@
       "Number": 1335,
       "ReferenceID": 20517,
       "ReferenceType": "CAND",
-      "Value": 27458
+      "Value": 31363
     },
     {
       "Number": 1336,
@@ -8014,7 +8014,7 @@
       "Number": 1339,
       "ReferenceID": 20522,
       "ReferenceType": "CAND",
-      "Value": 4018
+      "Value": 4019
     },
     {
       "Number": 1340,
@@ -8056,7 +8056,7 @@
       "Number": 1346,
       "ReferenceID": 20530,
       "ReferenceType": "CAND",
-      "Value": 23632
+      "Value": 24026
     },
     {
       "Number": 1347,
@@ -8080,7 +8080,7 @@
       "Number": 1350,
       "ReferenceID": 20533,
       "ReferenceType": "CAND",
-      "Value": 72768
+      "Value": 72787
     },
     {
       "Number": 1351,
@@ -8092,7 +8092,7 @@
       "Number": 1352,
       "ReferenceID": 20536,
       "ReferenceType": "CAND",
-      "Value": 23891
+      "Value": 24888
     },
     {
       "Number": 1353,
@@ -8116,13 +8116,13 @@
       "Number": 1356,
       "ReferenceID": 20539,
       "ReferenceType": "CAND",
-      "Value": 37108
+      "Value": 39596
     },
     {
       "Number": 1357,
       "ReferenceID": 20540,
       "ReferenceType": "CAND",
-      "Value": 82158
+      "Value": 83640
     },
     {
       "Number": 1358,
@@ -8134,7 +8134,7 @@
       "Number": 1359,
       "ReferenceID": 20542,
       "ReferenceType": "CAND",
-      "Value": 35966
+      "Value": 36081
     },
     {
       "Number": 1360,
@@ -8182,7 +8182,7 @@
       "Number": 1367,
       "ReferenceID": 20550,
       "ReferenceType": "CAND",
-      "Value": 18147
+      "Value": 20472
     },
     {
       "Number": 1368,
@@ -8206,7 +8206,7 @@
       "Number": 1371,
       "ReferenceID": 21071,
       "ReferenceType": "CAND",
-      "Value": 2602
+      "Value": 2646
     },
     {
       "Number": 1372,
@@ -8224,7 +8224,7 @@
       "Number": 1374,
       "ReferenceID": 21074,
       "ReferenceType": "CAND",
-      "Value": 4748
+      "Value": 4796
     },
     {
       "Number": 1375,
@@ -8236,7 +8236,7 @@
       "Number": 1376,
       "ReferenceID": 21332,
       "ReferenceType": "CAND",
-      "Value": 2687
+      "Value": 2692
     },
     {
       "Number": 1377,
@@ -8254,7 +8254,7 @@
       "Number": 1379,
       "ReferenceID": 20719,
       "ReferenceType": "CAND",
-      "Value": 2274
+      "Value": 2277
     },
     {
       "Number": 1380,
@@ -8272,7 +8272,7 @@
       "Number": 1382,
       "ReferenceID": 21369,
       "ReferenceType": "CAND",
-      "Value": 2375
+      "Value": 2383
     },
     {
       "Number": 1383,
@@ -8302,7 +8302,7 @@
       "Number": 1387,
       "ReferenceID": 20459,
       "ReferenceType": "CAND",
-      "Value": 170
+      "Value": 171
     },
     {
       "Number": 1388,
@@ -8314,7 +8314,7 @@
       "Number": 1389,
       "ReferenceID": 20928,
       "ReferenceType": "CAND",
-      "Value": 1904
+      "Value": 2393
     },
     {
       "Number": 1390,
@@ -8338,7 +8338,7 @@
       "Number": 1393,
       "ReferenceID": 21197,
       "ReferenceType": "CAND",
-      "Value": 335
+      "Value": 339
     },
     {
       "Number": 1394,
@@ -8356,7 +8356,7 @@
       "Number": 1396,
       "ReferenceID": 21126,
       "ReferenceType": "CAND",
-      "Value": 2378
+      "Value": 2437
     },
     {
       "Number": 1397,
@@ -8386,13 +8386,13 @@
       "Number": 1401,
       "ReferenceID": 21133,
       "ReferenceType": "CAND",
-      "Value": 2635
+      "Value": 2637
     },
     {
       "Number": 1402,
       "ReferenceID": 21130,
       "ReferenceType": "CAND",
-      "Value": 3072
+      "Value": 3075
     },
     {
       "Number": 1403,
@@ -8410,7 +8410,7 @@
       "Number": 1405,
       "ReferenceID": 21077,
       "ReferenceType": "CAND",
-      "Value": 5767
+      "Value": 7223
     },
     {
       "Number": 1406,
@@ -8464,7 +8464,7 @@
       "Number": 1414,
       "ReferenceID": 21080,
       "ReferenceType": "CAND",
-      "Value": 1104
+      "Value": 1108
     },
     {
       "Number": 1415,
@@ -8494,19 +8494,19 @@
       "Number": 1419,
       "ReferenceID": 20722,
       "ReferenceType": "CAND",
-      "Value": 1915
+      "Value": 1971
     },
     {
       "Number": 1420,
       "ReferenceID": 20725,
       "ReferenceType": "CAND",
-      "Value": 973
+      "Value": 999
     },
     {
       "Number": 1421,
       "ReferenceID": 20726,
       "ReferenceType": "CAND",
-      "Value": 2592
+      "Value": 2648
     },
     {
       "Number": 1422,
@@ -8542,13 +8542,13 @@
       "Number": 1427,
       "ReferenceID": 21363,
       "ReferenceType": "CAND",
-      "Value": 1039
+      "Value": 1318
     },
     {
       "Number": 1428,
       "ReferenceID": 20925,
       "ReferenceType": "CAND",
-      "Value": 5465
+      "Value": 5492
     },
     {
       "Number": 1429,
@@ -8560,7 +8560,7 @@
       "Number": 1430,
       "ReferenceID": 21340,
       "ReferenceType": "CAND",
-      "Value": 33781
+      "Value": 37997
     },
     {
       "Number": 1431,
@@ -8584,7 +8584,7 @@
       "Number": 1434,
       "ReferenceID": 21346,
       "ReferenceType": "CAND",
-      "Value": 29646
+      "Value": 33039
     },
     {
       "Number": 1435,
@@ -8608,7 +8608,7 @@
       "Number": 1438,
       "ReferenceID": 20948,
       "ReferenceType": "CAND",
-      "Value": 131002
+      "Value": 132318
     },
     {
       "Number": 1439,
@@ -8656,7 +8656,7 @@
       "Number": 1446,
       "ReferenceID": 20742,
       "ReferenceType": "CAND",
-      "Value": 1695
+      "Value": 1699
     },
     {
       "Number": 1447,
@@ -8668,7 +8668,7 @@
       "Number": 1448,
       "ReferenceID": 21209,
       "ReferenceType": "CAND",
-      "Value": 5325
+      "Value": 5329
     },
     {
       "Number": 1449,
@@ -8698,13 +8698,13 @@
       "Number": 1453,
       "ReferenceID": 20851,
       "ReferenceType": "CAND",
-      "Value": 3434
+      "Value": 3459
     },
     {
       "Number": 1454,
       "ReferenceID": 21350,
       "ReferenceType": "CAND",
-      "Value": 9988
+      "Value": 10028
     },
     {
       "Number": 1455,
@@ -8722,13 +8722,13 @@
       "Number": 1457,
       "ReferenceID": 21097,
       "ReferenceType": "CAND",
-      "Value": 974
+      "Value": 1101
     },
     {
       "Number": 1458,
       "ReferenceID": 21094,
       "ReferenceType": "CAND",
-      "Value": 3818
+      "Value": 4155
     },
     {
       "Number": 1459,
@@ -8746,7 +8746,7 @@
       "Number": 1461,
       "ReferenceID": 21137,
       "ReferenceType": "CAND",
-      "Value": 2227
+      "Value": 2230
     },
     {
       "Number": 1462,
@@ -8758,7 +8758,7 @@
       "Number": 1463,
       "ReferenceID": 21140,
       "ReferenceType": "CAND",
-      "Value": 2187
+      "Value": 2189
     },
     {
       "Number": 1464,
@@ -8776,7 +8776,7 @@
       "Number": 1466,
       "ReferenceID": 21143,
       "ReferenceType": "CAND",
-      "Value": 5703
+      "Value": 5712
     },
     {
       "Number": 1467,
@@ -8794,7 +8794,7 @@
       "Number": 1469,
       "ReferenceID": 21146,
       "ReferenceType": "CAND",
-      "Value": 2208
+      "Value": 2210
     },
     {
       "Number": 1470,
@@ -8806,7 +8806,7 @@
       "Number": 1471,
       "ReferenceID": 21148,
       "ReferenceType": "CAND",
-      "Value": 1792
+      "Value": 1793
     },
     {
       "Number": 1472,
@@ -8830,13 +8830,13 @@
       "Number": 1475,
       "ReferenceID": 21152,
       "ReferenceType": "CAND",
-      "Value": 1928
+      "Value": 1929
     },
     {
       "Number": 1476,
       "ReferenceID": 21352,
       "ReferenceType": "CAND",
-      "Value": 4457
+      "Value": 4463
     },
     {
       "Number": 1477,
@@ -8878,13 +8878,13 @@
       "Number": 1483,
       "ReferenceID": 20751,
       "ReferenceType": "CAND",
-      "Value": 6709
+      "Value": 6713
     },
     {
       "Number": 1484,
       "ReferenceID": 21103,
       "ReferenceType": "CAND",
-      "Value": 7998
+      "Value": 8001
     },
     {
       "Number": 1485,
@@ -8896,7 +8896,7 @@
       "Number": 1486,
       "ReferenceID": 21105,
       "ReferenceType": "CAND",
-      "Value": 4663
+      "Value": 4668
     },
     {
       "Number": 1487,
@@ -8920,13 +8920,13 @@
       "Number": 1490,
       "ReferenceID": 21354,
       "ReferenceType": "CAND",
-      "Value": 9391
+      "Value": 9396
     },
     {
       "Number": 1491,
       "ReferenceID": 21355,
       "ReferenceType": "CAND",
-      "Value": 4364
+      "Value": 4367
     },
     {
       "Number": 1492,
@@ -8974,7 +8974,7 @@
       "Number": 1499,
       "ReferenceID": 21205,
       "ReferenceType": "CAND",
-      "Value": 387
+      "Value": 405
     },
     {
       "Number": 1500,
@@ -8986,7 +8986,7 @@
       "Number": 1501,
       "ReferenceID": 21203,
       "ReferenceType": "CAND",
-      "Value": 483
+      "Value": 501
     },
     {
       "Number": 1502,
@@ -9004,7 +9004,7 @@
       "Number": 1504,
       "ReferenceID": 21120,
       "ReferenceType": "CAND",
-      "Value": 3473
+      "Value": 3476
     },
     {
       "Number": 1505,
@@ -9016,19 +9016,19 @@
       "Number": 1506,
       "ReferenceID": 21322,
       "ReferenceType": "CAND",
-      "Value": 5312
+      "Value": 6459
     },
     {
       "Number": 1507,
       "ReferenceID": 21323,
       "ReferenceType": "CAND",
-      "Value": 4162
+      "Value": 5186
     },
     {
       "Number": 1508,
       "ReferenceID": 21326,
       "ReferenceType": "CAND",
-      "Value": 4120
+      "Value": 4189
     },
     {
       "Number": 1509,
@@ -9052,7 +9052,7 @@
       "Number": 1512,
       "ReferenceID": 20456,
       "ReferenceType": "CAND",
-      "Value": 2917
+      "Value": 3158
     },
     {
       "Number": 1513,
@@ -9064,7 +9064,7 @@
       "Number": 1514,
       "ReferenceID": 21206,
       "ReferenceType": "CAND",
-      "Value": 31812
+      "Value": 35438
     },
     {
       "Number": 1515,
@@ -9130,13 +9130,13 @@
       "Number": 1525,
       "ReferenceID": 21329,
       "ReferenceType": "CAND",
-      "Value": 3694
+      "Value": 3697
     },
     {
       "Number": 1526,
       "ReferenceID": 21320,
       "ReferenceType": "CAND",
-      "Value": 23324
+      "Value": 24911
     },
     {
       "Number": 1527,
@@ -9172,19 +9172,19 @@
       "Number": 1532,
       "ReferenceID": 21200,
       "ReferenceType": "CAND",
-      "Value": 295542
+      "Value": 300092
     },
     {
       "Number": 1533,
       "ReferenceID": 21201,
       "ReferenceType": "CAND",
-      "Value": 182876
+      "Value": 186186
     },
     {
       "Number": 1534,
       "ReferenceID": 21051,
       "ReferenceType": "CAND",
-      "Value": 2412
+      "Value": 2415
     },
     {
       "Number": 1535,
@@ -9196,7 +9196,7 @@
       "Number": 1536,
       "ReferenceID": 20760,
       "ReferenceType": "CAND",
-      "Value": 12043
+      "Value": 12045
     },
     {
       "Number": 1537,
@@ -9214,7 +9214,7 @@
       "Number": 1539,
       "ReferenceID": 20623,
       "ReferenceType": "CAND",
-      "Value": 7000
+      "Value": 7003
     },
     {
       "Number": 1540,
@@ -9238,7 +9238,7 @@
       "Number": 1543,
       "ReferenceID": 21091,
       "ReferenceType": "CAND",
-      "Value": 8802
+      "Value": 8808
     },
     {
       "Number": 1544,
@@ -9250,7 +9250,7 @@
       "Number": 1545,
       "ReferenceID": 21040,
       "ReferenceType": "CAND",
-      "Value": 13242
+      "Value": 13820
     },
     {
       "Number": 1546,
@@ -9280,7 +9280,7 @@
       "Number": 1550,
       "ReferenceID": 21066,
       "ReferenceType": "CAND",
-      "Value": 1115
+      "Value": 1116
     },
     {
       "Number": 1551,
@@ -9316,13 +9316,13 @@
       "Number": 1556,
       "ReferenceID": 21114,
       "ReferenceType": "CAND",
-      "Value": 5496
+      "Value": 5501
     },
     {
       "Number": 1557,
       "ReferenceID": 20599,
       "ReferenceType": "CAND",
-      "Value": 7712
+      "Value": 7820
     },
     {
       "Number": 1558,
@@ -9352,19 +9352,19 @@
       "Number": 1562,
       "ReferenceID": 21272,
       "ReferenceType": "CAND",
-      "Value": 9500
+      "Value": 10396
     },
     {
       "Number": 1563,
       "ReferenceID": 20731,
       "ReferenceType": "CAND",
-      "Value": 14090
+      "Value": 14127
     },
     {
       "Number": 1564,
       "ReferenceID": 20990,
       "ReferenceType": "CAND",
-      "Value": 7060
+      "Value": 7092
     },
     {
       "Number": 1565,
@@ -9394,13 +9394,13 @@
       "Number": 1569,
       "ReferenceID": 21258,
       "ReferenceType": "CAND",
-      "Value": 16110
+      "Value": 17617
     },
     {
       "Number": 1570,
       "ReferenceID": 20639,
       "ReferenceType": "CAND",
-      "Value": 16390
+      "Value": 18557
     },
     {
       "Number": 1571,
@@ -9472,7 +9472,7 @@
       "Number": 1582,
       "ReferenceID": 21010,
       "ReferenceType": "CAND",
-      "Value": 5632
+      "Value": 5634
     },
     {
       "Number": 1583,
@@ -9484,7 +9484,7 @@
       "Number": 1584,
       "ReferenceID": 21028,
       "ReferenceType": "CAND",
-      "Value": 1613
+      "Value": 1615
     },
     {
       "Number": 1585,
@@ -9532,7 +9532,7 @@
       "Number": 1592,
       "ReferenceID": 21286,
       "ReferenceType": "CAND",
-      "Value": 119
+      "Value": 120
     },
     {
       "Number": 1593,
@@ -9580,13 +9580,13 @@
       "Number": 1600,
       "ReferenceID": 20573,
       "ReferenceType": "CAND",
-      "Value": 576885
+      "Value": 590101
     },
     {
       "Number": 1601,
       "ReferenceID": 20576,
       "ReferenceType": "CAND",
-      "Value": 475122
+      "Value": 487108
     },
     {
       "Number": 1602,
@@ -9616,13 +9616,13 @@
       "Number": 1606,
       "ReferenceID": 20579,
       "ReferenceType": "CAND",
-      "Value": 468008
+      "Value": 479173
     },
     {
       "Number": 1607,
       "ReferenceID": 20582,
       "ReferenceType": "CAND",
-      "Value": 479225
+      "Value": 489122
     },
     {
       "Number": 1608,
@@ -9652,25 +9652,25 @@
       "Number": 1612,
       "ReferenceID": 20585,
       "ReferenceType": "CAND",
-      "Value": 461112
+      "Value": 471812
     },
     {
       "Number": 1613,
       "ReferenceID": 21153,
       "ReferenceType": "CAND",
-      "Value": 693249
+      "Value": 709498
     },
     {
       "Number": 1614,
       "ReferenceID": 21154,
       "ReferenceType": "CAND",
-      "Value": 281580
+      "Value": 292560
     },
     {
       "Number": 1615,
       "ReferenceID": 21263,
       "ReferenceType": "CAND",
-      "Value": 579633
+      "Value": 592626
     },
     {
       "Number": 1616,
@@ -9688,7 +9688,7 @@
       "Number": 1618,
       "ReferenceID": 20553,
       "ReferenceType": "CAND",
-      "Value": 690346
+      "Value": 704426
     },
     {
       "Number": 1619,
@@ -9700,7 +9700,7 @@
       "Number": 1620,
       "ReferenceID": 20556,
       "ReferenceType": "CAND",
-      "Value": 666867
+      "Value": 680526
     },
     {
       "Number": 1621,
@@ -9712,7 +9712,7 @@
       "Number": 1622,
       "ReferenceID": 20558,
       "ReferenceType": "CAND",
-      "Value": 673957
+      "Value": 687955
     },
     {
       "Number": 1623,
@@ -9724,13 +9724,13 @@
       "Number": 1624,
       "ReferenceID": 20559,
       "ReferenceType": "CAND",
-      "Value": 388442
+      "Value": 402882
     },
     {
       "Number": 1625,
       "ReferenceID": 20562,
       "ReferenceType": "CAND",
-      "Value": 660475
+      "Value": 673945
     },
     {
       "Number": 1626,
@@ -9742,13 +9742,13 @@
       "Number": 1627,
       "ReferenceID": 20564,
       "ReferenceType": "CAND",
-      "Value": 664160
+      "Value": 678019
     },
     {
       "Number": 1628,
       "ReferenceID": 20563,
       "ReferenceType": "CAND",
-      "Value": 336436
+      "Value": 350298
     },
     {
       "Number": 1629,
@@ -9772,7 +9772,7 @@
       "Number": 1632,
       "ReferenceID": 20568,
       "ReferenceType": "CAND",
-      "Value": 271961
+      "Value": 283556
     },
     {
       "Number": 1633,
@@ -9784,13 +9784,13 @@
       "Number": 1634,
       "ReferenceID": 20570,
       "ReferenceType": "CAND",
-      "Value": 585069
+      "Value": 596975
     },
     {
       "Number": 1635,
       "ReferenceID": 20679,
       "ReferenceType": "CAND",
-      "Value": 719283
+      "Value": 734788
     },
     {
       "Number": 1636,
@@ -9808,7 +9808,7 @@
       "Number": 1638,
       "ReferenceID": 20682,
       "ReferenceType": "CAND",
-      "Value": 675254
+      "Value": 692963
     },
     {
       "Number": 1639,
@@ -9826,7 +9826,7 @@
       "Number": 1641,
       "ReferenceID": 20686,
       "ReferenceType": "CAND",
-      "Value": 674305
+      "Value": 690914
     },
     {
       "Number": 1642,
@@ -9838,7 +9838,7 @@
       "Number": 1643,
       "ReferenceID": 20688,
       "ReferenceType": "CAND",
-      "Value": 339000
+      "Value": 349053
     },
     {
       "Number": 1644,
@@ -9886,7 +9886,7 @@
       "Number": 1651,
       "ReferenceID": 20866,
       "ReferenceType": "CAND",
-      "Value": 594180
+      "Value": 607147
     },
     {
       "Number": 1652,
@@ -9904,7 +9904,7 @@
       "Number": 1654,
       "ReferenceID": 20870,
       "ReferenceType": "CAND",
-      "Value": 189173
+      "Value": 197910
     },
     {
       "Number": 1655,
@@ -9934,7 +9934,7 @@
       "Number": 1659,
       "ReferenceID": 20894,
       "ReferenceType": "CAND",
-      "Value": 568352
+      "Value": 580535
     },
     {
       "Number": 1660,
@@ -9958,7 +9958,7 @@
       "Number": 1663,
       "ReferenceID": 20882,
       "ReferenceType": "CAND",
-      "Value": 584823
+      "Value": 598242
     },
     {
       "Number": 1664,
@@ -9970,7 +9970,7 @@
       "Number": 1665,
       "ReferenceID": 20885,
       "ReferenceType": "CAND",
-      "Value": 560218
+      "Value": 572243
     },
     {
       "Number": 1666,
@@ -9982,7 +9982,7 @@
       "Number": 1667,
       "ReferenceID": 20888,
       "ReferenceType": "CAND",
-      "Value": 572081
+      "Value": 584333
     },
     {
       "Number": 1668,
@@ -9994,7 +9994,7 @@
       "Number": 1669,
       "ReferenceID": 20891,
       "ReferenceType": "CAND",
-      "Value": 550854
+      "Value": 562490
     },
     {
       "Number": 1670,
@@ -10006,13 +10006,13 @@
       "Number": 1671,
       "ReferenceID": 20897,
       "ReferenceType": "CAND",
-      "Value": 559917
+      "Value": 571873
     },
     {
       "Number": 1672,
       "ReferenceID": 20898,
       "ReferenceType": "CAND",
-      "Value": 182446
+      "Value": 190762
     },
     {
       "Number": 1673,
@@ -10024,7 +10024,7 @@
       "Number": 1674,
       "ReferenceID": 21300,
       "ReferenceType": "CAND",
-      "Value": 192344
+      "Value": 200849
     },
     {
       "Number": 1675,
@@ -10042,7 +10042,7 @@
       "Number": 1677,
       "ReferenceID": 21781,
       "ReferenceType": "CAND",
-      "Value": 547497
+      "Value": 559270
     },
     {
       "Number": 1678,
@@ -10054,7 +10054,7 @@
       "Number": 1679,
       "ReferenceID": 21778,
       "ReferenceType": "CAND",
-      "Value": 589102
+      "Value": 603063
     },
     {
       "Number": 1680,
@@ -10264,13 +10264,13 @@
       "Number": 1714,
       "ReferenceID": 8641,
       "ReferenceType": "WRTN-01",
-      "Value": 18
+      "Value": 29
     },
     {
       "Number": 1715,
       "ReferenceID": 8642,
       "ReferenceType": "WRTN-01",
-      "Value": 20
+      "Value": 25
     },
     {
       "Number": 1716,
@@ -10420,7 +10420,7 @@
       "Number": 1740,
       "ReferenceID": 8678,
       "ReferenceType": "WRTN-02",
-      "Value": 1
+      "Value": 3
     },
     {
       "Number": 1741,
@@ -10522,7 +10522,7 @@
       "Number": 1757,
       "ReferenceID": 8797,
       "ReferenceType": "WRTN-01",
-      "Value": 10
+      "Value": 16
     },
     {
       "Number": 1758,
@@ -10684,7 +10684,7 @@
       "Number": 1784,
       "ReferenceID": 8594,
       "ReferenceType": "WRTN-03",
-      "Value": 1
+      "Value": 3
     },
     {
       "Number": 1785,
@@ -10774,7 +10774,7 @@
       "Number": 1799,
       "ReferenceID": 8602,
       "ReferenceType": "WRTN-01",
-      "Value": 24
+      "Value": 25
     },
     {
       "Number": 1800,
@@ -10792,7 +10792,7 @@
       "Number": 1802,
       "ReferenceID": 8973,
       "ReferenceType": "WRTN-01",
-      "Value": 5
+      "Value": 6
     },
     {
       "Number": 1803,
@@ -10882,7 +10882,7 @@
       "Number": 1817,
       "ReferenceID": 8608,
       "ReferenceType": "WRTN-01",
-      "Value": 16
+      "Value": 19
     },
     {
       "Number": 1818,
@@ -10930,7 +10930,7 @@
       "Number": 1825,
       "ReferenceID": 8619,
       "ReferenceType": "WRTN-01",
-      "Value": 37
+      "Value": 38
     },
     {
       "Number": 1826,
@@ -11008,19 +11008,19 @@
       "Number": 1838,
       "ReferenceID": 8438,
       "ReferenceType": "WRTN-02",
-      "Value": 19
+      "Value": 20
     },
     {
       "Number": 1839,
       "ReferenceID": 8438,
       "ReferenceType": "WRTN-03",
-      "Value": 7
+      "Value": 8
     },
     {
       "Number": 1840,
       "ReferenceID": 8479,
       "ReferenceType": "WRTN-01",
-      "Value": 59
+      "Value": 60
     },
     {
       "Number": 1841,
@@ -11086,7 +11086,7 @@
       "Number": 1851,
       "ReferenceID": 8518,
       "ReferenceType": "WRTN-01",
-      "Value": 20
+      "Value": 22
     },
     {
       "Number": 1852,
@@ -11290,7 +11290,7 @@
       "Number": 1885,
       "ReferenceID": 8668,
       "ReferenceType": "WRTN-01",
-      "Value": 8
+      "Value": 9
     },
     {
       "Number": 1886,
@@ -11476,7 +11476,7 @@
       "Number": 1916,
       "ReferenceID": 8788,
       "ReferenceType": "WRTN-01",
-      "Value": 22
+      "Value": 24
     },
     {
       "Number": 1917,
@@ -11680,7 +11680,7 @@
       "Number": 1950,
       "ReferenceID": 8453,
       "ReferenceType": "WRTN-01",
-      "Value": 45
+      "Value": 47
     },
     {
       "Number": 1951,
@@ -11788,13 +11788,13 @@
       "Number": 1968,
       "ReferenceID": 8444,
       "ReferenceType": "WRTN-01",
-      "Value": 10
+      "Value": 11
     },
     {
       "Number": 1969,
       "ReferenceID": 8445,
       "ReferenceType": "WRTN-01",
-      "Value": 13
+      "Value": 15
     },
     {
       "Number": 1970,
@@ -11806,7 +11806,7 @@
       "Number": 1971,
       "ReferenceID": 8551,
       "ReferenceType": "WRTN-01",
-      "Value": 83
+      "Value": 98
     },
     {
       "Number": 1972,
@@ -11842,7 +11842,7 @@
       "Number": 1977,
       "ReferenceID": 8516,
       "ReferenceType": "WRTN-01",
-      "Value": 1889
+      "Value": 1925
     },
     {
       "Number": 1978,
@@ -11854,7 +11854,7 @@
       "Number": 1979,
       "ReferenceID": 8528,
       "ReferenceType": "WRTN-01",
-      "Value": 1778
+      "Value": 1811
     },
     {
       "Number": 1980,
@@ -11920,7 +11920,7 @@
       "Number": 1990,
       "ReferenceID": 8640,
       "ReferenceType": "WRTN-01",
-      "Value": 37
+      "Value": 42
     },
     {
       "Number": 1991,
@@ -11944,7 +11944,7 @@
       "Number": 1994,
       "ReferenceID": 8582,
       "ReferenceType": "WRTN-01",
-      "Value": 15
+      "Value": 16
     },
     {
       "Number": 1995,
@@ -11980,7 +11980,7 @@
       "Number": 2000,
       "ReferenceID": 8688,
       "ReferenceType": "WRTN-01",
-      "Value": 2
+      "Value": 4
     },
     {
       "Number": 2001,
@@ -12022,7 +12022,7 @@
       "Number": 2007,
       "ReferenceID": 8685,
       "ReferenceType": "WRTN-01",
-      "Value": 71
+      "Value": 79
     },
     {
       "Number": 2008,
@@ -12046,7 +12046,7 @@
       "Number": 2011,
       "ReferenceID": 8618,
       "ReferenceType": "WRTN-01",
-      "Value": 39
+      "Value": 40
     },
     {
       "Number": 2012,
@@ -12070,19 +12070,19 @@
       "Number": 2015,
       "ReferenceID": 8392,
       "ReferenceType": "WRTN-01",
-      "Value": 152
+      "Value": 161
     },
     {
       "Number": 2016,
       "ReferenceID": 8392,
       "ReferenceType": "WRTN-02",
-      "Value": 32
+      "Value": 34
     },
     {
       "Number": 2017,
       "ReferenceID": 8403,
       "ReferenceType": "WRTN-01",
-      "Value": 100
+      "Value": 106
     },
     {
       "Number": 2018,
@@ -12142,7 +12142,7 @@
       "Number": 2027,
       "ReferenceID": 8425,
       "ReferenceType": "WRTN-01",
-      "Value": 161
+      "Value": 173
     },
     {
       "Number": 2028,
@@ -12238,13 +12238,13 @@
       "Number": 2043,
       "ReferenceID": 8774,
       "ReferenceType": "WRTN-01",
-      "Value": 4451
+      "Value": 4647
     },
     {
       "Number": 2044,
       "ReferenceID": 8775,
       "ReferenceType": "WRTN-01",
-      "Value": 3637
+      "Value": 3806
     },
     {
       "Number": 2045,
@@ -12256,7 +12256,7 @@
       "Number": 2046,
       "ReferenceID": 8777,
       "ReferenceType": "WRTN-01",
-      "Value": 3981
+      "Value": 4087
     },
     {
       "Number": 2047,
@@ -12268,7 +12268,7 @@
       "Number": 2048,
       "ReferenceID": 8779,
       "ReferenceType": "WRTN-01",
-      "Value": 3299
+      "Value": 3412
     },
     {
       "Number": 2049,
@@ -12280,7 +12280,7 @@
       "Number": 2050,
       "ReferenceID": 8712,
       "ReferenceType": "CBLT",
-      "Value": 1051264
+      "Value": 1080132
     },
     {
       "Number": 2051,
@@ -12322,7 +12322,7 @@
       "Number": 2057,
       "ReferenceID": 8780,
       "ReferenceType": "CUV",
-      "Value": 41229
+      "Value": 42058
     },
     {
       "Number": 2058,
@@ -12334,7 +12334,7 @@
       "Number": 2059,
       "ReferenceID": 8780,
       "ReferenceType": "CFV",
-      "Value": 1009782
+      "Value": 1037821
     },
     {
       "Number": 2060,
@@ -12364,7 +12364,7 @@
       "Number": 2064,
       "ReferenceID": 8561,
       "ReferenceType": "CFV",
-      "Value": 3481
+      "Value": 3488
     },
     {
       "Number": 2065,
@@ -12430,7 +12430,7 @@
       "Number": 2075,
       "ReferenceID": 8845,
       "ReferenceType": "CBLT",
-      "Value": 10900
+      "Value": 10935
     },
     {
       "Number": 2076,
@@ -12484,7 +12484,7 @@
       "Number": 2084,
       "ReferenceID": 8795,
       "ReferenceType": "CFV",
-      "Value": 1620
+      "Value": 2100
     },
     {
       "Number": 2085,
@@ -12550,7 +12550,7 @@
       "Number": 2095,
       "ReferenceID": 8848,
       "ReferenceType": "CBLT",
-      "Value": 401128
+      "Value": 404653
     },
     {
       "Number": 2096,
@@ -12592,7 +12592,7 @@
       "Number": 2102,
       "ReferenceID": 8849,
       "ReferenceType": "CUV",
-      "Value": 56162
+      "Value": 56653
     },
     {
       "Number": 2103,
@@ -12604,7 +12604,7 @@
       "Number": 2104,
       "ReferenceID": 8849,
       "ReferenceType": "CFV",
-      "Value": 344728
+      "Value": 347762
     },
     {
       "Number": 2105,
@@ -12640,7 +12640,7 @@
       "Number": 2110,
       "ReferenceID": 8650,
       "ReferenceType": "CBLT",
-      "Value": 1772
+      "Value": 1871
     },
     {
       "Number": 2111,
@@ -12652,7 +12652,7 @@
       "Number": 2112,
       "ReferenceID": 8650,
       "ReferenceType": "CUV",
-      "Value": 152
+      "Value": 159
     },
     {
       "Number": 2113,
@@ -12670,7 +12670,7 @@
       "Number": 2115,
       "ReferenceID": 8692,
       "ReferenceType": "CBLT",
-      "Value": 1605
+      "Value": 1637
     },
     {
       "Number": 2116,
@@ -12700,7 +12700,7 @@
       "Number": 2120,
       "ReferenceID": 8693,
       "ReferenceType": "CBLT",
-      "Value": 1996
+      "Value": 2000
     },
     {
       "Number": 2121,
@@ -12724,7 +12724,7 @@
       "Number": 2124,
       "ReferenceID": 8693,
       "ReferenceType": "CFV",
-      "Value": 1782
+      "Value": 1786
     },
     {
       "Number": 2125,
@@ -12742,7 +12742,7 @@
       "Number": 2127,
       "ReferenceID": 8629,
       "ReferenceType": "CUV",
-      "Value": 134
+      "Value": 135
     },
     {
       "Number": 2128,
@@ -12760,7 +12760,7 @@
       "Number": 2130,
       "ReferenceID": 8630,
       "ReferenceType": "CBLT",
-      "Value": 1152
+      "Value": 1177
     },
     {
       "Number": 2131,
@@ -12802,7 +12802,7 @@
       "Number": 2137,
       "ReferenceID": 8631,
       "ReferenceType": "CUV",
-      "Value": 84
+      "Value": 85
     },
     {
       "Number": 2138,
@@ -12814,13 +12814,13 @@
       "Number": 2139,
       "ReferenceID": 8631,
       "ReferenceType": "CFV",
-      "Value": 1971
+      "Value": 1997
     },
     {
       "Number": 2140,
       "ReferenceID": 8560,
       "ReferenceType": "CBLT",
-      "Value": 1997
+      "Value": 2005
     },
     {
       "Number": 2141,
@@ -12838,13 +12838,13 @@
       "Number": 2143,
       "ReferenceID": 8560,
       "ReferenceType": "CPV",
-      "Value": 1019
+      "Value": 1022
     },
     {
       "Number": 2144,
       "ReferenceID": 8560,
       "ReferenceType": "CFV",
-      "Value": 876
+      "Value": 880
     },
     {
       "Number": 2145,
@@ -12868,7 +12868,7 @@
       "Number": 2148,
       "ReferenceID": 8562,
       "ReferenceType": "CPV",
-      "Value": 1487
+      "Value": 1491
     },
     {
       "Number": 2149,
@@ -12892,7 +12892,7 @@
       "Number": 2152,
       "ReferenceID": 8694,
       "ReferenceType": "CUV",
-      "Value": 784
+      "Value": 786
     },
     {
       "Number": 2153,
@@ -12904,7 +12904,7 @@
       "Number": 2154,
       "ReferenceID": 8694,
       "ReferenceType": "CFV",
-      "Value": 2872
+      "Value": 2879
     },
     {
       "Number": 2155,
@@ -12928,7 +12928,7 @@
       "Number": 2158,
       "ReferenceID": 8566,
       "ReferenceType": "CPV",
-      "Value": 1567
+      "Value": 1572
     },
     {
       "Number": 2159,
@@ -12958,7 +12958,7 @@
       "Number": 2163,
       "ReferenceID": 8874,
       "ReferenceType": "CPV",
-      "Value": 415
+      "Value": 422
     },
     {
       "Number": 2164,
@@ -12970,7 +12970,7 @@
       "Number": 2165,
       "ReferenceID": 8633,
       "ReferenceType": "CBLT",
-      "Value": 1298
+      "Value": 1582
     },
     {
       "Number": 2166,
@@ -12982,7 +12982,7 @@
       "Number": 2167,
       "ReferenceID": 8633,
       "ReferenceType": "CUV",
-      "Value": 120
+      "Value": 160
     },
     {
       "Number": 2168,
@@ -12994,7 +12994,7 @@
       "Number": 2169,
       "ReferenceID": 8633,
       "ReferenceType": "CFV",
-      "Value": 1177
+      "Value": 1421
     },
     {
       "Number": 2170,
@@ -13054,7 +13054,7 @@
       "Number": 2179,
       "ReferenceID": 8638,
       "ReferenceType": "CFV",
-      "Value": 7309
+      "Value": 7313
     },
     {
       "Number": 2180,
@@ -13144,13 +13144,13 @@
       "Number": 2194,
       "ReferenceID": 8642,
       "ReferenceType": "CFV",
-      "Value": 1994
+      "Value": 2452
     },
     {
       "Number": 2195,
       "ReferenceID": 8643,
       "ReferenceType": "CBLT",
-      "Value": 1087
+      "Value": 1090
     },
     {
       "Number": 2196,
@@ -13174,7 +13174,7 @@
       "Number": 2199,
       "ReferenceID": 8643,
       "ReferenceType": "CFV",
-      "Value": 1033
+      "Value": 1036
     },
     {
       "Number": 2200,
@@ -13252,25 +13252,25 @@
       "Number": 2212,
       "ReferenceID": 8568,
       "ReferenceType": "CUV",
-      "Value": 68
+      "Value": 70
     },
     {
       "Number": 2213,
       "ReferenceID": 8568,
       "ReferenceType": "CPV",
-      "Value": 434
+      "Value": 447
     },
     {
       "Number": 2214,
       "ReferenceID": 8568,
       "ReferenceType": "CFV",
-      "Value": 459
+      "Value": 465
     },
     {
       "Number": 2215,
       "ReferenceID": 8569,
       "ReferenceType": "CBLT",
-      "Value": 7127
+      "Value": 7131
     },
     {
       "Number": 2216,
@@ -13330,7 +13330,7 @@
       "Number": 2225,
       "ReferenceID": 8647,
       "ReferenceType": "CBLT",
-      "Value": 1275
+      "Value": 1277
     },
     {
       "Number": 2226,
@@ -13354,7 +13354,7 @@
       "Number": 2229,
       "ReferenceID": 8647,
       "ReferenceType": "CFV",
-      "Value": 1138
+      "Value": 1140
     },
     {
       "Number": 2230,
@@ -13402,7 +13402,7 @@
       "Number": 2237,
       "ReferenceID": 8572,
       "ReferenceType": "CUV",
-      "Value": 172
+      "Value": 229
     },
     {
       "Number": 2238,
@@ -13432,7 +13432,7 @@
       "Number": 2242,
       "ReferenceID": 8574,
       "ReferenceType": "CUV",
-      "Value": 234
+      "Value": 289
     },
     {
       "Number": 2243,
@@ -13444,7 +13444,7 @@
       "Number": 2244,
       "ReferenceID": 8574,
       "ReferenceType": "CFV",
-      "Value": 2615
+      "Value": 3277
     },
     {
       "Number": 2245,
@@ -13480,7 +13480,7 @@
       "Number": 2250,
       "ReferenceID": 8573,
       "ReferenceType": "CBLT",
-      "Value": 475
+      "Value": 476
     },
     {
       "Number": 2251,
@@ -13510,7 +13510,7 @@
       "Number": 2255,
       "ReferenceID": 8576,
       "ReferenceType": "CBLT",
-      "Value": 530
+      "Value": 532
     },
     {
       "Number": 2256,
@@ -13522,7 +13522,7 @@
       "Number": 2257,
       "ReferenceID": 8576,
       "ReferenceType": "CUV",
-      "Value": 135
+      "Value": 136
     },
     {
       "Number": 2258,
@@ -13564,13 +13564,13 @@
       "Number": 2264,
       "ReferenceID": 8577,
       "ReferenceType": "CFV",
-      "Value": 332
+      "Value": 333
     },
     {
       "Number": 2265,
       "ReferenceID": 8673,
       "ReferenceType": "CBLT",
-      "Value": 1147
+      "Value": 1170
     },
     {
       "Number": 2266,
@@ -13582,7 +13582,7 @@
       "Number": 2267,
       "ReferenceID": 8673,
       "ReferenceType": "CUV",
-      "Value": 136
+      "Value": 139
     },
     {
       "Number": 2268,
@@ -13594,7 +13594,7 @@
       "Number": 2269,
       "ReferenceID": 8673,
       "ReferenceType": "CFV",
-      "Value": 1009
+      "Value": 1029
     },
     {
       "Number": 2270,
@@ -13624,13 +13624,13 @@
       "Number": 2274,
       "ReferenceID": 8674,
       "ReferenceType": "CFV",
-      "Value": 930
+      "Value": 933
     },
     {
       "Number": 2275,
       "ReferenceID": 8675,
       "ReferenceType": "CBLT",
-      "Value": 658
+      "Value": 660
     },
     {
       "Number": 2276,
@@ -13660,7 +13660,7 @@
       "Number": 2280,
       "ReferenceID": 8676,
       "ReferenceType": "CBLT",
-      "Value": 851
+      "Value": 879
     },
     {
       "Number": 2281,
@@ -13672,7 +13672,7 @@
       "Number": 2282,
       "ReferenceID": 8676,
       "ReferenceType": "CUV",
-      "Value": 61
+      "Value": 62
     },
     {
       "Number": 2283,
@@ -13690,7 +13690,7 @@
       "Number": 2285,
       "ReferenceID": 8570,
       "ReferenceType": "CBLT",
-      "Value": 2854
+      "Value": 2862
     },
     {
       "Number": 2286,
@@ -13702,7 +13702,7 @@
       "Number": 2287,
       "ReferenceID": 8570,
       "ReferenceType": "CUV",
-      "Value": 277
+      "Value": 279
     },
     {
       "Number": 2288,
@@ -13732,7 +13732,7 @@
       "Number": 2292,
       "ReferenceID": 8678,
       "ReferenceType": "CUV",
-      "Value": 79
+      "Value": 104
     },
     {
       "Number": 2293,
@@ -13762,7 +13762,7 @@
       "Number": 2297,
       "ReferenceID": 8677,
       "ReferenceType": "CUV",
-      "Value": 127
+      "Value": 170
     },
     {
       "Number": 2298,
@@ -13774,7 +13774,7 @@
       "Number": 2299,
       "ReferenceID": 8677,
       "ReferenceType": "CFV",
-      "Value": 686
+      "Value": 977
     },
     {
       "Number": 2300,
@@ -13804,7 +13804,7 @@
       "Number": 2304,
       "ReferenceID": 8583,
       "ReferenceType": "CFV",
-      "Value": 3414
+      "Value": 3476
     },
     {
       "Number": 2305,
@@ -13828,7 +13828,7 @@
       "Number": 2308,
       "ReferenceID": 8833,
       "ReferenceType": "CPV",
-      "Value": 1067
+      "Value": 1087
     },
     {
       "Number": 2309,
@@ -13840,7 +13840,7 @@
       "Number": 2310,
       "ReferenceID": 8571,
       "ReferenceType": "CBLT",
-      "Value": 434
+      "Value": 435
     },
     {
       "Number": 2311,
@@ -13852,7 +13852,7 @@
       "Number": 2312,
       "ReferenceID": 8571,
       "ReferenceType": "CUV",
-      "Value": 32
+      "Value": 33
     },
     {
       "Number": 2313,
@@ -13870,7 +13870,7 @@
       "Number": 2315,
       "ReferenceID": 8859,
       "ReferenceType": "CBLT",
-      "Value": 3726
+      "Value": 3736
     },
     {
       "Number": 2316,
@@ -13894,7 +13894,7 @@
       "Number": 2319,
       "ReferenceID": 8859,
       "ReferenceType": "CFV",
-      "Value": 3493
+      "Value": 3501
     },
     {
       "Number": 2320,
@@ -13924,13 +13924,13 @@
       "Number": 2324,
       "ReferenceID": 8860,
       "ReferenceType": "CFV",
-      "Value": 2594
+      "Value": 2600
     },
     {
       "Number": 2325,
       "ReferenceID": 8584,
       "ReferenceType": "CBLT",
-      "Value": 351
+      "Value": 353
     },
     {
       "Number": 2326,
@@ -13948,7 +13948,7 @@
       "Number": 2328,
       "ReferenceID": 8584,
       "ReferenceType": "CPV",
-      "Value": 52
+      "Value": 53
     },
     {
       "Number": 2329,
@@ -13972,7 +13972,7 @@
       "Number": 2332,
       "ReferenceID": 8680,
       "ReferenceType": "CUV",
-      "Value": 129
+      "Value": 133
     },
     {
       "Number": 2333,
@@ -13984,7 +13984,7 @@
       "Number": 2334,
       "ReferenceID": 8680,
       "ReferenceType": "CFV",
-      "Value": 1304
+      "Value": 1366
     },
     {
       "Number": 2335,
@@ -14002,19 +14002,19 @@
       "Number": 2337,
       "ReferenceID": 8797,
       "ReferenceType": "CUV",
-      "Value": 176
+      "Value": 259
     },
     {
       "Number": 2338,
       "ReferenceID": 8797,
       "ReferenceType": "CPV",
-      "Value": 558
+      "Value": 781
     },
     {
       "Number": 2339,
       "ReferenceID": 8797,
       "ReferenceType": "CFV",
-      "Value": 1040
+      "Value": 1274
     },
     {
       "Number": 2340,
@@ -14092,7 +14092,7 @@
       "Number": 2352,
       "ReferenceID": 8711,
       "ReferenceType": "CUV",
-      "Value": 305
+      "Value": 317
     },
     {
       "Number": 2353,
@@ -14110,7 +14110,7 @@
       "Number": 2355,
       "ReferenceID": 8867,
       "ReferenceType": "CBLT",
-      "Value": 40297
+      "Value": 40320
     },
     {
       "Number": 2356,
@@ -14140,7 +14140,7 @@
       "Number": 2360,
       "ReferenceID": 8868,
       "ReferenceType": "CBLT",
-      "Value": 46664
+      "Value": 46707
     },
     {
       "Number": 2361,
@@ -14152,7 +14152,7 @@
       "Number": 2362,
       "ReferenceID": 8868,
       "ReferenceType": "CUV",
-      "Value": 4386
+      "Value": 4395
     },
     {
       "Number": 2363,
@@ -14170,7 +14170,7 @@
       "Number": 2365,
       "ReferenceID": 8871,
       "ReferenceType": "CBLT",
-      "Value": 30518
+      "Value": 30767
     },
     {
       "Number": 2366,
@@ -14200,7 +14200,7 @@
       "Number": 2370,
       "ReferenceID": 8872,
       "ReferenceType": "CBLT",
-      "Value": 20488
+      "Value": 21224
     },
     {
       "Number": 2371,
@@ -14212,7 +14212,7 @@
       "Number": 2372,
       "ReferenceID": 8872,
       "ReferenceType": "CUV",
-      "Value": 2149
+      "Value": 2258
     },
     {
       "Number": 2373,
@@ -14224,7 +14224,7 @@
       "Number": 2374,
       "ReferenceID": 8872,
       "ReferenceType": "CFV",
-      "Value": 18324
+      "Value": 18951
     },
     {
       "Number": 2375,
@@ -14302,19 +14302,19 @@
       "Number": 2387,
       "ReferenceID": 8588,
       "ReferenceType": "CUV",
-      "Value": 418
+      "Value": 422
     },
     {
       "Number": 2388,
       "ReferenceID": 8588,
       "ReferenceType": "CPV",
-      "Value": 860
+      "Value": 863
     },
     {
       "Number": 2389,
       "ReferenceID": 8588,
       "ReferenceType": "CFV",
-      "Value": 6760
+      "Value": 6764
     },
     {
       "Number": 2390,
@@ -14410,7 +14410,7 @@
       "Number": 2405,
       "ReferenceID": 8799,
       "ReferenceType": "CBLT",
-      "Value": 763
+      "Value": 767
     },
     {
       "Number": 2406,
@@ -14440,7 +14440,7 @@
       "Number": 2410,
       "ReferenceID": 8802,
       "ReferenceType": "CBLT",
-      "Value": 793
+      "Value": 800
     },
     {
       "Number": 2411,
@@ -14494,7 +14494,7 @@
       "Number": 2419,
       "ReferenceID": 8800,
       "ReferenceType": "CFV",
-      "Value": 567
+      "Value": 571
     },
     {
       "Number": 2420,
@@ -14524,7 +14524,7 @@
       "Number": 2424,
       "ReferenceID": 8689,
       "ReferenceType": "CFV",
-      "Value": 1165
+      "Value": 1168
     },
     {
       "Number": 2425,
@@ -14542,7 +14542,7 @@
       "Number": 2427,
       "ReferenceID": 8697,
       "ReferenceType": "CUV",
-      "Value": 182
+      "Value": 183
     },
     {
       "Number": 2428,
@@ -14554,13 +14554,13 @@
       "Number": 2429,
       "ReferenceID": 8697,
       "ReferenceType": "CFV",
-      "Value": 1153
+      "Value": 1154
     },
     {
       "Number": 2430,
       "ReferenceID": 8690,
       "ReferenceType": "CBLT",
-      "Value": 1246
+      "Value": 1251
     },
     {
       "Number": 2431,
@@ -14590,7 +14590,7 @@
       "Number": 2435,
       "ReferenceID": 8590,
       "ReferenceType": "CBLT",
-      "Value": 8899
+      "Value": 9034
     },
     {
       "Number": 2436,
@@ -14644,7 +14644,7 @@
       "Number": 2444,
       "ReferenceID": 8591,
       "ReferenceType": "CFV",
-      "Value": 2034
+      "Value": 2039
     },
     {
       "Number": 2445,
@@ -14680,7 +14680,7 @@
       "Number": 2450,
       "ReferenceID": 8593,
       "ReferenceType": "CBLT",
-      "Value": 1778
+      "Value": 1780
     },
     {
       "Number": 2451,
@@ -14704,7 +14704,7 @@
       "Number": 2454,
       "ReferenceID": 8593,
       "ReferenceType": "CFV",
-      "Value": 1596
+      "Value": 1598
     },
     {
       "Number": 2455,
@@ -14722,19 +14722,19 @@
       "Number": 2457,
       "ReferenceID": 8594,
       "ReferenceType": "CUV",
-      "Value": 231
+      "Value": 260
     },
     {
       "Number": 2458,
       "ReferenceID": 8594,
       "ReferenceType": "CPV",
-      "Value": 1169
+      "Value": 1345
     },
     {
       "Number": 2459,
       "ReferenceID": 8594,
       "ReferenceType": "CFV",
-      "Value": 1820
+      "Value": 1996
     },
     {
       "Number": 2460,
@@ -14764,13 +14764,13 @@
       "Number": 2464,
       "ReferenceID": 8595,
       "ReferenceType": "CFV",
-      "Value": 2865
+      "Value": 3085
     },
     {
       "Number": 2465,
       "ReferenceID": 8596,
       "ReferenceType": "CBLT",
-      "Value": 843
+      "Value": 844
     },
     {
       "Number": 2466,
@@ -14860,7 +14860,7 @@
       "Number": 2480,
       "ReferenceID": 8599,
       "ReferenceType": "CBLT",
-      "Value": 8682
+      "Value": 8851
     },
     {
       "Number": 2481,
@@ -14890,7 +14890,7 @@
       "Number": 2485,
       "ReferenceID": 8600,
       "ReferenceType": "CBLT",
-      "Value": 464
+      "Value": 484
     },
     {
       "Number": 2486,
@@ -14902,7 +14902,7 @@
       "Number": 2487,
       "ReferenceID": 8600,
       "ReferenceType": "CUV",
-      "Value": 25
+      "Value": 26
     },
     {
       "Number": 2488,
@@ -14914,7 +14914,7 @@
       "Number": 2489,
       "ReferenceID": 8600,
       "ReferenceType": "CFV",
-      "Value": 280
+      "Value": 290
     },
     {
       "Number": 2490,
@@ -14938,7 +14938,7 @@
       "Number": 2493,
       "ReferenceID": 8603,
       "ReferenceType": "CPV",
-      "Value": 557
+      "Value": 558
     },
     {
       "Number": 2494,
@@ -14968,7 +14968,7 @@
       "Number": 2498,
       "ReferenceID": 8602,
       "ReferenceType": "CPV",
-      "Value": 1263
+      "Value": 1407
     },
     {
       "Number": 2499,
@@ -14992,7 +14992,7 @@
       "Number": 2502,
       "ReferenceID": 8973,
       "ReferenceType": "CUV",
-      "Value": 208
+      "Value": 238
     },
     {
       "Number": 2503,
@@ -15022,7 +15022,7 @@
       "Number": 2507,
       "ReferenceID": 8604,
       "ReferenceType": "CUV",
-      "Value": 3770
+      "Value": 3775
     },
     {
       "Number": 2508,
@@ -15058,7 +15058,7 @@
       "Number": 2513,
       "ReferenceID": 8605,
       "ReferenceType": "CPV",
-      "Value": 785
+      "Value": 789
     },
     {
       "Number": 2514,
@@ -15100,7 +15100,7 @@
       "Number": 2520,
       "ReferenceID": 8842,
       "ReferenceType": "CBLT",
-      "Value": 3018
+      "Value": 3019
     },
     {
       "Number": 2521,
@@ -15142,13 +15142,13 @@
       "Number": 2527,
       "ReferenceID": 8608,
       "ReferenceType": "CUV",
-      "Value": 125
+      "Value": 148
     },
     {
       "Number": 2528,
       "ReferenceID": 8608,
       "ReferenceType": "CPV",
-      "Value": 491
+      "Value": 550
     },
     {
       "Number": 2529,
@@ -15190,7 +15190,7 @@
       "Number": 2535,
       "ReferenceID": 8610,
       "ReferenceType": "CBLT",
-      "Value": 5090
+      "Value": 5636
     },
     {
       "Number": 2536,
@@ -15250,7 +15250,7 @@
       "Number": 2545,
       "ReferenceID": 8613,
       "ReferenceType": "CBLT",
-      "Value": 1052
+      "Value": 1053
     },
     {
       "Number": 2546,
@@ -15274,13 +15274,13 @@
       "Number": 2549,
       "ReferenceID": 8613,
       "ReferenceType": "CFV",
-      "Value": 819
+      "Value": 820
     },
     {
       "Number": 2550,
       "ReferenceID": 8619,
       "ReferenceType": "CBLT",
-      "Value": 1777
+      "Value": 1784
     },
     {
       "Number": 2551,
@@ -15292,7 +15292,7 @@
       "Number": 2552,
       "ReferenceID": 8619,
       "ReferenceType": "CUV",
-      "Value": 421
+      "Value": 422
     },
     {
       "Number": 2553,
@@ -15322,7 +15322,7 @@
       "Number": 2557,
       "ReferenceID": 8620,
       "ReferenceType": "CUV",
-      "Value": 148
+      "Value": 154
     },
     {
       "Number": 2558,
@@ -15334,7 +15334,7 @@
       "Number": 2559,
       "ReferenceID": 8620,
       "ReferenceType": "CFV",
-      "Value": 1900
+      "Value": 1951
     },
     {
       "Number": 2560,
@@ -15364,13 +15364,13 @@
       "Number": 2564,
       "ReferenceID": 8621,
       "ReferenceType": "CFV",
-      "Value": 1980
+      "Value": 2000
     },
     {
       "Number": 2565,
       "ReferenceID": 8616,
       "ReferenceType": "CBLT",
-      "Value": 6565
+      "Value": 6570
     },
     {
       "Number": 2566,
@@ -15430,7 +15430,7 @@
       "Number": 2575,
       "ReferenceID": 8426,
       "ReferenceType": "CBLT",
-      "Value": 2834
+      "Value": 2839
     },
     {
       "Number": 2576,
@@ -15460,7 +15460,7 @@
       "Number": 2580,
       "ReferenceID": 8427,
       "ReferenceType": "CBLT",
-      "Value": 2698
+      "Value": 2701
     },
     {
       "Number": 2581,
@@ -15502,7 +15502,7 @@
       "Number": 2587,
       "ReferenceID": 8428,
       "ReferenceType": "CUV",
-      "Value": 230
+      "Value": 247
     },
     {
       "Number": 2588,
@@ -15514,7 +15514,7 @@
       "Number": 2589,
       "ReferenceID": 8428,
       "ReferenceType": "CFV",
-      "Value": 1216
+      "Value": 1283
     },
     {
       "Number": 2590,
@@ -15538,7 +15538,7 @@
       "Number": 2593,
       "ReferenceID": 8438,
       "ReferenceType": "CPV",
-      "Value": 3480
+      "Value": 3704
     },
     {
       "Number": 2594,
@@ -15568,7 +15568,7 @@
       "Number": 2598,
       "ReferenceID": 8479,
       "ReferenceType": "CPV",
-      "Value": 4382
+      "Value": 4439
     },
     {
       "Number": 2599,
@@ -15640,7 +15640,7 @@
       "Number": 2610,
       "ReferenceID": 8659,
       "ReferenceType": "CBLT",
-      "Value": 717
+      "Value": 719
     },
     {
       "Number": 2611,
@@ -15700,7 +15700,7 @@
       "Number": 2620,
       "ReferenceID": 8855,
       "ReferenceType": "CBLT",
-      "Value": 4101
+      "Value": 4106
     },
     {
       "Number": 2621,
@@ -15730,7 +15730,7 @@
       "Number": 2625,
       "ReferenceID": 8504,
       "ReferenceType": "CBLT",
-      "Value": 1318
+      "Value": 1319
     },
     {
       "Number": 2626,
@@ -15784,13 +15784,13 @@
       "Number": 2634,
       "ReferenceID": 8505,
       "ReferenceType": "CFV",
-      "Value": 1374
+      "Value": 1377
     },
     {
       "Number": 2635,
       "ReferenceID": 8518,
       "ReferenceType": "CBLT",
-      "Value": 4450
+      "Value": 4810
     },
     {
       "Number": 2636,
@@ -15820,7 +15820,7 @@
       "Number": 2640,
       "ReferenceID": 8866,
       "ReferenceType": "CBLT",
-      "Value": 8929
+      "Value": 9485
     },
     {
       "Number": 2641,
@@ -15832,7 +15832,7 @@
       "Number": 2642,
       "ReferenceID": 8866,
       "ReferenceType": "CUV",
-      "Value": 1186
+      "Value": 1296
     },
     {
       "Number": 2643,
@@ -15844,13 +15844,13 @@
       "Number": 2644,
       "ReferenceID": 8866,
       "ReferenceType": "CFV",
-      "Value": 7735
+      "Value": 8181
     },
     {
       "Number": 2645,
       "ReferenceID": 8436,
       "ReferenceType": "CBLT",
-      "Value": 4670
+      "Value": 4684
     },
     {
       "Number": 2646,
@@ -15868,7 +15868,7 @@
       "Number": 2648,
       "ReferenceID": 8436,
       "ReferenceType": "CPV",
-      "Value": 2024
+      "Value": 2030
     },
     {
       "Number": 2649,
@@ -15940,7 +15940,7 @@
       "Number": 2660,
       "ReferenceID": 8856,
       "ReferenceType": "CBLT",
-      "Value": 2130
+      "Value": 2132
     },
     {
       "Number": 2661,
@@ -15982,7 +15982,7 @@
       "Number": 2667,
       "ReferenceID": 8858,
       "ReferenceType": "CUV",
-      "Value": 1594
+      "Value": 1596
     },
     {
       "Number": 2668,
@@ -16024,13 +16024,13 @@
       "Number": 2674,
       "ReferenceID": 8546,
       "ReferenceType": "CFV",
-      "Value": 1629
+      "Value": 1632
     },
     {
       "Number": 2675,
       "ReferenceID": 8501,
       "ReferenceType": "CBLT",
-      "Value": 1284
+      "Value": 1341
     },
     {
       "Number": 2676,
@@ -16054,7 +16054,7 @@
       "Number": 2679,
       "ReferenceID": 8501,
       "ReferenceType": "CFV",
-      "Value": 1130
+      "Value": 1174
     },
     {
       "Number": 2680,
@@ -16072,7 +16072,7 @@
       "Number": 2682,
       "ReferenceID": 8502,
       "ReferenceType": "CUV",
-      "Value": 278
+      "Value": 286
     },
     {
       "Number": 2683,
@@ -16120,7 +16120,7 @@
       "Number": 2690,
       "ReferenceID": 8481,
       "ReferenceType": "CBLT",
-      "Value": 2593
+      "Value": 2597
     },
     {
       "Number": 2691,
@@ -16132,7 +16132,7 @@
       "Number": 2692,
       "ReferenceID": 8481,
       "ReferenceType": "CUV",
-      "Value": 343
+      "Value": 344
     },
     {
       "Number": 2693,
@@ -16252,19 +16252,19 @@
       "Number": 2712,
       "ReferenceID": 8491,
       "ReferenceType": "CUV",
-      "Value": 919
+      "Value": 922
     },
     {
       "Number": 2713,
       "ReferenceID": 8491,
       "ReferenceType": "CPV",
-      "Value": 2596
+      "Value": 2599
     },
     {
       "Number": 2714,
       "ReferenceID": 8491,
       "ReferenceType": "CFV",
-      "Value": 3640
+      "Value": 3643
     },
     {
       "Number": 2715,
@@ -16288,7 +16288,7 @@
       "Number": 2718,
       "ReferenceID": 8492,
       "ReferenceType": "CPV",
-      "Value": 2174
+      "Value": 2192
     },
     {
       "Number": 2719,
@@ -16318,7 +16318,7 @@
       "Number": 2723,
       "ReferenceID": 8460,
       "ReferenceType": "CPV",
-      "Value": 1503
+      "Value": 1504
     },
     {
       "Number": 2724,
@@ -16342,7 +16342,7 @@
       "Number": 2727,
       "ReferenceID": 8703,
       "ReferenceType": "CUV",
-      "Value": 741
+      "Value": 744
     },
     {
       "Number": 2728,
@@ -16354,7 +16354,7 @@
       "Number": 2729,
       "ReferenceID": 8703,
       "ReferenceType": "CFV",
-      "Value": 3731
+      "Value": 3733
     },
     {
       "Number": 2730,
@@ -16444,7 +16444,7 @@
       "Number": 2744,
       "ReferenceID": 8706,
       "ReferenceType": "CFV",
-      "Value": 5346
+      "Value": 5367
     },
     {
       "Number": 2745,
@@ -16462,7 +16462,7 @@
       "Number": 2747,
       "ReferenceID": 8557,
       "ReferenceType": "CUV",
-      "Value": 332
+      "Value": 373
     },
     {
       "Number": 2748,
@@ -16474,7 +16474,7 @@
       "Number": 2749,
       "ReferenceID": 8557,
       "ReferenceType": "CFV",
-      "Value": 1109
+      "Value": 1251
     },
     {
       "Number": 2750,
@@ -16492,7 +16492,7 @@
       "Number": 2752,
       "ReferenceID": 8668,
       "ReferenceType": "CUV",
-      "Value": 769
+      "Value": 846
     },
     {
       "Number": 2753,
@@ -16510,7 +16510,7 @@
       "Number": 2755,
       "ReferenceID": 8682,
       "ReferenceType": "CBLT",
-      "Value": 18062
+      "Value": 18075
     },
     {
       "Number": 2756,
@@ -16552,25 +16552,25 @@
       "Number": 2762,
       "ReferenceID": 8455,
       "ReferenceType": "CUV",
-      "Value": 354
+      "Value": 355
     },
     {
       "Number": 2763,
       "ReferenceID": 8455,
       "ReferenceType": "CPV",
-      "Value": 1071
+      "Value": 1073
     },
     {
       "Number": 2764,
       "ReferenceID": 8455,
       "ReferenceType": "CFV",
-      "Value": 1426
+      "Value": 1431
     },
     {
       "Number": 2765,
       "ReferenceID": 8862,
       "ReferenceType": "CBLT",
-      "Value": 4047
+      "Value": 4059
     },
     {
       "Number": 2766,
@@ -16594,7 +16594,7 @@
       "Number": 2769,
       "ReferenceID": 8862,
       "ReferenceType": "CFV",
-      "Value": 3572
+      "Value": 3581
     },
     {
       "Number": 2770,
@@ -16630,7 +16630,7 @@
       "Number": 2775,
       "ReferenceID": 8865,
       "ReferenceType": "CBLT",
-      "Value": 1648
+      "Value": 1654
     },
     {
       "Number": 2776,
@@ -16660,7 +16660,7 @@
       "Number": 2780,
       "ReferenceID": 8861,
       "ReferenceType": "CBLT",
-      "Value": 1290
+      "Value": 1296
     },
     {
       "Number": 2781,
@@ -16690,7 +16690,7 @@
       "Number": 2785,
       "ReferenceID": 8469,
       "ReferenceType": "CBLT",
-      "Value": 8095
+      "Value": 8106
     },
     {
       "Number": 2786,
@@ -16708,7 +16708,7 @@
       "Number": 2788,
       "ReferenceID": 8469,
       "ReferenceType": "CPV",
-      "Value": 1150
+      "Value": 1152
     },
     {
       "Number": 2789,
@@ -16768,7 +16768,7 @@
       "Number": 2798,
       "ReferenceID": 8439,
       "ReferenceType": "CPV",
-      "Value": 3695
+      "Value": 3703
     },
     {
       "Number": 2799,
@@ -16798,7 +16798,7 @@
       "Number": 2803,
       "ReferenceID": 8446,
       "ReferenceType": "CPV",
-      "Value": 1438
+      "Value": 1441
     },
     {
       "Number": 2804,
@@ -16810,7 +16810,7 @@
       "Number": 2805,
       "ReferenceID": 8547,
       "ReferenceType": "CBLT",
-      "Value": 12874
+      "Value": 12876
     },
     {
       "Number": 2806,
@@ -16894,7 +16894,7 @@
       "Number": 2819,
       "ReferenceID": 8852,
       "ReferenceType": "CFV",
-      "Value": 38444
+      "Value": 38489
     },
     {
       "Number": 2820,
@@ -16912,19 +16912,19 @@
       "Number": 2822,
       "ReferenceID": 8471,
       "ReferenceType": "CUV",
-      "Value": 1528
+      "Value": 1534
     },
     {
       "Number": 2823,
       "ReferenceID": 8471,
       "ReferenceType": "CPV",
-      "Value": 3554
+      "Value": 3575
     },
     {
       "Number": 2824,
       "ReferenceID": 8471,
       "ReferenceType": "CFV",
-      "Value": 5013
+      "Value": 5037
     },
     {
       "Number": 2825,
@@ -16948,7 +16948,7 @@
       "Number": 2828,
       "ReferenceID": 8787,
       "ReferenceType": "CPV",
-      "Value": 3769
+      "Value": 3981
     },
     {
       "Number": 2829,
@@ -16990,7 +16990,7 @@
       "Number": 2835,
       "ReferenceID": 8806,
       "ReferenceType": "CBLT",
-      "Value": 3546
+      "Value": 3559
     },
     {
       "Number": 2836,
@@ -17014,7 +17014,7 @@
       "Number": 2839,
       "ReferenceID": 8806,
       "ReferenceType": "CFV",
-      "Value": 3000
+      "Value": 3013
     },
     {
       "Number": 2840,
@@ -17050,7 +17050,7 @@
       "Number": 2845,
       "ReferenceID": 8454,
       "ReferenceType": "CBLT",
-      "Value": 4569
+      "Value": 5011
     },
     {
       "Number": 2846,
@@ -17062,7 +17062,7 @@
       "Number": 2847,
       "ReferenceID": 8454,
       "ReferenceType": "CUV",
-      "Value": 509
+      "Value": 608
     },
     {
       "Number": 2848,
@@ -17074,7 +17074,7 @@
       "Number": 2849,
       "ReferenceID": 8454,
       "ReferenceType": "CFV",
-      "Value": 2222
+      "Value": 2377
     },
     {
       "Number": 2850,
@@ -17092,7 +17092,7 @@
       "Number": 2852,
       "ReferenceID": 8803,
       "ReferenceType": "CUV",
-      "Value": 1826
+      "Value": 2072
     },
     {
       "Number": 2853,
@@ -17104,7 +17104,7 @@
       "Number": 2854,
       "ReferenceID": 8803,
       "ReferenceType": "CFV",
-      "Value": 5637
+      "Value": 6191
     },
     {
       "Number": 2855,
@@ -17140,7 +17140,7 @@
       "Number": 2860,
       "ReferenceID": 8805,
       "ReferenceType": "CBLT",
-      "Value": 7466
+      "Value": 8266
     },
     {
       "Number": 2861,
@@ -17170,7 +17170,7 @@
       "Number": 2865,
       "ReferenceID": 8433,
       "ReferenceType": "CBLT",
-      "Value": 10332
+      "Value": 10336
     },
     {
       "Number": 2866,
@@ -17182,7 +17182,7 @@
       "Number": 2867,
       "ReferenceID": 8433,
       "ReferenceType": "CUV",
-      "Value": 1238
+      "Value": 1239
     },
     {
       "Number": 2868,
@@ -17224,7 +17224,7 @@
       "Number": 2874,
       "ReferenceID": 8434,
       "ReferenceType": "CFV",
-      "Value": 3928
+      "Value": 3934
     },
     {
       "Number": 2875,
@@ -17254,7 +17254,7 @@
       "Number": 2879,
       "ReferenceID": 8435,
       "ReferenceType": "CFV",
-      "Value": 4706
+      "Value": 4711
     },
     {
       "Number": 2880,
@@ -17272,7 +17272,7 @@
       "Number": 2882,
       "ReferenceID": 8494,
       "ReferenceType": "CUV",
-      "Value": 1485
+      "Value": 1489
     },
     {
       "Number": 2883,
@@ -17284,7 +17284,7 @@
       "Number": 2884,
       "ReferenceID": 8494,
       "ReferenceType": "CFV",
-      "Value": 7602
+      "Value": 7603
     },
     {
       "Number": 2885,
@@ -17302,7 +17302,7 @@
       "Number": 2887,
       "ReferenceID": 8495,
       "ReferenceType": "CUV",
-      "Value": 1120
+      "Value": 1121
     },
     {
       "Number": 2888,
@@ -17380,7 +17380,7 @@
       "Number": 2900,
       "ReferenceID": 8663,
       "ReferenceType": "CBLT",
-      "Value": 1629
+      "Value": 1657
     },
     {
       "Number": 2901,
@@ -17404,7 +17404,7 @@
       "Number": 2904,
       "ReferenceID": 8663,
       "ReferenceType": "CFV",
-      "Value": 1465
+      "Value": 1489
     },
     {
       "Number": 2905,
@@ -17434,7 +17434,7 @@
       "Number": 2909,
       "ReferenceID": 8511,
       "ReferenceType": "CFV",
-      "Value": 4919
+      "Value": 4925
     },
     {
       "Number": 2910,
@@ -17482,7 +17482,7 @@
       "Number": 2917,
       "ReferenceID": 8466,
       "ReferenceType": "CUV",
-      "Value": 62
+      "Value": 91
     },
     {
       "Number": 2918,
@@ -17548,7 +17548,7 @@
       "Number": 2928,
       "ReferenceID": 8459,
       "ReferenceType": "CPV",
-      "Value": 633
+      "Value": 634
     },
     {
       "Number": 2929,
@@ -17662,7 +17662,7 @@
       "Number": 2947,
       "ReferenceID": 8476,
       "ReferenceType": "CUV",
-      "Value": 441
+      "Value": 443
     },
     {
       "Number": 2948,
@@ -17710,7 +17710,7 @@
       "Number": 2955,
       "ReferenceID": 8487,
       "ReferenceType": "CBLT",
-      "Value": 2963
+      "Value": 2964
     },
     {
       "Number": 2956,
@@ -17752,7 +17752,7 @@
       "Number": 2962,
       "ReferenceID": 8488,
       "ReferenceType": "CUV",
-      "Value": 815
+      "Value": 816
     },
     {
       "Number": 2963,
@@ -17764,7 +17764,7 @@
       "Number": 2964,
       "ReferenceID": 8488,
       "ReferenceType": "CFV",
-      "Value": 3522
+      "Value": 3524
     },
     {
       "Number": 2965,
@@ -17794,13 +17794,13 @@
       "Number": 2969,
       "ReferenceID": 8489,
       "ReferenceType": "CFV",
-      "Value": 2509
+      "Value": 2512
     },
     {
       "Number": 2970,
       "ReferenceID": 8453,
       "ReferenceType": "CBLT",
-      "Value": 5950
+      "Value": 5986
     },
     {
       "Number": 2971,
@@ -17860,7 +17860,7 @@
       "Number": 2980,
       "ReferenceID": 8484,
       "ReferenceType": "CBLT",
-      "Value": 1764
+      "Value": 1774
     },
     {
       "Number": 2981,
@@ -17884,13 +17884,13 @@
       "Number": 2984,
       "ReferenceID": 8484,
       "ReferenceType": "CFV",
-      "Value": 800
+      "Value": 804
     },
     {
       "Number": 2985,
       "ReferenceID": 8490,
       "ReferenceType": "CBLT",
-      "Value": 512
+      "Value": 538
     },
     {
       "Number": 2986,
@@ -17950,7 +17950,7 @@
       "Number": 2995,
       "ReferenceID": 8513,
       "ReferenceType": "CBLT",
-      "Value": 1444
+      "Value": 1448
     },
     {
       "Number": 2996,
@@ -17980,7 +17980,7 @@
       "Number": 3000,
       "ReferenceID": 8493,
       "ReferenceType": "CBLT",
-      "Value": 1665
+      "Value": 1667
     },
     {
       "Number": 3001,
@@ -18010,7 +18010,7 @@
       "Number": 3005,
       "ReferenceID": 8544,
       "ReferenceType": "CBLT",
-      "Value": 7396
+      "Value": 7414
     },
     {
       "Number": 3006,
@@ -18052,7 +18052,7 @@
       "Number": 3012,
       "ReferenceID": 8442,
       "ReferenceType": "CUV",
-      "Value": 846
+      "Value": 852
     },
     {
       "Number": 3013,
@@ -18064,7 +18064,7 @@
       "Number": 3014,
       "ReferenceID": 8442,
       "ReferenceType": "CFV",
-      "Value": 3370
+      "Value": 3390
     },
     {
       "Number": 3015,
@@ -18100,7 +18100,7 @@
       "Number": 3020,
       "ReferenceID": 8444,
       "ReferenceType": "CBLT",
-      "Value": 3524
+      "Value": 3714
     },
     {
       "Number": 3021,
@@ -18142,7 +18142,7 @@
       "Number": 3027,
       "ReferenceID": 8445,
       "ReferenceType": "CUV",
-      "Value": 371
+      "Value": 399
     },
     {
       "Number": 3028,
@@ -18154,13 +18154,13 @@
       "Number": 3029,
       "ReferenceID": 8445,
       "ReferenceType": "CFV",
-      "Value": 4537
+      "Value": 4811
     },
     {
       "Number": 3030,
       "ReferenceID": 8550,
       "ReferenceType": "CBLT",
-      "Value": 6492
+      "Value": 7535
     },
     {
       "Number": 3031,
@@ -18184,7 +18184,7 @@
       "Number": 3034,
       "ReferenceID": 8550,
       "ReferenceType": "CFV",
-      "Value": 5486
+      "Value": 6338
     },
     {
       "Number": 3035,
@@ -18202,7 +18202,7 @@
       "Number": 3037,
       "ReferenceID": 8551,
       "ReferenceType": "CUV",
-      "Value": 4163
+      "Value": 4552
     },
     {
       "Number": 3038,
@@ -18214,7 +18214,7 @@
       "Number": 3039,
       "ReferenceID": 8551,
       "ReferenceType": "CFV",
-      "Value": 15744
+      "Value": 17014
     },
     {
       "Number": 3040,
@@ -18238,13 +18238,13 @@
       "Number": 3043,
       "ReferenceID": 8681,
       "ReferenceType": "CPV",
-      "Value": 4728
+      "Value": 4733
     },
     {
       "Number": 3044,
       "ReferenceID": 8681,
       "ReferenceType": "CFV",
-      "Value": 8029
+      "Value": 8030
     },
     {
       "Number": 3045,
@@ -18274,13 +18274,13 @@
       "Number": 3049,
       "ReferenceID": 8515,
       "ReferenceType": "CFV",
-      "Value": 415633
+      "Value": 422171
     },
     {
       "Number": 3050,
       "ReferenceID": 8516,
       "ReferenceType": "CBLT",
-      "Value": 541187
+      "Value": 549809
     },
     {
       "Number": 3051,
@@ -18322,7 +18322,7 @@
       "Number": 3057,
       "ReferenceID": 8517,
       "ReferenceType": "CUV",
-      "Value": 131858
+      "Value": 134091
     },
     {
       "Number": 3058,
@@ -18334,13 +18334,13 @@
       "Number": 3059,
       "ReferenceID": 8517,
       "ReferenceType": "CFV",
-      "Value": 409053
+      "Value": 415442
     },
     {
       "Number": 3060,
       "ReferenceID": 8528,
       "ReferenceType": "CBLT",
-      "Value": 541187
+      "Value": 549809
     },
     {
       "Number": 3061,
@@ -18352,7 +18352,7 @@
       "Number": 3062,
       "ReferenceID": 8528,
       "ReferenceType": "CUV",
-      "Value": 121354
+      "Value": 123462
     },
     {
       "Number": 3063,
@@ -18364,13 +18364,13 @@
       "Number": 3064,
       "ReferenceID": 8528,
       "ReferenceType": "CFV",
-      "Value": 419355
+      "Value": 425869
     },
     {
       "Number": 3065,
       "ReferenceID": 8430,
       "ReferenceType": "CBLT",
-      "Value": 5920
+      "Value": 5926
     },
     {
       "Number": 3066,
@@ -18430,7 +18430,7 @@
       "Number": 3075,
       "ReferenceID": 8813,
       "ReferenceType": "CBLT",
-      "Value": 9076
+      "Value": 9098
     },
     {
       "Number": 3076,
@@ -18442,7 +18442,7 @@
       "Number": 3077,
       "ReferenceID": 8813,
       "ReferenceType": "CUV",
-      "Value": 1632
+      "Value": 1636
     },
     {
       "Number": 3078,
@@ -18454,13 +18454,13 @@
       "Number": 3079,
       "ReferenceID": 8813,
       "ReferenceType": "CFV",
-      "Value": 7436
+      "Value": 7454
     },
     {
       "Number": 3080,
       "ReferenceID": 8671,
       "ReferenceType": "CBLT",
-      "Value": 3657
+      "Value": 3666
     },
     {
       "Number": 3081,
@@ -18472,7 +18472,7 @@
       "Number": 3082,
       "ReferenceID": 8671,
       "ReferenceType": "CUV",
-      "Value": 790
+      "Value": 792
     },
     {
       "Number": 3083,
@@ -18502,7 +18502,7 @@
       "Number": 3087,
       "ReferenceID": 8672,
       "ReferenceType": "CUV",
-      "Value": 819
+      "Value": 821
     },
     {
       "Number": 3088,
@@ -18520,7 +18520,7 @@
       "Number": 3090,
       "ReferenceID": 8564,
       "ReferenceType": "CBLT",
-      "Value": 4680
+      "Value": 4694
     },
     {
       "Number": 3091,
@@ -18550,7 +18550,7 @@
       "Number": 3095,
       "ReferenceID": 8565,
       "ReferenceType": "CBLT",
-      "Value": 4680
+      "Value": 4694
     },
     {
       "Number": 3096,
@@ -18580,7 +18580,7 @@
       "Number": 3100,
       "ReferenceID": 8636,
       "ReferenceType": "CBLT",
-      "Value": 14073
+      "Value": 14097
     },
     {
       "Number": 3101,
@@ -18622,7 +18622,7 @@
       "Number": 3107,
       "ReferenceID": 8637,
       "ReferenceType": "CUV",
-      "Value": 3700
+      "Value": 3712
     },
     {
       "Number": 3108,
@@ -18634,13 +18634,13 @@
       "Number": 3109,
       "ReferenceID": 8637,
       "ReferenceType": "CFV",
-      "Value": 10372
+      "Value": 10384
     },
     {
       "Number": 3110,
       "ReferenceID": 8639,
       "ReferenceType": "CBLT",
-      "Value": 10024
+      "Value": 11615
     },
     {
       "Number": 3111,
@@ -18670,7 +18670,7 @@
       "Number": 3115,
       "ReferenceID": 8640,
       "ReferenceType": "CBLT",
-      "Value": 10024
+      "Value": 11615
     },
     {
       "Number": 3116,
@@ -18682,7 +18682,7 @@
       "Number": 3117,
       "ReferenceID": 8640,
       "ReferenceType": "CUV",
-      "Value": 963
+      "Value": 1221
     },
     {
       "Number": 3118,
@@ -18694,13 +18694,13 @@
       "Number": 3119,
       "ReferenceID": 8640,
       "ReferenceType": "CFV",
-      "Value": 9058
+      "Value": 10391
     },
     {
       "Number": 3120,
       "ReferenceID": 8579,
       "ReferenceType": "CBLT",
-      "Value": 6409
+      "Value": 6485
     },
     {
       "Number": 3121,
@@ -18754,7 +18754,7 @@
       "Number": 3129,
       "ReferenceID": 8580,
       "ReferenceType": "CFV",
-      "Value": 5601
+      "Value": 5661
     },
     {
       "Number": 3130,
@@ -18802,7 +18802,7 @@
       "Number": 3137,
       "ReferenceID": 8582,
       "ReferenceType": "CUV",
-      "Value": 877
+      "Value": 914
     },
     {
       "Number": 3138,
@@ -18820,7 +18820,7 @@
       "Number": 3140,
       "ReferenceID": 8796,
       "ReferenceType": "CBLT",
-      "Value": 1781
+      "Value": 2321
     },
     {
       "Number": 3141,
@@ -18832,7 +18832,7 @@
       "Number": 3142,
       "ReferenceID": 8796,
       "ReferenceType": "CUV",
-      "Value": 409
+      "Value": 566
     },
     {
       "Number": 3143,
@@ -18850,7 +18850,7 @@
       "Number": 3145,
       "ReferenceID": 8700,
       "ReferenceType": "CBLT",
-      "Value": 1319
+      "Value": 1351
     },
     {
       "Number": 3146,
@@ -18862,7 +18862,7 @@
       "Number": 3147,
       "ReferenceID": 8700,
       "ReferenceType": "CUV",
-      "Value": 226
+      "Value": 235
     },
     {
       "Number": 3148,
@@ -18874,7 +18874,7 @@
       "Number": 3149,
       "ReferenceID": 8700,
       "ReferenceType": "CFV",
-      "Value": 1093
+      "Value": 1116
     },
     {
       "Number": 3150,
@@ -18892,7 +18892,7 @@
       "Number": 3152,
       "ReferenceID": 8840,
       "ReferenceType": "CUV",
-      "Value": 741
+      "Value": 742
     },
     {
       "Number": 3153,
@@ -18904,7 +18904,7 @@
       "Number": 3154,
       "ReferenceID": 8840,
       "ReferenceType": "CFV",
-      "Value": 3940
+      "Value": 3959
     },
     {
       "Number": 3155,
@@ -18940,7 +18940,7 @@
       "Number": 3160,
       "ReferenceID": 8696,
       "ReferenceType": "CBLT",
-      "Value": 5999
+      "Value": 6014
     },
     {
       "Number": 3161,
@@ -18964,7 +18964,7 @@
       "Number": 3164,
       "ReferenceID": 8696,
       "ReferenceType": "CFV",
-      "Value": 5072
+      "Value": 5085
     },
     {
       "Number": 3165,
@@ -19042,7 +19042,7 @@
       "Number": 3177,
       "ReferenceID": 8683,
       "ReferenceType": "CUV",
-      "Value": 5618
+      "Value": 5624
     },
     {
       "Number": 3178,
@@ -19054,7 +19054,7 @@
       "Number": 3179,
       "ReferenceID": 8683,
       "ReferenceType": "CFV",
-      "Value": 6279
+      "Value": 6280
     },
     {
       "Number": 3180,
@@ -19090,7 +19090,7 @@
       "Number": 3185,
       "ReferenceID": 8607,
       "ReferenceType": "CBLT",
-      "Value": 1536
+      "Value": 1717
     },
     {
       "Number": 3186,
@@ -19144,7 +19144,7 @@
       "Number": 3194,
       "ReferenceID": 8685,
       "ReferenceType": "CFV",
-      "Value": 4092
+      "Value": 4510
     },
     {
       "Number": 3195,
@@ -19174,7 +19174,7 @@
       "Number": 3199,
       "ReferenceID": 8686,
       "ReferenceType": "CFV",
-      "Value": 4528
+      "Value": 4994
     },
     {
       "Number": 3200,
@@ -19192,7 +19192,7 @@
       "Number": 3202,
       "ReferenceID": 8611,
       "ReferenceType": "CUV",
-      "Value": 625
+      "Value": 629
     },
     {
       "Number": 3203,
@@ -19204,13 +19204,13 @@
       "Number": 3204,
       "ReferenceID": 8611,
       "ReferenceType": "CFV",
-      "Value": 3570
+      "Value": 3574
     },
     {
       "Number": 3205,
       "ReferenceID": 8617,
       "ReferenceType": "CBLT",
-      "Value": 9480
+      "Value": 9578
     },
     {
       "Number": 3206,
@@ -19222,7 +19222,7 @@
       "Number": 3207,
       "ReferenceID": 8617,
       "ReferenceType": "CUV",
-      "Value": 2376
+      "Value": 2407
     },
     {
       "Number": 3208,
@@ -19234,7 +19234,7 @@
       "Number": 3209,
       "ReferenceID": 8617,
       "ReferenceType": "CFV",
-      "Value": 7102
+      "Value": 7169
     },
     {
       "Number": 3210,
@@ -19270,7 +19270,7 @@
       "Number": 3215,
       "ReferenceID": 8713,
       "ReferenceType": "CBLT",
-      "Value": 69828
+      "Value": 69916
     },
     {
       "Number": 3216,
@@ -19312,7 +19312,7 @@
       "Number": 3222,
       "ReferenceID": 8714,
       "ReferenceType": "CUV",
-      "Value": 2141
+      "Value": 2148
     },
     {
       "Number": 3223,
@@ -19324,7 +19324,7 @@
       "Number": 3224,
       "ReferenceID": 8714,
       "ReferenceType": "CFV",
-      "Value": 54246
+      "Value": 54487
     },
     {
       "Number": 3225,
@@ -19342,7 +19342,7 @@
       "Number": 3227,
       "ReferenceID": 8715,
       "ReferenceType": "CUV",
-      "Value": 11656
+      "Value": 11825
     },
     {
       "Number": 3228,
@@ -19360,7 +19360,7 @@
       "Number": 3230,
       "ReferenceID": 8716,
       "ReferenceType": "CBLT",
-      "Value": 88527
+      "Value": 90895
     },
     {
       "Number": 3231,
@@ -19402,7 +19402,7 @@
       "Number": 3237,
       "ReferenceID": 8717,
       "ReferenceType": "CUV",
-      "Value": 15571
+      "Value": 15601
     },
     {
       "Number": 3238,
@@ -19414,13 +19414,13 @@
       "Number": 3239,
       "ReferenceID": 8717,
       "ReferenceType": "CFV",
-      "Value": 83856
+      "Value": 84100
     },
     {
       "Number": 3240,
       "ReferenceID": 8718,
       "ReferenceType": "CBLT",
-      "Value": 86632
+      "Value": 90600
     },
     {
       "Number": 3241,
@@ -19450,7 +19450,7 @@
       "Number": 3245,
       "ReferenceID": 8719,
       "ReferenceType": "CBLT",
-      "Value": 6230
+      "Value": 6279
     },
     {
       "Number": 3246,
@@ -19492,7 +19492,7 @@
       "Number": 3252,
       "ReferenceID": 8720,
       "ReferenceType": "CUV",
-      "Value": 637
+      "Value": 656
     },
     {
       "Number": 3253,
@@ -19504,7 +19504,7 @@
       "Number": 3254,
       "ReferenceID": 8720,
       "ReferenceType": "CFV",
-      "Value": 11663
+      "Value": 12011
     },
     {
       "Number": 3255,
@@ -19540,7 +19540,7 @@
       "Number": 3260,
       "ReferenceID": 8722,
       "ReferenceType": "CBLT",
-      "Value": 16980
+      "Value": 16997
     },
     {
       "Number": 3261,
@@ -19570,7 +19570,7 @@
       "Number": 3265,
       "ReferenceID": 8723,
       "ReferenceType": "CBLT",
-      "Value": 70934
+      "Value": 70976
     },
     {
       "Number": 3266,
@@ -19582,7 +19582,7 @@
       "Number": 3267,
       "ReferenceID": 8723,
       "ReferenceType": "CUV",
-      "Value": 3758
+      "Value": 3763
     },
     {
       "Number": 3268,
@@ -19594,13 +19594,13 @@
       "Number": 3269,
       "ReferenceID": 8723,
       "ReferenceType": "CFV",
-      "Value": 67150
+      "Value": 67187
     },
     {
       "Number": 3270,
       "ReferenceID": 8724,
       "ReferenceType": "CBLT",
-      "Value": 59901
+      "Value": 60124
     },
     {
       "Number": 3271,
@@ -19624,7 +19624,7 @@
       "Number": 3274,
       "ReferenceID": 8724,
       "ReferenceType": "CFV",
-      "Value": 57846
+      "Value": 58062
     },
     {
       "Number": 3275,
@@ -19684,7 +19684,7 @@
       "Number": 3284,
       "ReferenceID": 8726,
       "ReferenceType": "CFV",
-      "Value": 27797
+      "Value": 27833
     },
     {
       "Number": 3285,
@@ -19762,7 +19762,7 @@
       "Number": 3297,
       "ReferenceID": 8729,
       "ReferenceType": "CUV",
-      "Value": 1756
+      "Value": 1764
     },
     {
       "Number": 3298,
@@ -19780,7 +19780,7 @@
       "Number": 3300,
       "ReferenceID": 8730,
       "ReferenceType": "CBLT",
-      "Value": 48593
+      "Value": 49713
     },
     {
       "Number": 3301,
@@ -19822,7 +19822,7 @@
       "Number": 3307,
       "ReferenceID": 8731,
       "ReferenceType": "CUV",
-      "Value": 15201
+      "Value": 15214
     },
     {
       "Number": 3308,
@@ -19870,7 +19870,7 @@
       "Number": 3315,
       "ReferenceID": 8733,
       "ReferenceType": "CBLT",
-      "Value": 8391
+      "Value": 8400
     },
     {
       "Number": 3316,
@@ -19894,13 +19894,13 @@
       "Number": 3319,
       "ReferenceID": 8733,
       "ReferenceType": "CFV",
-      "Value": 8094
+      "Value": 8103
     },
     {
       "Number": 3320,
       "ReferenceID": 8734,
       "ReferenceType": "CBLT",
-      "Value": 32078
+      "Value": 32199
     },
     {
       "Number": 3321,
@@ -19912,7 +19912,7 @@
       "Number": 3322,
       "ReferenceID": 8734,
       "ReferenceType": "CUV",
-      "Value": 3314
+      "Value": 3319
     },
     {
       "Number": 3323,
@@ -19924,7 +19924,7 @@
       "Number": 3324,
       "ReferenceID": 8734,
       "ReferenceType": "CFV",
-      "Value": 28747
+      "Value": 28863
     },
     {
       "Number": 3325,
@@ -19960,7 +19960,7 @@
       "Number": 3330,
       "ReferenceID": 8736,
       "ReferenceType": "CBLT",
-      "Value": 46719
+      "Value": 47737
     },
     {
       "Number": 3331,
@@ -20002,7 +20002,7 @@
       "Number": 3337,
       "ReferenceID": 8737,
       "ReferenceType": "CUV",
-      "Value": 5321
+      "Value": 5352
     },
     {
       "Number": 3338,
@@ -20014,7 +20014,7 @@
       "Number": 3339,
       "ReferenceID": 8737,
       "ReferenceType": "CFV",
-      "Value": 19055
+      "Value": 19204
     },
     {
       "Number": 3340,
@@ -20044,13 +20044,13 @@
       "Number": 3344,
       "ReferenceID": 8738,
       "ReferenceType": "CFV",
-      "Value": 40077
+      "Value": 40770
     },
     {
       "Number": 3345,
       "ReferenceID": 8739,
       "ReferenceType": "CBLT",
-      "Value": 35581
+      "Value": 37828
     },
     {
       "Number": 3346,
@@ -20092,7 +20092,7 @@
       "Number": 3352,
       "ReferenceID": 8740,
       "ReferenceType": "CUV",
-      "Value": 1613
+      "Value": 1686
     },
     {
       "Number": 3353,
@@ -20104,7 +20104,7 @@
       "Number": 3354,
       "ReferenceID": 8740,
       "ReferenceType": "CFV",
-      "Value": 35400
+      "Value": 37915
     },
     {
       "Number": 3355,
@@ -20122,7 +20122,7 @@
       "Number": 3357,
       "ReferenceID": 8741,
       "ReferenceType": "CUV",
-      "Value": 3692
+      "Value": 4038
     },
     {
       "Number": 3358,
@@ -20140,7 +20140,7 @@
       "Number": 3360,
       "ReferenceID": 8742,
       "ReferenceType": "CBLT",
-      "Value": 76513
+      "Value": 81805
     },
     {
       "Number": 3361,
@@ -20182,7 +20182,7 @@
       "Number": 3367,
       "ReferenceID": 8743,
       "ReferenceType": "CUV",
-      "Value": 468
+      "Value": 489
     },
     {
       "Number": 3368,
@@ -20194,7 +20194,7 @@
       "Number": 3369,
       "ReferenceID": 8743,
       "ReferenceType": "CFV",
-      "Value": 11833
+      "Value": 12179
     },
     {
       "Number": 3370,
@@ -20212,7 +20212,7 @@
       "Number": 3372,
       "ReferenceID": 8744,
       "ReferenceType": "CUV",
-      "Value": 7331
+      "Value": 9086
     },
     {
       "Number": 3373,
@@ -20260,7 +20260,7 @@
       "Number": 3380,
       "ReferenceID": 8746,
       "ReferenceType": "CBLT",
-      "Value": 10850
+      "Value": 10851
     },
     {
       "Number": 3381,
@@ -20284,7 +20284,7 @@
       "Number": 3384,
       "ReferenceID": 8746,
       "ReferenceType": "CFV",
-      "Value": 10182
+      "Value": 10183
     },
     {
       "Number": 3385,
@@ -20374,7 +20374,7 @@
       "Number": 3399,
       "ReferenceID": 8749,
       "ReferenceType": "CFV",
-      "Value": 45084
+      "Value": 45126
     },
     {
       "Number": 3400,
@@ -20470,7 +20470,7 @@
       "Number": 3415,
       "ReferenceID": 8753,
       "ReferenceType": "CBLT",
-      "Value": 58093
+      "Value": 60325
     },
     {
       "Number": 3416,
@@ -20560,7 +20560,7 @@
       "Number": 3430,
       "ReferenceID": 8756,
       "ReferenceType": "CBLT",
-      "Value": 65792
+      "Value": 66020
     },
     {
       "Number": 3431,
@@ -20572,7 +20572,7 @@
       "Number": 3432,
       "ReferenceID": 8756,
       "ReferenceType": "CUV",
-      "Value": 8130
+      "Value": 8164
     },
     {
       "Number": 3433,
@@ -20590,7 +20590,7 @@
       "Number": 3435,
       "ReferenceID": 8757,
       "ReferenceType": "CBLT",
-      "Value": 70934
+      "Value": 72169
     },
     {
       "Number": 3436,
@@ -20602,7 +20602,7 @@
       "Number": 3437,
       "ReferenceID": 8757,
       "ReferenceType": "CUV",
-      "Value": 2353
+      "Value": 2396
     },
     {
       "Number": 3438,
@@ -20614,7 +20614,7 @@
       "Number": 3439,
       "ReferenceID": 8757,
       "ReferenceType": "CFV",
-      "Value": 68548
+      "Value": 69740
     },
     {
       "Number": 3440,
@@ -20650,7 +20650,7 @@
       "Number": 3445,
       "ReferenceID": 8759,
       "ReferenceType": "CBLT",
-      "Value": 55976
+      "Value": 58776
     },
     {
       "Number": 3446,
@@ -20674,7 +20674,7 @@
       "Number": 3449,
       "ReferenceID": 8759,
       "ReferenceType": "CFV",
-      "Value": 54374
+      "Value": 57093
     },
     {
       "Number": 3450,
@@ -20692,7 +20692,7 @@
       "Number": 3452,
       "ReferenceID": 8760,
       "ReferenceType": "CUV",
-      "Value": 3384
+      "Value": 3670
     },
     {
       "Number": 3453,
@@ -20704,7 +20704,7 @@
       "Number": 3454,
       "ReferenceID": 8760,
       "ReferenceType": "CFV",
-      "Value": 62081
+      "Value": 67285
     },
     {
       "Number": 3455,
@@ -20752,7 +20752,7 @@
       "Number": 3462,
       "ReferenceID": 8896,
       "ReferenceType": "CUV",
-      "Value": 901
+      "Value": 914
     },
     {
       "Number": 3463,
@@ -20782,7 +20782,7 @@
       "Number": 3467,
       "ReferenceID": 8897,
       "ReferenceType": "CUV",
-      "Value": 569
+      "Value": 582
     },
     {
       "Number": 3468,
@@ -20884,7 +20884,7 @@
       "Number": 3484,
       "ReferenceID": 8832,
       "ReferenceType": "CFV",
-      "Value": 4458
+      "Value": 4471
     },
     {
       "Number": 3485,
@@ -20914,13 +20914,13 @@
       "Number": 3489,
       "ReferenceID": 8953,
       "ReferenceType": "CFV",
-      "Value": 4312
+      "Value": 4326
     },
     {
       "Number": 3490,
       "ReferenceID": 8971,
       "ReferenceType": "CBLT",
-      "Value": 4681
+      "Value": 4695
     },
     {
       "Number": 3491,
@@ -20974,7 +20974,7 @@
       "Number": 3499,
       "ReferenceID": 8955,
       "ReferenceType": "CFV",
-      "Value": 4389
+      "Value": 4403
     },
     {
       "Number": 3500,
@@ -21004,7 +21004,7 @@
       "Number": 3504,
       "ReferenceID": 8632,
       "ReferenceType": "CFV",
-      "Value": 1164
+      "Value": 1176
     },
     {
       "Number": 3505,
@@ -21034,7 +21034,7 @@
       "Number": 3509,
       "ReferenceID": 8891,
       "ReferenceType": "CFV",
-      "Value": 9436
+      "Value": 10928
     },
     {
       "Number": 3510,
@@ -21070,7 +21070,7 @@
       "Number": 3515,
       "ReferenceID": 8932,
       "ReferenceType": "CBLT",
-      "Value": 755
+      "Value": 764
     },
     {
       "Number": 3516,
@@ -21082,7 +21082,7 @@
       "Number": 3517,
       "ReferenceID": 8932,
       "ReferenceType": "CUV",
-      "Value": 44
+      "Value": 46
     },
     {
       "Number": 3518,
@@ -21094,7 +21094,7 @@
       "Number": 3519,
       "ReferenceID": 8932,
       "ReferenceType": "CFV",
-      "Value": 710
+      "Value": 717
     },
     {
       "Number": 3520,
@@ -21142,7 +21142,7 @@
       "Number": 3527,
       "ReferenceID": 8917,
       "ReferenceType": "CUV",
-      "Value": 393
+      "Value": 404
     },
     {
       "Number": 3528,
@@ -21172,7 +21172,7 @@
       "Number": 3532,
       "ReferenceID": 8956,
       "ReferenceType": "CUV",
-      "Value": 41
+      "Value": 43
     },
     {
       "Number": 3533,
@@ -21190,7 +21190,7 @@
       "Number": 3535,
       "ReferenceID": 8920,
       "ReferenceType": "CBLT",
-      "Value": 7140
+      "Value": 7144
     },
     {
       "Number": 3536,
@@ -21220,7 +21220,7 @@
       "Number": 3540,
       "ReferenceID": 8919,
       "ReferenceType": "CBLT",
-      "Value": 7140
+      "Value": 7144
     },
     {
       "Number": 3541,
@@ -21250,7 +21250,7 @@
       "Number": 3545,
       "ReferenceID": 8899,
       "ReferenceType": "CBLT",
-      "Value": 9228
+      "Value": 11274
     },
     {
       "Number": 3546,
@@ -21304,7 +21304,7 @@
       "Number": 3554,
       "ReferenceID": 8900,
       "ReferenceType": "CFV",
-      "Value": 3215
+      "Value": 3220
     },
     {
       "Number": 3555,
@@ -21322,7 +21322,7 @@
       "Number": 3557,
       "ReferenceID": 8940,
       "ReferenceType": "CUV",
-      "Value": 479
+      "Value": 488
     },
     {
       "Number": 3558,
@@ -21334,7 +21334,7 @@
       "Number": 3559,
       "ReferenceID": 8940,
       "ReferenceType": "CFV",
-      "Value": 5928
+      "Value": 5995
     },
     {
       "Number": 3560,
@@ -21394,13 +21394,13 @@
       "Number": 3569,
       "ReferenceID": 8903,
       "ReferenceType": "CFV",
-      "Value": 2671
+      "Value": 2679
     },
     {
       "Number": 3570,
       "ReferenceID": 8901,
       "ReferenceType": "CBLT",
-      "Value": 2854
+      "Value": 2862
     },
     {
       "Number": 3571,
@@ -21430,7 +21430,7 @@
       "Number": 3575,
       "ReferenceID": 8957,
       "ReferenceType": "CBLT",
-      "Value": 5479
+      "Value": 5614
     },
     {
       "Number": 3576,
@@ -21484,7 +21484,7 @@
       "Number": 3584,
       "ReferenceID": 8834,
       "ReferenceType": "CFV",
-      "Value": 3464
+      "Value": 3545
     },
     {
       "Number": 3585,
@@ -21502,7 +21502,7 @@
       "Number": 3587,
       "ReferenceID": 8835,
       "ReferenceType": "CUV",
-      "Value": 96
+      "Value": 102
     },
     {
       "Number": 3588,
@@ -21520,7 +21520,7 @@
       "Number": 3590,
       "ReferenceID": 8836,
       "ReferenceType": "CBLT",
-      "Value": 3663
+      "Value": 3751
     },
     {
       "Number": 3591,
@@ -21532,7 +21532,7 @@
       "Number": 3592,
       "ReferenceID": 8836,
       "ReferenceType": "CUV",
-      "Value": 150
+      "Value": 156
     },
     {
       "Number": 3593,
@@ -21562,7 +21562,7 @@
       "Number": 3597,
       "ReferenceID": 8837,
       "ReferenceType": "CUV",
-      "Value": 424
+      "Value": 442
     },
     {
       "Number": 3598,
@@ -21592,7 +21592,7 @@
       "Number": 3602,
       "ReferenceID": 8969,
       "ReferenceType": "CUV",
-      "Value": 93
+      "Value": 108
     },
     {
       "Number": 3603,
@@ -21604,7 +21604,7 @@
       "Number": 3604,
       "ReferenceID": 8969,
       "ReferenceType": "CFV",
-      "Value": 2223
+      "Value": 2738
     },
     {
       "Number": 3605,
@@ -21682,7 +21682,7 @@
       "Number": 3617,
       "ReferenceID": 8960,
       "ReferenceType": "CUV",
-      "Value": 3506
+      "Value": 4040
     },
     {
       "Number": 3618,
@@ -21790,7 +21790,7 @@
       "Number": 3635,
       "ReferenceID": 8892,
       "ReferenceType": "CBLT",
-      "Value": 401113
+      "Value": 404638
     },
     {
       "Number": 3636,
@@ -21814,13 +21814,13 @@
       "Number": 3639,
       "ReferenceID": 8892,
       "ReferenceType": "CFV",
-      "Value": 373889
+      "Value": 377175
     },
     {
       "Number": 3640,
       "ReferenceID": 8945,
       "ReferenceType": "CBLT",
-      "Value": 3830
+      "Value": 3860
     },
     {
       "Number": 3641,
@@ -21880,7 +21880,7 @@
       "Number": 3650,
       "ReferenceID": 8839,
       "ReferenceType": "CBLT",
-      "Value": 8095
+      "Value": 8106
     },
     {
       "Number": 3651,
@@ -21904,7 +21904,7 @@
       "Number": 3654,
       "ReferenceID": 8839,
       "ReferenceType": "CFV",
-      "Value": 7823
+      "Value": 7834
     },
     {
       "Number": 3655,
@@ -21934,13 +21934,13 @@
       "Number": 3659,
       "ReferenceID": 8938,
       "ReferenceType": "CFV",
-      "Value": 7759
+      "Value": 7768
     },
     {
       "Number": 3660,
       "ReferenceID": 8905,
       "ReferenceType": "CBLT",
-      "Value": 5999
+      "Value": 6014
     },
     {
       "Number": 3661,
@@ -21964,7 +21964,7 @@
       "Number": 3664,
       "ReferenceID": 8905,
       "ReferenceType": "CFV",
-      "Value": 5423
+      "Value": 5437
     },
     {
       "Number": 3665,
@@ -22012,7 +22012,7 @@
       "Number": 3672,
       "ReferenceID": 8963,
       "ReferenceType": "CUV",
-      "Value": 889
+      "Value": 895
     },
     {
       "Number": 3673,
@@ -22024,7 +22024,7 @@
       "Number": 3674,
       "ReferenceID": 8963,
       "ReferenceType": "CFV",
-      "Value": 19856
+      "Value": 19941
     },
     {
       "Number": 3675,
@@ -22042,7 +22042,7 @@
       "Number": 3677,
       "ReferenceID": 8907,
       "ReferenceType": "CUV",
-      "Value": 306
+      "Value": 332
     },
     {
       "Number": 3678,
@@ -22060,7 +22060,7 @@
       "Number": 3680,
       "ReferenceID": 8906,
       "ReferenceType": "CBLT",
-      "Value": 4682
+      "Value": 5124
     },
     {
       "Number": 3681,
@@ -22072,7 +22072,7 @@
       "Number": 3682,
       "ReferenceID": 8906,
       "ReferenceType": "CUV",
-      "Value": 286
+      "Value": 317
     },
     {
       "Number": 3683,
@@ -22084,13 +22084,13 @@
       "Number": 3684,
       "ReferenceID": 8906,
       "ReferenceType": "CFV",
-      "Value": 4394
+      "Value": 4805
     },
     {
       "Number": 3685,
       "ReferenceID": 8922,
       "ReferenceType": "CBLT",
-      "Value": 8336
+      "Value": 8345
     },
     {
       "Number": 3686,
@@ -22144,13 +22144,13 @@
       "Number": 3694,
       "ReferenceID": 8923,
       "ReferenceType": "CFV",
-      "Value": 7631
+      "Value": 7640
     },
     {
       "Number": 3695,
       "ReferenceID": 8924,
       "ReferenceType": "CBLT",
-      "Value": 8336
+      "Value": 8345
     },
     {
       "Number": 3696,
@@ -22180,7 +22180,7 @@
       "Number": 3700,
       "ReferenceID": 8925,
       "ReferenceType": "CBLT",
-      "Value": 8336
+      "Value": 8345
     },
     {
       "Number": 3701,
@@ -22234,7 +22234,7 @@
       "Number": 3709,
       "ReferenceID": 8926,
       "ReferenceType": "CFV",
-      "Value": 7510
+      "Value": 7519
     },
     {
       "Number": 3710,
@@ -22270,7 +22270,7 @@
       "Number": 3715,
       "ReferenceID": 8928,
       "ReferenceType": "CBLT",
-      "Value": 8342
+      "Value": 8351
     },
     {
       "Number": 3716,
@@ -22294,7 +22294,7 @@
       "Number": 3719,
       "ReferenceID": 8928,
       "ReferenceType": "CFV",
-      "Value": 7449
+      "Value": 7458
     },
     {
       "Number": 3720,
@@ -22324,7 +22324,7 @@
       "Number": 3724,
       "ReferenceID": 8929,
       "ReferenceType": "CFV",
-      "Value": 7407
+      "Value": 7416
     },
     {
       "Number": 3725,
@@ -22360,7 +22360,7 @@
       "Number": 3730,
       "ReferenceID": 8908,
       "ReferenceType": "CBLT",
-      "Value": 2493
+      "Value": 2818
     },
     {
       "Number": 3731,
@@ -22402,7 +22402,7 @@
       "Number": 3737,
       "ReferenceID": 8909,
       "ReferenceType": "CUV",
-      "Value": 861
+      "Value": 863
     },
     {
       "Number": 3738,
@@ -22414,7 +22414,7 @@
       "Number": 3739,
       "ReferenceID": 8909,
       "ReferenceType": "CFV",
-      "Value": 14126
+      "Value": 14136
     },
     {
       "Number": 3740,
@@ -22432,7 +22432,7 @@
       "Number": 3742,
       "ReferenceID": 8843,
       "ReferenceType": "CUV",
-      "Value": 1007
+      "Value": 1011
     },
     {
       "Number": 3743,
@@ -22444,13 +22444,13 @@
       "Number": 3744,
       "ReferenceID": 8843,
       "ReferenceType": "CFV",
-      "Value": 13963
+      "Value": 13971
     },
     {
       "Number": 3745,
       "ReferenceID": 8910,
       "ReferenceType": "CBLT",
-      "Value": 14996
+      "Value": 15008
     },
     {
       "Number": 3746,
@@ -22462,7 +22462,7 @@
       "Number": 3747,
       "ReferenceID": 8910,
       "ReferenceType": "CUV",
-      "Value": 1856
+      "Value": 1862
     },
     {
       "Number": 3748,
@@ -22480,7 +22480,7 @@
       "Number": 3750,
       "ReferenceID": 8911,
       "ReferenceType": "CBLT",
-      "Value": 14996
+      "Value": 15008
     },
     {
       "Number": 3751,
@@ -22522,7 +22522,7 @@
       "Number": 3757,
       "ReferenceID": 8912,
       "ReferenceType": "CUV",
-      "Value": 1899
+      "Value": 1903
     },
     {
       "Number": 3758,
@@ -22534,13 +22534,13 @@
       "Number": 3759,
       "ReferenceID": 8912,
       "ReferenceType": "CFV",
-      "Value": 13086
+      "Value": 13094
     },
     {
       "Number": 3760,
       "ReferenceID": 8965,
       "ReferenceType": "CBLT",
-      "Value": 14996
+      "Value": 15008
     },
     {
       "Number": 3761,
@@ -22582,7 +22582,7 @@
       "Number": 3767,
       "ReferenceID": 8966,
       "ReferenceType": "CUV",
-      "Value": 1734
+      "Value": 1738
     },
     {
       "Number": 3768,
@@ -22594,13 +22594,13 @@
       "Number": 3769,
       "ReferenceID": 8966,
       "ReferenceType": "CFV",
-      "Value": 13256
+      "Value": 13264
     },
     {
       "Number": 3770,
       "ReferenceID": 8967,
       "ReferenceType": "CBLT",
-      "Value": 14996
+      "Value": 15008
     },
     {
       "Number": 3771,
@@ -22630,7 +22630,7 @@
       "Number": 3775,
       "ReferenceID": 8972,
       "ReferenceType": "CBLT",
-      "Value": 3018
+      "Value": 3019
     },
     {
       "Number": 3776,
@@ -22654,7 +22654,7 @@
       "Number": 3779,
       "ReferenceID": 8972,
       "ReferenceType": "CFV",
-      "Value": 2846
+      "Value": 2847
     },
     {
       "Number": 3780,
@@ -22714,13 +22714,13 @@
       "Number": 3789,
       "ReferenceID": 8935,
       "ReferenceType": "CFV",
-      "Value": 884
+      "Value": 918
     },
     {
       "Number": 3790,
       "ReferenceID": 8968,
       "ReferenceType": "CBLT",
-      "Value": 5090
+      "Value": 5636
     },
     {
       "Number": 3791,
@@ -22732,7 +22732,7 @@
       "Number": 3792,
       "ReferenceID": 8968,
       "ReferenceType": "CUV",
-      "Value": 303
+      "Value": 344
     },
     {
       "Number": 3793,
@@ -22750,7 +22750,7 @@
       "Number": 3795,
       "ReferenceID": 8914,
       "ReferenceType": "CBLT",
-      "Value": 4196
+      "Value": 4204
     },
     {
       "Number": 3796,
@@ -22792,7 +22792,7 @@
       "Number": 3802,
       "ReferenceID": 8949,
       "ReferenceType": "CUV",
-      "Value": 435
+      "Value": 526
     },
     {
       "Number": 3803,
@@ -22804,13 +22804,13 @@
       "Number": 3804,
       "ReferenceID": 8949,
       "ReferenceType": "CFV",
-      "Value": 9474
+      "Value": 11645
     },
     {
       "Number": 3805,
       "ReferenceID": 8951,
       "ReferenceType": "CBLT",
-      "Value": 7422
+      "Value": 7538
     },
     {
       "Number": 3806,
@@ -22840,7 +22840,7 @@
       "Number": 3810,
       "ReferenceID": 8931,
       "ReferenceType": "CBLT",
-      "Value": 10206
+      "Value": 10743
     },
     {
       "Number": 3811,
@@ -22930,7 +22930,7 @@
       "Number": 3825,
       "ReferenceID": 8942,
       "ReferenceType": "CBLT",
-      "Value": 58600
+      "Value": 65971
     },
     {
       "Number": 3826,
@@ -22942,7 +22942,7 @@
       "Number": 3827,
       "ReferenceID": 8942,
       "ReferenceType": "CUV",
-      "Value": 5521
+      "Value": 6378
     },
     {
       "Number": 3828,
@@ -22990,7 +22990,7 @@
       "Number": 3835,
       "ReferenceID": 8939,
       "ReferenceType": "CBLT",
-      "Value": 2163
+      "Value": 2222
     },
     {
       "Number": 3836,
@@ -23050,7 +23050,7 @@
       "Number": 3845,
       "ReferenceID": 8952,
       "ReferenceType": "CBLT",
-      "Value": 9118
+      "Value": 9129
     },
     {
       "Number": 3846,
@@ -23062,7 +23062,7 @@
       "Number": 3847,
       "ReferenceID": 8952,
       "ReferenceType": "CUV",
-      "Value": 770
+      "Value": 771
     },
     {
       "Number": 3848,
@@ -23074,13 +23074,13 @@
       "Number": 3849,
       "ReferenceID": 8952,
       "ReferenceType": "CFV",
-      "Value": 8343
+      "Value": 8353
     },
     {
       "Number": 3850,
       "ReferenceID": 8948,
       "ReferenceType": "CBLT",
-      "Value": 45420
+      "Value": 48846
     },
     {
       "Number": 3851,
@@ -23122,7 +23122,7 @@
       "Number": 3857,
       "ReferenceID": 8946,
       "ReferenceType": "CUV",
-      "Value": 4451
+      "Value": 4516
     },
     {
       "Number": 3858,
@@ -23134,7 +23134,7 @@
       "Number": 3859,
       "ReferenceID": 8946,
       "ReferenceType": "CFV",
-      "Value": 55455
+      "Value": 56052
     },
     {
       "Number": 3860,
@@ -23164,7 +23164,7 @@
       "Number": 3864,
       "ReferenceID": 8844,
       "ReferenceType": "CFV",
-      "Value": 16346
+      "Value": 16354
     },
     {
       "Number": 3865,
@@ -23194,7 +23194,7 @@
       "Number": 3869,
       "ReferenceID": 8934,
       "ReferenceType": "CFV",
-      "Value": 478418
+      "Value": 486278
     },
     {
       "Number": 3870,
@@ -23212,7 +23212,7 @@
       "Number": 3872,
       "ReferenceID": 8391,
       "ReferenceType": "CUV",
-      "Value": 4710
+      "Value": 4718
     },
     {
       "Number": 3873,
@@ -23224,13 +23224,13 @@
       "Number": 3874,
       "ReferenceID": 8391,
       "ReferenceType": "CFV",
-      "Value": 20391
+      "Value": 20404
     },
     {
       "Number": 3875,
       "ReferenceID": 8873,
       "ReferenceType": "CBLT",
-      "Value": 35168
+      "Value": 35196
     },
     {
       "Number": 3876,
@@ -23272,13 +23272,13 @@
       "Number": 3882,
       "ReferenceID": 8392,
       "ReferenceType": "CUV",
-      "Value": 6634
+      "Value": 6965
     },
     {
       "Number": 3883,
       "ReferenceID": 8392,
       "ReferenceType": "CPV",
-      "Value": 4945
+      "Value": 5352
     },
     {
       "Number": 3884,
@@ -23362,7 +23362,7 @@
       "Number": 3897,
       "ReferenceID": 8415,
       "ReferenceType": "CUV",
-      "Value": 620
+      "Value": 621
     },
     {
       "Number": 3898,
@@ -23374,7 +23374,7 @@
       "Number": 3899,
       "ReferenceID": 8415,
       "ReferenceType": "CFV",
-      "Value": 3091
+      "Value": 3093
     },
     {
       "Number": 3900,
@@ -23410,7 +23410,7 @@
       "Number": 3905,
       "ReferenceID": 8418,
       "ReferenceType": "CBLT",
-      "Value": 22504
+      "Value": 22821
     },
     {
       "Number": 3906,
@@ -23452,7 +23452,7 @@
       "Number": 3912,
       "ReferenceID": 8419,
       "ReferenceType": "CUV",
-      "Value": 1812
+      "Value": 1829
     },
     {
       "Number": 3913,
@@ -23500,7 +23500,7 @@
       "Number": 3920,
       "ReferenceID": 8422,
       "ReferenceType": "CBLT",
-      "Value": 28617
+      "Value": 28719
     },
     {
       "Number": 3921,
@@ -23512,7 +23512,7 @@
       "Number": 3922,
       "ReferenceID": 8422,
       "ReferenceType": "CUV",
-      "Value": 7400
+      "Value": 7433
     },
     {
       "Number": 3923,
@@ -23524,7 +23524,7 @@
       "Number": 3924,
       "ReferenceID": 8422,
       "ReferenceType": "CFV",
-      "Value": 21205
+      "Value": 21274
     },
     {
       "Number": 3925,
@@ -23560,7 +23560,7 @@
       "Number": 3930,
       "ReferenceID": 8424,
       "ReferenceType": "CBLT",
-      "Value": 82269
+      "Value": 90364
     },
     {
       "Number": 3931,
@@ -23602,7 +23602,7 @@
       "Number": 3937,
       "ReferenceID": 8425,
       "ReferenceType": "CUV",
-      "Value": 5582
+      "Value": 5941
     },
     {
       "Number": 3938,
@@ -23614,13 +23614,13 @@
       "Number": 3939,
       "ReferenceID": 8425,
       "ReferenceType": "CFV",
-      "Value": 33273
+      "Value": 34967
     },
     {
       "Number": 3940,
       "ReferenceID": 8624,
       "ReferenceType": "CBLT",
-      "Value": 5857
+      "Value": 5861
     },
     {
       "Number": 3941,
@@ -23650,7 +23650,7 @@
       "Number": 3945,
       "ReferenceID": 8782,
       "ReferenceType": "CBLT",
-      "Value": 12568
+      "Value": 12575
     },
     {
       "Number": 3946,
@@ -23680,7 +23680,7 @@
       "Number": 3950,
       "ReferenceID": 8783,
       "ReferenceType": "CBLT",
-      "Value": 14757
+      "Value": 14765
     },
     {
       "Number": 3951,
@@ -23692,7 +23692,7 @@
       "Number": 3952,
       "ReferenceID": 8783,
       "ReferenceType": "CUV",
-      "Value": 2285
+      "Value": 2287
     },
     {
       "Number": 3953,
@@ -23704,7 +23704,7 @@
       "Number": 3954,
       "ReferenceID": 8783,
       "ReferenceType": "CFV",
-      "Value": 12416
+      "Value": 12422
     },
     {
       "Number": 3955,
@@ -23740,7 +23740,7 @@
       "Number": 3960,
       "ReferenceID": 8381,
       "ReferenceType": "CBLT",
-      "Value": 3144
+      "Value": 3149
     },
     {
       "Number": 3961,
@@ -23782,19 +23782,19 @@
       "Number": 3967,
       "ReferenceID": 8385,
       "ReferenceType": "CUV",
-      "Value": 288
+      "Value": 291
     },
     {
       "Number": 3968,
       "ReferenceID": 8385,
       "ReferenceType": "CPV",
-      "Value": 901
+      "Value": 908
     },
     {
       "Number": 3969,
       "ReferenceID": 8385,
       "ReferenceType": "CFV",
-      "Value": 629
+      "Value": 633
     },
     {
       "Number": 3970,
@@ -23812,7 +23812,7 @@
       "Number": 3972,
       "ReferenceID": 8388,
       "ReferenceType": "CUV",
-      "Value": 92
+      "Value": 93
     },
     {
       "Number": 3973,
@@ -23824,7 +23824,7 @@
       "Number": 3974,
       "ReferenceID": 8388,
       "ReferenceType": "CFV",
-      "Value": 520
+      "Value": 521
     },
     {
       "Number": 3975,
@@ -23860,7 +23860,7 @@
       "Number": 3980,
       "ReferenceID": 8379,
       "ReferenceType": "CBLT",
-      "Value": 2549
+      "Value": 2550
     },
     {
       "Number": 3981,
@@ -23890,7 +23890,7 @@
       "Number": 3985,
       "ReferenceID": 8771,
       "ReferenceType": "CBLT",
-      "Value": 248734
+      "Value": 248892
     },
     {
       "Number": 3986,
@@ -23932,7 +23932,7 @@
       "Number": 3992,
       "ReferenceID": 8772,
       "ReferenceType": "CUV",
-      "Value": 80369
+      "Value": 82532
     },
     {
       "Number": 3993,
@@ -23962,7 +23962,7 @@
       "Number": 3997,
       "ReferenceID": 8774,
       "ReferenceType": "CUV",
-      "Value": 242055
+      "Value": 249333
     },
     {
       "Number": 3998,
@@ -24010,7 +24010,7 @@
       "Number": 4005,
       "ReferenceID": 8776,
       "ReferenceType": "CBLT",
-      "Value": 1051321
+      "Value": 1080189
     },
     {
       "Number": 4006,
@@ -24052,7 +24052,7 @@
       "Number": 4012,
       "ReferenceID": 8777,
       "ReferenceType": "CUV",
-      "Value": 251677
+      "Value": 258856
     },
     {
       "Number": 4013,
@@ -24064,7 +24064,7 @@
       "Number": 4014,
       "ReferenceID": 8777,
       "ReferenceType": "CFV",
-      "Value": 799075
+      "Value": 820764
     },
     {
       "Number": 4015,
@@ -24100,7 +24100,7 @@
       "Number": 4020,
       "ReferenceID": 8779,
       "ReferenceType": "CBLT",
-      "Value": 1051329
+      "Value": 1080197
     },
     {
       "Number": 4021,
@@ -24130,7 +24130,7 @@
       "Number": 4025,
       "ReferenceID": 8930,
       "ReferenceType": "CBLT",
-      "Value": 1051278
+      "Value": 1080146
     },
     {
       "Number": 4026,
@@ -24154,7 +24154,7 @@
       "Number": 4029,
       "ReferenceID": 8930,
       "ReferenceType": "CFV",
-      "Value": 974829
+      "Value": 1002058
     },
     {
       "Number": 4030,
@@ -24172,7 +24172,7 @@
       "Number": 4032,
       "ReferenceID": 8943,
       "ReferenceType": "CUV",
-      "Value": 107482
+      "Value": 109959
     },
     {
       "Number": 4033,
@@ -24184,13 +24184,13 @@
       "Number": 4034,
       "ReferenceID": 8943,
       "ReferenceType": "CFV",
-      "Value": 943251
+      "Value": 969642
     },
     {
       "Number": 4035,
       "ReferenceID": 8762,
       "ReferenceType": "CBLT",
-      "Value": 1051239
+      "Value": 1080107
     },
     {
       "Number": 4036,
@@ -24202,7 +24202,7 @@
       "Number": 4037,
       "ReferenceID": 8762,
       "ReferenceType": "CUV",
-      "Value": 26107
+      "Value": 26579
     },
     {
       "Number": 4038,
@@ -24232,7 +24232,7 @@
       "Number": 4042,
       "ReferenceID": 8763,
       "ReferenceType": "CUV",
-      "Value": 51107
+      "Value": 52186
     },
     {
       "Number": 4043,
@@ -24244,7 +24244,7 @@
       "Number": 4044,
       "ReferenceID": 8763,
       "ReferenceType": "CFV",
-      "Value": 999718
+      "Value": 1027507
     },
     {
       "Number": 4045,
@@ -24262,7 +24262,7 @@
       "Number": 4047,
       "ReferenceID": 8764,
       "ReferenceType": "CUV",
-      "Value": 52078
+      "Value": 53115
     },
     {
       "Number": 4048,
@@ -24280,7 +24280,7 @@
       "Number": 4050,
       "ReferenceID": 8765,
       "ReferenceType": "CBLT",
-      "Value": 1051164
+      "Value": 1080032
     },
     {
       "Number": 4051,
@@ -24322,7 +24322,7 @@
       "Number": 4057,
       "ReferenceID": 8766,
       "ReferenceType": "CUV",
-      "Value": 57292
+      "Value": 58500
     },
     {
       "Number": 4058,
@@ -24334,13 +24334,13 @@
       "Number": 4059,
       "ReferenceID": 8766,
       "ReferenceType": "CFV",
-      "Value": 993636
+      "Value": 1021296
     },
     {
       "Number": 4060,
       "ReferenceID": 8767,
       "ReferenceType": "CBLT",
-      "Value": 1051161
+      "Value": 1080029
     },
     {
       "Number": 4061,
@@ -24352,7 +24352,7 @@
       "Number": 4062,
       "ReferenceID": 8767,
       "ReferenceType": "CUV",
-      "Value": 50292
+      "Value": 51439
     },
     {
       "Number": 4063,
@@ -24424,7 +24424,7 @@
       "Number": 4074,
       "ReferenceID": 8769,
       "ReferenceType": "CFV",
-      "Value": 911624
+      "Value": 936382
     },
     {
       "Number": 4075,
@@ -24460,7 +24460,7 @@
       "Number": 4080,
       "ReferenceID": 8822,
       "ReferenceType": "CBLT",
-      "Value": 1051027
+      "Value": 1079895
     },
     {
       "Number": 4081,
@@ -24502,7 +24502,7 @@
       "Number": 4087,
       "ReferenceID": 8823,
       "ReferenceType": "CUV",
-      "Value": 52569
+      "Value": 54085
     },
     {
       "Number": 4088,
@@ -24514,13 +24514,13 @@
       "Number": 4089,
       "ReferenceID": 8823,
       "ReferenceType": "CFV",
-      "Value": 996889
+      "Value": 1024241
     },
     {
       "Number": 4090,
       "ReferenceID": 8824,
       "ReferenceType": "CBLT",
-      "Value": 1050336
+      "Value": 1079204
     },
     {
       "Number": 4091,
@@ -24550,7 +24550,7 @@
       "Number": 4095,
       "ReferenceID": 8825,
       "ReferenceType": "CBLT",
-      "Value": 1050335
+      "Value": 1079203
     },
     {
       "Number": 4096,
@@ -24562,7 +24562,7 @@
       "Number": 4097,
       "ReferenceID": 8825,
       "ReferenceType": "CUV",
-      "Value": 45060
+      "Value": 46122
     },
     {
       "Number": 4098,
@@ -24592,7 +24592,7 @@
       "Number": 4102,
       "ReferenceID": 8826,
       "ReferenceType": "CUV",
-      "Value": 48981
+      "Value": 50482
     },
     {
       "Number": 4103,
@@ -24604,7 +24604,7 @@
       "Number": 4104,
       "ReferenceID": 8826,
       "ReferenceType": "CFV",
-      "Value": 999814
+      "Value": 1027181
     },
     {
       "Number": 4105,
@@ -24622,7 +24622,7 @@
       "Number": 4107,
       "ReferenceID": 8827,
       "ReferenceType": "CUV",
-      "Value": 42155
+      "Value": 43352
     },
     {
       "Number": 4108,
@@ -24640,7 +24640,7 @@
       "Number": 4110,
       "ReferenceID": 8828,
       "ReferenceType": "CBLT",
-      "Value": 1050263
+      "Value": 1079131
     },
     {
       "Number": 4111,
@@ -24682,7 +24682,7 @@
       "Number": 4117,
       "ReferenceID": 8877,
       "ReferenceType": "CUV",
-      "Value": 241769
+      "Value": 247890
     },
     {
       "Number": 4118,
@@ -24694,7 +24694,7 @@
       "Number": 4119,
       "ReferenceID": 8877,
       "ReferenceType": "CFV",
-      "Value": 807939
+      "Value": 830686
     },
     {
       "Number": 4120,
@@ -24730,7 +24730,7 @@
       "Number": 4125,
       "ReferenceID": 8879,
       "ReferenceType": "CBLT",
-      "Value": 1050130
+      "Value": 1078998
     },
     {
       "Number": 4126,
@@ -24760,7 +24760,7 @@
       "Number": 4130,
       "ReferenceID": 8881,
       "ReferenceType": "CBLT",
-      "Value": 1049982
+      "Value": 1078850
     },
     {
       "Number": 4131,
@@ -24784,13 +24784,13 @@
       "Number": 4134,
       "ReferenceID": 8881,
       "ReferenceType": "CFV",
-      "Value": 776356
+      "Value": 797590
     },
     {
       "Number": 4135,
       "ReferenceID": 8882,
       "ReferenceType": "CBLT",
-      "Value": 1049885
+      "Value": 1078753
     },
     {
       "Number": 4136,
@@ -24814,7 +24814,7 @@
       "Number": 4139,
       "ReferenceID": 8882,
       "ReferenceType": "CFV",
-      "Value": 763549
+      "Value": 784727
     },
     {
       "Number": 4140,
@@ -24832,7 +24832,7 @@
       "Number": 4142,
       "ReferenceID": 8887,
       "ReferenceType": "CUV",
-      "Value": 297070
+      "Value": 305204
     },
     {
       "Number": 4143,
@@ -24850,7 +24850,7 @@
       "Number": 4145,
       "ReferenceID": 8974,
       "ReferenceType": "CBLT",
-      "Value": 1049863
+      "Value": 1078731
     },
     {
       "Number": 4146,
@@ -24862,7 +24862,7 @@
       "Number": 4147,
       "ReferenceID": 8974,
       "ReferenceType": "CUV",
-      "Value": 297466
+      "Value": 305644
     },
     {
       "Number": 4148,
@@ -24892,7 +24892,7 @@
       "Number": 4152,
       "ReferenceID": 8883,
       "ReferenceType": "CUV",
-      "Value": 300728
+      "Value": 309033
     },
     {
       "Number": 4153,
@@ -24904,7 +24904,7 @@
       "Number": 4154,
       "ReferenceID": 8883,
       "ReferenceType": "CFV",
-      "Value": 748465
+      "Value": 769028
     },
     {
       "Number": 4155,
@@ -24940,7 +24940,7 @@
       "Number": 4160,
       "ReferenceID": 8885,
       "ReferenceType": "CBLT",
-      "Value": 1049716
+      "Value": 1078584
     },
     {
       "Number": 4161,
@@ -24982,7 +24982,7 @@
       "Number": 4167,
       "ReferenceID": 8886,
       "ReferenceType": "CUV",
-      "Value": 307661
+      "Value": 316265
     },
     {
       "Number": 4168,
@@ -24994,13 +24994,13 @@
       "Number": 4169,
       "ReferenceID": 8886,
       "ReferenceType": "CFV",
-      "Value": 741425
+      "Value": 761689
     },
     {
       "Number": 4170,
       "ReferenceID": 8888,
       "ReferenceType": "CBLT",
-      "Value": 1049635
+      "Value": 1078503
     },
     {
       "Number": 4171,
@@ -25072,7 +25072,7 @@
       "Number": 4182,
       "ReferenceID": 8889,
       "ReferenceType": "CUV",
-      "Value": 307885
+      "Value": 316576
     },
     {
       "Number": 4183,
@@ -25084,7 +25084,7 @@
       "Number": 4184,
       "ReferenceID": 8889,
       "ReferenceType": "CFV",
-      "Value": 740778
+      "Value": 760955
     },
     {
       "Number": 4185,
@@ -25144,13 +25144,13 @@
       "Number": 4194,
       "ReferenceID": 8975,
       "ReferenceType": "CFV",
-      "Value": 743315
+      "Value": 763524
     },
     {
       "Number": 4195,
       "ReferenceID": 0,
       "ReferenceType": "PBLT",
-      "Value": 1051264
+      "Value": 1080132
     },
     {
       "Number": 4196,
@@ -25162,7 +25162,7 @@
       "Number": 4197,
       "ReferenceID": 4300,
       "ReferenceType": "DBLT",
-      "Value": 198932
+      "Value": 227800
     },
     {
       "Number": 4198,
@@ -25180,7 +25180,7 @@
       "Number": 4200,
       "ReferenceID": 4300,
       "ReferenceType": "DCRD",
-      "Value": 198932
+      "Value": 227800
     },
     {
       "Number": 4201,
@@ -25246,31 +25246,31 @@
       "Number": 4211,
       "ReferenceID": 8699,
       "ReferenceType": "NSEL-01",
-      "Value": 221
+      "Value": 229
     },
     {
       "Number": 4212,
       "ReferenceID": 21870,
       "ReferenceType": "CAND",
-      "Value": 859
+      "Value": 899
     },
     {
       "Number": 4213,
       "ReferenceID": 21871,
       "ReferenceType": "CAND",
-      "Value": 1108
+      "Value": 1163
     },
     {
       "Number": 4214,
       "ReferenceID": 8699,
       "ReferenceType": "WRTN-01",
-      "Value": 11
+      "Value": 12
     },
     {
       "Number": 4215,
       "ReferenceID": 8699,
       "ReferenceType": "CBLT",
-      "Value": 2199
+      "Value": 2303
     },
     {
       "Number": 4216,
@@ -25282,7 +25282,7 @@
       "Number": 4217,
       "ReferenceID": 8699,
       "ReferenceType": "CUV",
-      "Value": 214
+      "Value": 222
     },
     {
       "Number": 4218,
@@ -25294,7 +25294,7 @@
       "Number": 4219,
       "ReferenceID": 8699,
       "ReferenceType": "CFV",
-      "Value": 1978
+      "Value": 2074
     }
   ],
   "TimeStamp": "11/8/2022 11:42:58 PM"
