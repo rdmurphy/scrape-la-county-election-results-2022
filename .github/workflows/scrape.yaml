@@ -1,0 +1,32 @@
+name: Scrape latest election results data
+
+on:
+  # Run every repo push
+  push:
+  # Run when triggered manually
+  workflow_dispatch:
+  # Run every 5 minutes
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Scrape the data
+        run: |
+          curl "https://results.lavote.gov/electionresults/json?electionid=4300" | jq > results.json
+
+      - name: Get a timestamp
+        id: timestamp
+        run: echo "::set-output name=timestamp::$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+
+      - name: Commit results.json to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Latest results: ${{ steps.timestamp.outputs.timestamp }}"
+          file_pattern: results.json
+          skip_fetch: true
