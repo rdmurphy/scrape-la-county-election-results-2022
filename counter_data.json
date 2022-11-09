@@ -3493,6 +3493,12 @@
       "Value": 2204
     },
     {
+      "Number": 2426,
+      "ReferenceID": 8697,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
       "Number": 4078,
       "ReferenceID": 8770,
       "ReferenceType": "CPV",
@@ -4505,12 +4511,6 @@
       "ReferenceID": 8631,
       "ReferenceType": "CBLT",
       "Value": 1614
-    },
-    {
-      "Number": 2426,
-      "ReferenceID": 8697,
-      "ReferenceType": "COV",
-      "Value": 1
     },
     {
       "Number": 2157,
@@ -9619,6 +9619,24 @@
       "Value": 14008
     },
     {
+      "Number": 1733,
+      "ReferenceID": 8673,
+      "ReferenceType": "WRTN-01",
+      "Value": 0
+    },
+    {
+      "Number": 1820,
+      "ReferenceID": 8609,
+      "ReferenceType": "WRTN-02",
+      "Value": 2
+    },
+    {
+      "Number": 2116,
+      "ReferenceID": 8692,
+      "ReferenceType": "COV",
+      "Value": 2
+    },
+    {
       "Number": 564,
       "ReferenceID": 21828,
       "ReferenceType": "CAND",
@@ -10637,2046 +10655,6 @@
       "ReferenceID": 8887,
       "ReferenceType": "NSEL-01",
       "Value": 245932
-    },
-    {
-      "Number": 2235,
-      "ReferenceID": 8572,
-      "ReferenceType": "CBLT",
-      "Value": 1780
-    },
-    {
-      "Number": 2305,
-      "ReferenceID": 8833,
-      "ReferenceType": "CBLT",
-      "Value": 3174
-    },
-    {
-      "Number": 2481,
-      "ReferenceID": 8599,
-      "ReferenceType": "COV",
-      "Value": 7
-    },
-    {
-      "Number": 2497,
-      "ReferenceID": 8602,
-      "ReferenceType": "CUV",
-      "Value": 178
-    },
-    {
-      "Number": 128,
-      "ReferenceID": 8600,
-      "ReferenceType": "NSEL-03",
-      "Value": 24
-    },
-    {
-      "Number": 973,
-      "ReferenceID": 20943,
-      "ReferenceType": "CAND",
-      "Value": 3109
-    },
-    {
-      "Number": 3503,
-      "ReferenceID": 8632,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3599,
-      "ReferenceID": 8837,
-      "ReferenceType": "CFV",
-      "Value": 2788
-    },
-    {
-      "Number": 3710,
-      "ReferenceID": 8927,
-      "ReferenceType": "CBLT",
-      "Value": 7225
-    },
-    {
-      "Number": 3731,
-      "ReferenceID": 8908,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 3122,
-      "ReferenceID": 8579,
-      "ReferenceType": "CUV",
-      "Value": 532
-    },
-    {
-      "Number": 3361,
-      "ReferenceID": 8742,
-      "ReferenceType": "COV",
-      "Value": 18
-    },
-    {
-      "Number": 4185,
-      "ReferenceID": 8976,
-      "ReferenceType": "CBLT",
-      "Value": 850643
-    },
-    {
-      "Number": 1220,
-      "ReferenceID": 20777,
-      "ReferenceType": "CAND",
-      "Value": 1696
-    },
-    {
-      "Number": 1882,
-      "ReferenceID": 8557,
-      "ReferenceType": "WRTN-01",
-      "Value": 14
-    },
-    {
-      "Number": 2005,
-      "ReferenceID": 8606,
-      "ReferenceType": "WRTN-01",
-      "Value": 12
-    },
-    {
-      "Number": 2042,
-      "ReferenceID": 8772,
-      "ReferenceType": "WRTN-01",
-      "Value": 2977
-    },
-    {
-      "Number": 2398,
-      "ReferenceID": 8798,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 64,
-      "ReferenceID": 8570,
-      "ReferenceType": "NSEL-02",
-      "Value": 258
-    },
-    {
-      "Number": 432,
-      "ReferenceID": 8892,
-      "ReferenceType": "NSEL-01",
-      "Value": 23150
-    },
-    {
-      "Number": 439,
-      "ReferenceID": 8963,
-      "ReferenceType": "NSEL-01",
-      "Value": 755
-    },
-    {
-      "Number": 556,
-      "ReferenceID": 21676,
-      "ReferenceType": "CAND",
-      "Value": 2168
-    },
-    {
-      "Number": 892,
-      "ReferenceID": 21418,
-      "ReferenceType": "CAND",
-      "Value": 265
-    },
-    {
-      "Number": 3840,
-      "ReferenceID": 8950,
-      "ReferenceType": "CBLT",
-      "Value": 1535
-    },
-    {
-      "Number": 3283,
-      "ReferenceID": 8726,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 4069,
-      "ReferenceID": 8768,
-      "ReferenceType": "CFV",
-      "Value": 792063
-    },
-    {
-      "Number": 1413,
-      "ReferenceID": 21086,
-      "ReferenceType": "CAND",
-      "Value": 568
-    },
-    {
-      "Number": 1435,
-      "ReferenceID": 21347,
-      "ReferenceType": "CAND",
-      "Value": 11421
-    },
-    {
-      "Number": 1639,
-      "ReferenceID": 20683,
-      "ReferenceType": "CAND",
-      "Value": 147840
-    },
-    {
-      "Number": 2231,
-      "ReferenceID": 8648,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 2869,
-      "ReferenceID": 8433,
-      "ReferenceType": "CFV",
-      "Value": 6990
-    },
-    {
-      "Number": 215,
-      "ReferenceID": 8706,
-      "ReferenceType": "NSEL-01",
-      "Value": 1050
-    },
-    {
-      "Number": 278,
-      "ReferenceID": 8480,
-      "ReferenceType": "NSEL-03",
-      "Value": 1180
-    },
-    {
-      "Number": 883,
-      "ReferenceID": 21653,
-      "ReferenceType": "CAND",
-      "Value": 5787
-    },
-    {
-      "Number": 921,
-      "ReferenceID": 21702,
-      "ReferenceType": "CAND",
-      "Value": 787
-    },
-    {
-      "Number": 1073,
-      "ReferenceID": 20608,
-      "ReferenceType": "CAND",
-      "Value": 1916
-    },
-    {
-      "Number": 3918,
-      "ReferenceID": 8420,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2927,
-      "ReferenceID": 8459,
-      "ReferenceType": "CUV",
-      "Value": 238
-    },
-    {
-      "Number": 2929,
-      "ReferenceID": 8459,
-      "ReferenceType": "CFV",
-      "Value": 579
-    },
-    {
-      "Number": 3081,
-      "ReferenceID": 8671,
-      "ReferenceType": "COV",
-      "Value": 2
-    },
-    {
-      "Number": 3225,
-      "ReferenceID": 8715,
-      "ReferenceType": "CBLT",
-      "Value": 150151
-    },
-    {
-      "Number": 3362,
-      "ReferenceID": 8742,
-      "ReferenceType": "CUV",
-      "Value": 3086
-    },
-    {
-      "Number": 4045,
-      "ReferenceID": 8764,
-      "ReferenceType": "CBLT",
-      "Value": 852257
-    },
-    {
-      "Number": 1125,
-      "ReferenceID": 20657,
-      "ReferenceType": "CAND",
-      "Value": 427
-    },
-    {
-      "Number": 1856,
-      "ReferenceID": 8437,
-      "ReferenceType": "WRTN-01",
-      "Value": 14
-    },
-    {
-      "Number": 2185,
-      "ReferenceID": 8641,
-      "ReferenceType": "CBLT",
-      "Value": 1890
-    },
-    {
-      "Number": 2707,
-      "ReferenceID": 8791,
-      "ReferenceType": "CUV",
-      "Value": 209
-    },
-    {
-      "Number": 2777,
-      "ReferenceID": 8865,
-      "ReferenceType": "CUV",
-      "Value": 208
-    },
-    {
-      "Number": 11,
-      "ReferenceID": 8849,
-      "ReferenceType": "NSEL-01",
-      "Value": 47129
-    },
-    {
-      "Number": 68,
-      "ReferenceID": 8677,
-      "ReferenceType": "NSEL-01",
-      "Value": 104
-    },
-    {
-      "Number": 453,
-      "ReferenceID": 8843,
-      "ReferenceType": "NSEL-01",
-      "Value": 937
-    },
-    {
-      "Number": 614,
-      "ReferenceID": 21633,
-      "ReferenceType": "CAND",
-      "Value": 121
-    },
-    {
-      "Number": 690,
-      "ReferenceID": 21461,
-      "ReferenceType": "CAND",
-      "Value": 298
-    },
-    {
-      "Number": 692,
-      "ReferenceID": 21467,
-      "ReferenceType": "CAND",
-      "Value": 196
-    },
-    {
-      "Number": 1942,
-      "ReferenceID": 8480,
-      "ReferenceType": "WRTN-03",
-      "Value": 22
-    },
-    {
-      "Number": 2103,
-      "ReferenceID": 8849,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2209,
-      "ReferenceID": 8645,
-      "ReferenceType": "CFV",
-      "Value": 1140
-    },
-    {
-      "Number": 2656,
-      "ReferenceID": 8857,
-      "ReferenceType": "COV",
-      "Value": 2
-    },
-    {
-      "Number": 3325,
-      "ReferenceID": 8735,
-      "ReferenceType": "CBLT",
-      "Value": 51409
-    },
-    {
-      "Number": 1068,
-      "ReferenceID": 20969,
-      "ReferenceType": "CAND",
-      "Value": 1250
-    },
-    {
-      "Number": 3675,
-      "ReferenceID": 8907,
-      "ReferenceType": "CBLT",
-      "Value": 4026
-    },
-    {
-      "Number": 3866,
-      "ReferenceID": 8934,
-      "ReferenceType": "COV",
-      "Value": 188
-    },
-    {
-      "Number": 3890,
-      "ReferenceID": 8409,
-      "ReferenceType": "CBLT",
-      "Value": 2567
-    },
-    {
-      "Number": 4052,
-      "ReferenceID": 8765,
-      "ReferenceType": "CUV",
-      "Value": 46749
-    },
-    {
-      "Number": 1670,
-      "ReferenceID": 20892,
-      "ReferenceType": "CAND",
-      "Value": 130220
-    },
-    {
-      "Number": 513,
-      "ReferenceID": 8777,
-      "ReferenceType": "NSEL-01",
-      "Value": 207142
-    },
-    {
-      "Number": 517,
-      "ReferenceID": 8943,
-      "ReferenceType": "NSEL-01",
-      "Value": 92721
-    },
-    {
-      "Number": 531,
-      "ReferenceID": 8826,
-      "ReferenceType": "NSEL-01",
-      "Value": 41935
-    },
-    {
-      "Number": 582,
-      "ReferenceID": 21484,
-      "ReferenceType": "CAND",
-      "Value": 394
-    },
-    {
-      "Number": 773,
-      "ReferenceID": 21490,
-      "ReferenceType": "CAND",
-      "Value": 3101
-    },
-    {
-      "Number": 1055,
-      "ReferenceID": 20820,
-      "ReferenceType": "CAND",
-      "Value": 3420
-    },
-    {
-      "Number": 2957,
-      "ReferenceID": 8487,
-      "ReferenceType": "CUV",
-      "Value": 585
-    },
-    {
-      "Number": 3151,
-      "ReferenceID": 8840,
-      "ReferenceType": "COV",
-      "Value": 3
-    },
-    {
-      "Number": 3379,
-      "ReferenceID": 8745,
-      "ReferenceType": "CFV",
-      "Value": 1054
-    },
-    {
-      "Number": 3398,
-      "ReferenceID": 8749,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 1653,
-      "ReferenceID": 20869,
-      "ReferenceType": "CAND",
-      "Value": 501293
-    },
-    {
-      "Number": 1712,
-      "ReferenceID": 8567,
-      "ReferenceType": "WRTN-02",
-      "Value": 3
-    },
-    {
-      "Number": 1755,
-      "ReferenceID": 8680,
-      "ReferenceType": "WRTN-01",
-      "Value": 10
-    },
-    {
-      "Number": 1822,
-      "ReferenceID": 8610,
-      "ReferenceType": "WRTN-02",
-      "Value": 7
-    },
-    {
-      "Number": 1829,
-      "ReferenceID": 8616,
-      "ReferenceType": "WRTN-02",
-      "Value": 11
-    },
-    {
-      "Number": 2706,
-      "ReferenceID": 8791,
-      "ReferenceType": "COV",
-      "Value": 3
-    },
-    {
-      "Number": 3576,
-      "ReferenceID": 8957,
-      "ReferenceType": "COV",
-      "Value": 4
-    },
-    {
-      "Number": 3581,
-      "ReferenceID": 8834,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 4155,
-      "ReferenceID": 8884,
-      "ReferenceType": "CBLT",
-      "Value": 850785
-    },
-    {
-      "Number": 1232,
-      "ReferenceID": 21533,
-      "ReferenceType": "CAND",
-      "Value": 9097
-    },
-    {
-      "Number": 1518,
-      "ReferenceID": 21367,
-      "ReferenceType": "CAND",
-      "Value": 6746
-    },
-    {
-      "Number": 1555,
-      "ReferenceID": 20826,
-      "ReferenceType": "CAND",
-      "Value": 2770
-    },
-    {
-      "Number": 106,
-      "ReferenceID": 8800,
-      "ReferenceType": "NSEL-01",
-      "Value": 24
-    },
-    {
-      "Number": 361,
-      "ReferenceID": 8726,
-      "ReferenceType": "NSEL-01",
-      "Value": 2478
-    },
-    {
-      "Number": 425,
-      "ReferenceID": 8969,
-      "ReferenceType": "NSEL-01",
-      "Value": 71
-    },
-    {
-      "Number": 607,
-      "ReferenceID": 21682,
-      "ReferenceType": "CAND",
-      "Value": 1050
-    },
-    {
-      "Number": 976,
-      "ReferenceID": 20849,
-      "ReferenceType": "CAND",
-      "Value": 1595
-    },
-    {
-      "Number": 3530,
-      "ReferenceID": 8956,
-      "ReferenceType": "CBLT",
-      "Value": 511
-    },
-    {
-      "Number": 1992,
-      "ReferenceID": 8580,
-      "ReferenceType": "WRTN-01",
-      "Value": 10
-    },
-    {
-      "Number": 2191,
-      "ReferenceID": 8642,
-      "ReferenceType": "COV",
-      "Value": 4
-    },
-    {
-      "Number": 2499,
-      "ReferenceID": 8602,
-      "ReferenceType": "CFV",
-      "Value": 1601
-    },
-    {
-      "Number": 3638,
-      "ReferenceID": 8892,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3955,
-      "ReferenceID": 8784,
-      "ReferenceType": "CBLT",
-      "Value": 11108
-    },
-    {
-      "Number": 4162,
-      "ReferenceID": 8885,
-      "ReferenceType": "CUV",
-      "Value": 248878
-    },
-    {
-      "Number": 1242,
-      "ReferenceID": 21510,
-      "ReferenceType": "CAND",
-      "Value": 2438
-    },
-    {
-      "Number": 1431,
-      "ReferenceID": 21341,
-      "ReferenceType": "CAND",
-      "Value": 8262
-    },
-    {
-      "Number": 1589,
-      "ReferenceID": 20677,
-      "ReferenceType": "CAND",
-      "Value": 273
-    },
-    {
-      "Number": 96,
-      "ReferenceID": 8587,
-      "ReferenceType": "NSEL-02",
-      "Value": 203
-    },
-    {
-      "Number": 332,
-      "ReferenceID": 8700,
-      "ReferenceType": "NSEL-01",
-      "Value": 146
-    },
-    {
-      "Number": 384,
-      "ReferenceID": 8749,
-      "ReferenceType": "NSEL-01",
-      "Value": 6218
-    },
-    {
-      "Number": 847,
-      "ReferenceID": 21610,
-      "ReferenceType": "CAND",
-      "Value": 644
-    },
-    {
-      "Number": 3440,
-      "ReferenceID": 8758,
-      "ReferenceType": "CBLT",
-      "Value": 48715
-    },
-    {
-      "Number": 3523,
-      "ReferenceID": 8918,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2684,
-      "ReferenceID": 8502,
-      "ReferenceType": "CFV",
-      "Value": 2200
-    },
-    {
-      "Number": 2840,
-      "ReferenceID": 8807,
-      "ReferenceType": "CBLT",
-      "Value": 1367
-    },
-    {
-      "Number": 2974,
-      "ReferenceID": 8453,
-      "ReferenceType": "CFV",
-      "Value": 1629
-    },
-    {
-      "Number": 3221,
-      "ReferenceID": 8714,
-      "ReferenceType": "COV",
-      "Value": 19
-    },
-    {
-      "Number": 3577,
-      "ReferenceID": 8957,
-      "ReferenceType": "CUV",
-      "Value": 584
-    },
-    {
-      "Number": 3582,
-      "ReferenceID": 8834,
-      "ReferenceType": "CUV",
-      "Value": 184
-    },
-    {
-      "Number": 3732,
-      "ReferenceID": 8908,
-      "ReferenceType": "CUV",
-      "Value": 142
-    },
-    {
-      "Number": 3902,
-      "ReferenceID": 8416,
-      "ReferenceType": "CUV",
-      "Value": 1348
-    },
-    {
-      "Number": 1201,
-      "ReferenceID": 21659,
-      "ReferenceType": "CAND",
-      "Value": 8798
-    },
-    {
-      "Number": 2259,
-      "ReferenceID": 8576,
-      "ReferenceType": "CFV",
-      "Value": 251
-    },
-    {
-      "Number": 392,
-      "ReferenceID": 8757,
-      "ReferenceType": "NSEL-01",
-      "Value": 2013
-    },
-    {
-      "Number": 525,
-      "ReferenceID": 8769,
-      "ReferenceType": "NSEL-01",
-      "Value": 113696
-    },
-    {
-      "Number": 874,
-      "ReferenceID": 21802,
-      "ReferenceType": "CAND",
-      "Value": 476
-    },
-    {
-      "Number": 3717,
-      "ReferenceID": 8928,
-      "ReferenceType": "CUV",
-      "Value": 775
-    },
-    {
-      "Number": 3986,
-      "ReferenceID": 8771,
-      "ReferenceType": "COV",
-      "Value": 224
-    },
-    {
-      "Number": 4073,
-      "ReferenceID": 8769,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2033,
-      "ReferenceID": 8381,
-      "ReferenceType": "WRTN-02",
-      "Value": 6
-    },
-    {
-      "Number": 2070,
-      "ReferenceID": 8578,
-      "ReferenceType": "CBLT",
-      "Value": 4232
-    },
-    {
-      "Number": 3067,
-      "ReferenceID": 8430,
-      "ReferenceType": "CUV",
-      "Value": 713
-    },
-    {
-      "Number": 3279,
-      "ReferenceID": 8725,
-      "ReferenceType": "CFV",
-      "Value": 28356
-    },
-    {
-      "Number": 4105,
-      "ReferenceID": 8827,
-      "ReferenceType": "CBLT",
-      "Value": 851340
-    },
-    {
-      "Number": 4149,
-      "ReferenceID": 8974,
-      "ReferenceType": "CFV",
-      "Value": 604991
-    },
-    {
-      "Number": 1252,
-      "ReferenceID": 21553,
-      "ReferenceType": "CAND",
-      "Value": 2108
-    },
-    {
-      "Number": 1566,
-      "ReferenceID": 21304,
-      "ReferenceType": "CAND",
-      "Value": 4745
-    },
-    {
-      "Number": 1580,
-      "ReferenceID": 21055,
-      "ReferenceType": "CAND",
-      "Value": 5172
-    },
-    {
-      "Number": 1621,
-      "ReferenceID": 20557,
-      "ReferenceType": "CAND",
-      "Value": 231211
-    },
-    {
-      "Number": 456,
-      "ReferenceID": 8912,
-      "ReferenceType": "NSEL-01",
-      "Value": 1758
-    },
-    {
-      "Number": 730,
-      "ReferenceID": 21398,
-      "ReferenceType": "CAND",
-      "Value": 420
-    },
-    {
-      "Number": 740,
-      "ReferenceID": 21447,
-      "ReferenceType": "CAND",
-      "Value": 571
-    },
-    {
-      "Number": 824,
-      "ReferenceID": 21410,
-      "ReferenceType": "CAND",
-      "Value": 341
-    },
-    {
-      "Number": 997,
-      "ReferenceID": 20912,
-      "ReferenceType": "CAND",
-      "Value": 1392
-    },
-    {
-      "Number": 3796,
-      "ReferenceID": 8914,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 1793,
-      "ReferenceID": 8600,
-      "ReferenceType": "WRTN-01",
-      "Value": 5
-    },
-    {
-      "Number": 1877,
-      "ReferenceID": 8460,
-      "ReferenceType": "WRTN-03",
-      "Value": 0
-    },
-    {
-      "Number": 2252,
-      "ReferenceID": 8573,
-      "ReferenceType": "CUV",
-      "Value": 98
-    },
-    {
-      "Number": 2875,
-      "ReferenceID": 8435,
-      "ReferenceType": "CBLT",
-      "Value": 4727
-    },
-    {
-      "Number": 2903,
-      "ReferenceID": 8663,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3830,
-      "ReferenceID": 8970,
-      "ReferenceType": "CBLT",
-      "Value": 11221
-    },
-    {
-      "Number": 3925,
-      "ReferenceID": 8423,
-      "ReferenceType": "CBLT",
-      "Value": 40802
-    },
-    {
-      "Number": 3981,
-      "ReferenceID": 8379,
-      "ReferenceType": "COV",
-      "Value": 0
-    },
-    {
-      "Number": 4116,
-      "ReferenceID": 8877,
-      "ReferenceType": "COV",
-      "Value": 433
-    },
-    {
-      "Number": 1439,
-      "ReferenceID": 20949,
-      "ReferenceType": "CAND",
-      "Value": 197200
-    },
-    {
-      "Number": 1675,
-      "ReferenceID": 20900,
-      "ReferenceType": "CAND",
-      "Value": 470174
-    },
-    {
-      "Number": 216,
-      "ReferenceID": 8557,
-      "ReferenceType": "NSEL-01",
-      "Value": 1467
-    },
-    {
-      "Number": 246,
-      "ReferenceID": 8471,
-      "ReferenceType": "NSEL-01",
-      "Value": 4097
-    },
-    {
-      "Number": 253,
-      "ReferenceID": 8806,
-      "ReferenceType": "NSEL-01",
-      "Value": 459
-    },
-    {
-      "Number": 355,
-      "ReferenceID": 8720,
-      "ReferenceType": "NSEL-01",
-      "Value": 507
-    },
-    {
-      "Number": 714,
-      "ReferenceID": 21504,
-      "ReferenceType": "CAND",
-      "Value": 160
-    },
-    {
-      "Number": 725,
-      "ReferenceID": 21839,
-      "ReferenceType": "CAND",
-      "Value": 1263
-    },
-    {
-      "Number": 3321,
-      "ReferenceID": 8734,
-      "ReferenceType": "COV",
-      "Value": 17
-    },
-    {
-      "Number": 2570,
-      "ReferenceID": 8615,
-      "ReferenceType": "CBLT",
-      "Value": 1882
-    },
-    {
-      "Number": 2748,
-      "ReferenceID": 8557,
-      "ReferenceType": "CPV",
-      "Value": 1174
-    },
-    {
-      "Number": 2770,
-      "ReferenceID": 8864,
-      "ReferenceType": "CBLT",
-      "Value": 2643
-    },
-    {
-      "Number": 3232,
-      "ReferenceID": 8716,
-      "ReferenceType": "CUV",
-      "Value": 6550
-    },
-    {
-      "Number": 3261,
-      "ReferenceID": 8722,
-      "ReferenceType": "COV",
-      "Value": 8
-    },
-    {
-      "Number": 3292,
-      "ReferenceID": 8728,
-      "ReferenceType": "CUV",
-      "Value": 3371
-    },
-    {
-      "Number": 1325,
-      "ReferenceID": 20508,
-      "ReferenceType": "CAND",
-      "Value": 6547
-    },
-    {
-      "Number": 1759,
-      "ReferenceID": 8586,
-      "ReferenceType": "WRTN-01",
-      "Value": 21
-    },
-    {
-      "Number": 1798,
-      "ReferenceID": 8603,
-      "ReferenceType": "WRTN-03",
-      "Value": 0
-    },
-    {
-      "Number": 1833,
-      "ReferenceID": 8615,
-      "ReferenceType": "WRTN-03",
-      "Value": 0
-    },
-    {
-      "Number": 2218,
-      "ReferenceID": 8569,
-      "ReferenceType": "CPV",
-      "Value": 844
-    },
-    {
-      "Number": 2469,
-      "ReferenceID": 8596,
-      "ReferenceType": "CFV",
-      "Value": 700
-    },
-    {
-      "Number": 3045,
-      "ReferenceID": 8515,
-      "ReferenceType": "CBLT",
-      "Value": 447521
-    },
-    {
-      "Number": 1503,
-      "ReferenceID": 21361,
-      "ReferenceType": "CAND",
-      "Value": 1668
-    },
-    {
-      "Number": 1572,
-      "ReferenceID": 21023,
-      "ReferenceType": "CAND",
-      "Value": 7874
-    },
-    {
-      "Number": 1922,
-      "ReferenceID": 8803,
-      "ReferenceType": "WRTN-01",
-      "Value": 98
-    },
-    {
-      "Number": 1946,
-      "ReferenceID": 8477,
-      "ReferenceType": "WRTN-01",
-      "Value": 4
-    },
-    {
-      "Number": 2263,
-      "ReferenceID": 8577,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2612,
-      "ReferenceID": 8659,
-      "ReferenceType": "CUV",
-      "Value": 66
-    },
-    {
-      "Number": 307,
-      "ReferenceID": 8551,
-      "ReferenceType": "NSEL-01",
-      "Value": 2819
-    },
-    {
-      "Number": 1023,
-      "ReferenceID": 21756,
-      "ReferenceType": "CAND",
-      "Value": 1596
-    },
-    {
-      "Number": 1322,
-      "ReferenceID": 20505,
-      "ReferenceType": "CAND",
-      "Value": 12351
-    },
-    {
-      "Number": 1416,
-      "ReferenceID": 21338,
-      "ReferenceType": "CAND",
-      "Value": 1772
-    },
-    {
-      "Number": 1450,
-      "ReferenceID": 21092,
-      "ReferenceType": "CAND",
-      "Value": 2821
-    },
-    {
-      "Number": 1573,
-      "ReferenceID": 20674,
-      "ReferenceType": "CAND",
-      "Value": 2916
-    },
-    {
-      "Number": 2099,
-      "ReferenceID": 8848,
-      "ReferenceType": "CFV",
-      "Value": 280990
-    },
-    {
-      "Number": 2223,
-      "ReferenceID": 8646,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2953,
-      "ReferenceID": 8477,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3096,
-      "ReferenceID": 8565,
-      "ReferenceType": "COV",
-      "Value": 7
-    },
-    {
-      "Number": 3102,
-      "ReferenceID": 8636,
-      "ReferenceType": "CUV",
-      "Value": 2445
-    },
-    {
-      "Number": 315,
-      "ReferenceID": 8528,
-      "ReferenceType": "NSEL-01",
-      "Value": 100052
-    },
-    {
-      "Number": 1858,
-      "ReferenceID": 8437,
-      "ReferenceType": "WRTN-03",
-      "Value": 0
-    },
-    {
-      "Number": 1932,
-      "ReferenceID": 8663,
-      "ReferenceType": "WRTN-01",
-      "Value": 3
-    },
-    {
-      "Number": 2407,
-      "ReferenceID": 8799,
-      "ReferenceType": "CUV",
-      "Value": 50
-    },
-    {
-      "Number": 204,
-      "ReferenceID": 8491,
-      "ReferenceType": "NSEL-01",
-      "Value": 3144
-    },
-    {
-      "Number": 372,
-      "ReferenceID": 8737,
-      "ReferenceType": "NSEL-01",
-      "Value": 3571
-    },
-    {
-      "Number": 682,
-      "ReferenceID": 21524,
-      "ReferenceType": "CAND",
-      "Value": 312
-    },
-    {
-      "Number": 1076,
-      "ReferenceID": 20983,
-      "ReferenceType": "CAND",
-      "Value": 2475
-    },
-    {
-      "Number": 3483,
-      "ReferenceID": 8832,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3579,
-      "ReferenceID": 8957,
-      "ReferenceType": "CFV",
-      "Value": 4130
-    },
-    {
-      "Number": 1978,
-      "ReferenceID": 8517,
-      "ReferenceType": "WRTN-01",
-      "Value": 2253
-    },
-    {
-      "Number": 2378,
-      "ReferenceID": 8586,
-      "ReferenceType": "CPV",
-      "Value": 905
-    },
-    {
-      "Number": 2631,
-      "ReferenceID": 8505,
-      "ReferenceType": "COV",
-      "Value": 3
-    },
-    {
-      "Number": 2899,
-      "ReferenceID": 8662,
-      "ReferenceType": "CFV",
-      "Value": 764
-    },
-    {
-      "Number": 3406,
-      "ReferenceID": 8751,
-      "ReferenceType": "COV",
-      "Value": 11
-    },
-    {
-      "Number": 3625,
-      "ReferenceID": 8893,
-      "ReferenceType": "CBLT",
-      "Value": 333039
-    },
-    {
-      "Number": 3642,
-      "ReferenceID": 8945,
-      "ReferenceType": "CUV",
-      "Value": 163
-    },
-    {
-      "Number": 3734,
-      "ReferenceID": 8908,
-      "ReferenceType": "CFV",
-      "Value": 2058
-    },
-    {
-      "Number": 3904,
-      "ReferenceID": 8416,
-      "ReferenceType": "CFV",
-      "Value": 8865
-    },
-    {
-      "Number": 1138,
-      "ReferenceID": 21278,
-      "ReferenceType": "CAND",
-      "Value": 553
-    },
-    {
-      "Number": 1951,
-      "ReferenceID": 8453,
-      "ReferenceType": "WRTN-02",
-      "Value": 8
-    },
-    {
-      "Number": 81,
-      "ReferenceID": 8680,
-      "ReferenceType": "NSEL-01",
-      "Value": 751
-    },
-    {
-      "Number": 162,
-      "ReferenceID": 8616,
-      "ReferenceType": "NSEL-02",
-      "Value": 934
-    },
-    {
-      "Number": 707,
-      "ReferenceID": 21464,
-      "ReferenceType": "CAND",
-      "Value": 545
-    },
-    {
-      "Number": 766,
-      "ReferenceID": 21630,
-      "ReferenceType": "CAND",
-      "Value": 495
-    },
-    {
-      "Number": 3560,
-      "ReferenceID": 8904,
-      "ReferenceType": "CBLT",
-      "Value": 2439
-    },
-    {
-      "Number": 3811,
-      "ReferenceID": 8931,
-      "ReferenceType": "COV",
-      "Value": 3
-    },
-    {
-      "Number": 2234,
-      "ReferenceID": 8648,
-      "ReferenceType": "CFV",
-      "Value": 1176
-    },
-    {
-      "Number": 2321,
-      "ReferenceID": 8860,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 2333,
-      "ReferenceID": 8680,
-      "ReferenceType": "CPV",
-      "Value": 638
-    },
-    {
-      "Number": 2533,
-      "ReferenceID": 8609,
-      "ReferenceType": "CPV",
-      "Value": 373
-    },
-    {
-      "Number": 2866,
-      "ReferenceID": 8433,
-      "ReferenceType": "COV",
-      "Value": 9
-    },
-    {
-      "Number": 3340,
-      "ReferenceID": 8738,
-      "ReferenceType": "CBLT",
-      "Value": 39112
-    },
-    {
-      "Number": 4067,
-      "ReferenceID": 8768,
-      "ReferenceType": "CUV",
-      "Value": 59782
-    },
-    {
-      "Number": 4164,
-      "ReferenceID": 8885,
-      "ReferenceType": "CFV",
-      "Value": 601151
-    },
-    {
-      "Number": 1282,
-      "ReferenceID": 20468,
-      "ReferenceType": "CAND",
-      "Value": 39272
-    },
-    {
-      "Number": 1400,
-      "ReferenceID": 21132,
-      "ReferenceType": "CAND",
-      "Value": 3578
-    },
-    {
-      "Number": 1685,
-      "ReferenceID": 8795,
-      "ReferenceType": "WRTN-01",
-      "Value": 12
-    },
-    {
-      "Number": 2151,
-      "ReferenceID": 8694,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 212,
-      "ReferenceID": 8703,
-      "ReferenceType": "NSEL-01",
-      "Value": 656
-    },
-    {
-      "Number": 851,
-      "ReferenceID": 21607,
-      "ReferenceType": "CAND",
-      "Value": 1488
-    },
-    {
-      "Number": 1072,
-      "ReferenceID": 20611,
-      "ReferenceType": "CAND",
-      "Value": 1763
-    },
-    {
-      "Number": 3455,
-      "ReferenceID": 8761,
-      "ReferenceType": "CBLT",
-      "Value": 8963
-    },
-    {
-      "Number": 3728,
-      "ReferenceID": 8964,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3752,
-      "ReferenceID": 8911,
-      "ReferenceType": "CUV",
-      "Value": 1037
-    },
-    {
-      "Number": 2767,
-      "ReferenceID": 8862,
-      "ReferenceType": "CUV",
-      "Value": 330
-    },
-    {
-      "Number": 2918,
-      "ReferenceID": 8466,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2975,
-      "ReferenceID": 8810,
-      "ReferenceType": "CBLT",
-      "Value": 1580
-    },
-    {
-      "Number": 3084,
-      "ReferenceID": 8671,
-      "ReferenceType": "CFV",
-      "Value": 2335
-    },
-    {
-      "Number": 3162,
-      "ReferenceID": 8696,
-      "ReferenceType": "CUV",
-      "Value": 762
-    },
-    {
-      "Number": 3377,
-      "ReferenceID": 8745,
-      "ReferenceType": "CUV",
-      "Value": 40
-    },
-    {
-      "Number": 1206,
-      "ReferenceID": 21109,
-      "ReferenceType": "CAND",
-      "Value": 46811
-    },
-    {
-      "Number": 1236,
-      "ReferenceID": 21773,
-      "ReferenceType": "CAND",
-      "Value": 830
-    },
-    {
-      "Number": 2012,
-      "ReferenceID": 8391,
-      "ReferenceType": "WRTN-01",
-      "Value": 153
-    },
-    {
-      "Number": 2200,
-      "ReferenceID": 8644,
-      "ReferenceType": "CBLT",
-      "Value": 887
-    },
-    {
-      "Number": 2256,
-      "ReferenceID": 8576,
-      "ReferenceType": "COV",
-      "Value": 0
-    },
-    {
-      "Number": 2460,
-      "ReferenceID": 8595,
-      "ReferenceType": "CBLT",
-      "Value": 4026
-    },
-    {
-      "Number": 20,
-      "ReferenceID": 8631,
-      "ReferenceType": "NSEL-01",
-      "Value": 60
-    },
-    {
-      "Number": 21,
-      "ReferenceID": 8560,
-      "ReferenceType": "NSEL-01",
-      "Value": 681
-    },
-    {
-      "Number": 38,
-      "ReferenceID": 8567,
-      "ReferenceType": "NSEL-02",
-      "Value": 1202
-    },
-    {
-      "Number": 458,
-      "ReferenceID": 8966,
-      "ReferenceType": "NSEL-01",
-      "Value": 1581
-    },
-    {
-      "Number": 605,
-      "ReferenceID": 21679,
-      "ReferenceType": "CAND",
-      "Value": 1034
-    },
-    {
-      "Number": 1027,
-      "ReferenceID": 21015,
-      "ReferenceType": "CAND",
-      "Value": 1429
-    },
-    {
-      "Number": 3247,
-      "ReferenceID": 8719,
-      "ReferenceType": "CUV",
-      "Value": 183
-    },
-    {
-      "Number": 3298,
-      "ReferenceID": 8729,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 1887,
-      "ReferenceID": 8682,
-      "ReferenceType": "WRTN-02",
-      "Value": 15
-    },
-    {
-      "Number": 2206,
-      "ReferenceID": 8645,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 2649,
-      "ReferenceID": 8436,
-      "ReferenceType": "CFV",
-      "Value": 1691
-    },
-    {
-      "Number": 2760,
-      "ReferenceID": 8455,
-      "ReferenceType": "CBLT",
-      "Value": 2438
-    },
-    {
-      "Number": 2825,
-      "ReferenceID": 8787,
-      "ReferenceType": "CBLT",
-      "Value": 11781
-    },
-    {
-      "Number": 3210,
-      "ReferenceID": 8618,
-      "ReferenceType": "CBLT",
-      "Value": 8048
-    },
-    {
-      "Number": 4054,
-      "ReferenceID": 8765,
-      "ReferenceType": "CFV",
-      "Value": 805019
-    },
-    {
-      "Number": 4172,
-      "ReferenceID": 8888,
-      "ReferenceType": "CUV",
-      "Value": 252199
-    },
-    {
-      "Number": 1196,
-      "ReferenceID": 20754,
-      "ReferenceType": "CAND",
-      "Value": 1084
-    },
-    {
-      "Number": 1432,
-      "ReferenceID": 21344,
-      "ReferenceType": "CAND",
-      "Value": 22091
-    },
-    {
-      "Number": 1636,
-      "ReferenceID": 20680,
-      "ReferenceType": "CAND",
-      "Value": 195090
-    },
-    {
-      "Number": 1743,
-      "ReferenceID": 8583,
-      "ReferenceType": "WRTN-01",
-      "Value": 25
-    },
-    {
-      "Number": 948,
-      "ReferenceID": 21038,
-      "ReferenceType": "CAND",
-      "Value": 3110
-    },
-    {
-      "Number": 1003,
-      "ReferenceID": 20940,
-      "ReferenceType": "CAND",
-      "Value": 1517
-    },
-    {
-      "Number": 3476,
-      "ReferenceID": 8954,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 1383,
-      "ReferenceID": 21370,
-      "ReferenceType": "CAND",
-      "Value": 1411
-    },
-    {
-      "Number": 1527,
-      "ReferenceID": 21321,
-      "ReferenceType": "CAND",
-      "Value": 11769
-    },
-    {
-      "Number": 1695,
-      "ReferenceID": 8560,
-      "ReferenceType": "WRTN-01",
-      "Value": 6
-    },
-    {
-      "Number": 1933,
-      "ReferenceID": 8511,
-      "ReferenceType": "WRTN-01",
-      "Value": 19
-    },
-    {
-      "Number": 2500,
-      "ReferenceID": 8973,
-      "ReferenceType": "CBLT",
-      "Value": 2201
-    },
-    {
-      "Number": 2709,
-      "ReferenceID": 8791,
-      "ReferenceType": "CFV",
-      "Value": 1968
-    },
-    {
-      "Number": 2728,
-      "ReferenceID": 8703,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3364,
-      "ReferenceID": 8742,
-      "ReferenceType": "CFV",
-      "Value": 63017
-    },
-    {
-      "Number": 3413,
-      "ReferenceID": 8752,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 257,
-      "ReferenceID": 8454,
-      "ReferenceType": "NSEL-03",
-      "Value": 409
-    },
-    {
-      "Number": 1008,
-      "ReferenceID": 20631,
-      "ReferenceType": "CAND",
-      "Value": 2157
-    },
-    {
-      "Number": 3658,
-      "ReferenceID": 8938,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3812,
-      "ReferenceID": 8931,
-      "ReferenceType": "CUV",
-      "Value": 481
-    },
-    {
-      "Number": 3822,
-      "ReferenceID": 8937,
-      "ReferenceType": "CUV",
-      "Value": 2868
-    },
-    {
-      "Number": 3993,
-      "ReferenceID": 8772,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 1878,
-      "ReferenceID": 8703,
-      "ReferenceType": "WRTN-01",
-      "Value": 14
-    },
-    {
-      "Number": 2466,
-      "ReferenceID": 8596,
-      "ReferenceType": "COV",
-      "Value": 3
-    },
-    {
-      "Number": 2599,
-      "ReferenceID": 8479,
-      "ReferenceType": "CFV",
-      "Value": 4636
-    },
-    {
-      "Number": 2797,
-      "ReferenceID": 8439,
-      "ReferenceType": "CUV",
-      "Value": 1989
-    },
-    {
-      "Number": 3264,
-      "ReferenceID": 8722,
-      "ReferenceType": "CFV",
-      "Value": 13957
-    },
-    {
-      "Number": 4066,
-      "ReferenceID": 8768,
-      "ReferenceType": "COV",
-      "Value": 314
-    },
-    {
-      "Number": 1116,
-      "ReferenceID": 20803,
-      "ReferenceType": "CAND",
-      "Value": 1663
-    },
-    {
-      "Number": 1129,
-      "ReferenceID": 21295,
-      "ReferenceType": "CAND",
-      "Value": 116
-    },
-    {
-      "Number": 1253,
-      "ReferenceID": 21556,
-      "ReferenceType": "CAND",
-      "Value": 2127
-    },
-    {
-      "Number": 1775,
-      "ReferenceID": 8697,
-      "ReferenceType": "WRTN-01",
-      "Value": 3
-    },
-    {
-      "Number": 1875,
-      "ReferenceID": 8460,
-      "ReferenceType": "WRTN-01",
-      "Value": 26
-    },
-    {
-      "Number": 111,
-      "ReferenceID": 8590,
-      "ReferenceType": "NSEL-02",
-      "Value": 501
-    },
-    {
-      "Number": 177,
-      "ReferenceID": 8654,
-      "ReferenceType": "NSEL-01",
-      "Value": 145
-    },
-    {
-      "Number": 235,
-      "ReferenceID": 8541,
-      "ReferenceType": "NSEL-02",
-      "Value": 756
-    },
-    {
-      "Number": 975,
-      "ReferenceID": 20703,
-      "ReferenceType": "CAND",
-      "Value": 1373
-    },
-    {
-      "Number": 3477,
-      "ReferenceID": 8954,
-      "ReferenceType": "CUV",
-      "Value": 151
-    },
-    {
-      "Number": 3928,
-      "ReferenceID": 8423,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2832,
-      "ReferenceID": 8788,
-      "ReferenceType": "CUV",
-      "Value": 2827
-    },
-    {
-      "Number": 3124,
-      "ReferenceID": 8579,
-      "ReferenceType": "CFV",
-      "Value": 3697
-    },
-    {
-      "Number": 3170,
-      "ReferenceID": 8687,
-      "ReferenceType": "CBLT",
-      "Value": 2721
-    },
-    {
-      "Number": 1259,
-      "ReferenceID": 21656,
-      "ReferenceType": "CAND",
-      "Value": 6783
-    },
-    {
-      "Number": 1868,
-      "ReferenceID": 8483,
-      "ReferenceType": "WRTN-01",
-      "Value": 13
-    },
-    {
-      "Number": 2254,
-      "ReferenceID": 8573,
-      "ReferenceType": "CFV",
-      "Value": 231
-    },
-    {
-      "Number": 2373,
-      "ReferenceID": 8872,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2551,
-      "ReferenceID": 8619,
-      "ReferenceType": "COV",
-      "Value": 2
-    },
-    {
-      "Number": 2751,
-      "ReferenceID": 8668,
-      "ReferenceType": "COV",
-      "Value": 1
-    },
-    {
-      "Number": 83,
-      "ReferenceID": 8797,
-      "ReferenceType": "NSEL-01",
-      "Value": 632
-    },
-    {
-      "Number": 223,
-      "ReferenceID": 8682,
-      "ReferenceType": "NSEL-04",
-      "Value": 3525
-    },
-    {
-      "Number": 358,
-      "ReferenceID": 8723,
-      "ReferenceType": "NSEL-01",
-      "Value": 3486
-    },
-    {
-      "Number": 678,
-      "ReferenceID": 21513,
-      "ReferenceType": "CAND",
-      "Value": 178
-    },
-    {
-      "Number": 833,
-      "ReferenceID": 21587,
-      "ReferenceType": "CAND",
-      "Value": 2636
-    },
-    {
-      "Number": 974,
-      "ReferenceID": 20923,
-      "ReferenceType": "CAND",
-      "Value": 1871
-    },
-    {
-      "Number": 1778,
-      "ReferenceID": 8590,
-      "ReferenceType": "WRTN-02",
-      "Value": 10
-    },
-    {
-      "Number": 2484,
-      "ReferenceID": 8599,
-      "ReferenceType": "CFV",
-      "Value": 4395
-    },
-    {
-      "Number": 3069,
-      "ReferenceID": 8430,
-      "ReferenceType": "CFV",
-      "Value": 4052
-    },
-    {
-      "Number": 3071,
-      "ReferenceID": 8811,
-      "ReferenceType": "COV",
-      "Value": 8
-    },
-    {
-      "Number": 3072,
-      "ReferenceID": 8811,
-      "ReferenceType": "CUV",
-      "Value": 408
-    },
-    {
-      "Number": 3268,
-      "ReferenceID": 8723,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3485,
-      "ReferenceID": 8953,
-      "ReferenceType": "CBLT",
-      "Value": 3517
-    },
-    {
-      "Number": 3989,
-      "ReferenceID": 8771,
-      "ReferenceType": "CFV",
-      "Value": 180734
-    },
-    {
-      "Number": 4137,
-      "ReferenceID": 8882,
-      "ReferenceType": "CUV",
-      "Value": 236796
-    },
-    {
-      "Number": 4171,
-      "ReferenceID": 8888,
-      "ReferenceType": "COV",
-      "Value": 591
-    },
-    {
-      "Number": 1541,
-      "ReferenceID": 20846,
-      "ReferenceType": "CAND",
-      "Value": 13058
-    },
-    {
-      "Number": 1732,
-      "ReferenceID": 8577,
-      "ReferenceType": "WRTN-01",
-      "Value": 0
-    },
-    {
-      "Number": 72,
-      "ReferenceID": 8833,
-      "ReferenceType": "NSEL-02",
-      "Value": 807
-    },
-    {
-      "Number": 91,
-      "ReferenceID": 8872,
-      "ReferenceType": "NSEL-01",
-      "Value": 1718
-    },
-    {
-      "Number": 476,
-      "ReferenceID": 8946,
-      "ReferenceType": "NSEL-01",
-      "Value": 3873
-    },
-    {
-      "Number": 528,
-      "ReferenceID": 8823,
-      "ReferenceType": "NSEL-01",
-      "Value": 44706
-    },
-    {
-      "Number": 587,
-      "ReferenceID": 21487,
-      "ReferenceType": "CAND",
-      "Value": 373
-    },
-    {
-      "Number": 777,
-      "ReferenceID": 21536,
-      "ReferenceType": "CAND",
-      "Value": 286
-    },
-    {
-      "Number": 2083,
-      "ReferenceID": 8795,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 2831,
-      "ReferenceID": 8788,
-      "ReferenceType": "COV",
-      "Value": 11
-    },
-    {
-      "Number": 3383,
-      "ReferenceID": 8746,
-      "ReferenceType": "CPV",
-      "Value": 0
-    },
-    {
-      "Number": 3394,
-      "ReferenceID": 8748,
-      "ReferenceType": "CFV",
-      "Value": 71371
-    },
-    {
-      "Number": 1315,
-      "ReferenceID": 20774,
-      "ReferenceType": "CAND",
-      "Value": 5703
-    },
-    {
-      "Number": 1436,
-      "ReferenceID": 20946,
-      "ReferenceType": "CAND",
-      "Value": 214854
-    },
-    {
-      "Number": 1742,
-      "ReferenceID": 8677,
-      "ReferenceType": "WRTN-01",
-      "Value": 0
     },
     {
       "Number": 668,
@@ -13705,6 +11683,1026 @@
       "Value": 0
     },
     {
+      "Number": 2235,
+      "ReferenceID": 8572,
+      "ReferenceType": "CBLT",
+      "Value": 1780
+    },
+    {
+      "Number": 2305,
+      "ReferenceID": 8833,
+      "ReferenceType": "CBLT",
+      "Value": 3174
+    },
+    {
+      "Number": 2481,
+      "ReferenceID": 8599,
+      "ReferenceType": "COV",
+      "Value": 7
+    },
+    {
+      "Number": 2497,
+      "ReferenceID": 8602,
+      "ReferenceType": "CUV",
+      "Value": 178
+    },
+    {
+      "Number": 128,
+      "ReferenceID": 8600,
+      "ReferenceType": "NSEL-03",
+      "Value": 24
+    },
+    {
+      "Number": 973,
+      "ReferenceID": 20943,
+      "ReferenceType": "CAND",
+      "Value": 3109
+    },
+    {
+      "Number": 3503,
+      "ReferenceID": 8632,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3599,
+      "ReferenceID": 8837,
+      "ReferenceType": "CFV",
+      "Value": 2788
+    },
+    {
+      "Number": 3710,
+      "ReferenceID": 8927,
+      "ReferenceType": "CBLT",
+      "Value": 7225
+    },
+    {
+      "Number": 3731,
+      "ReferenceID": 8908,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 3122,
+      "ReferenceID": 8579,
+      "ReferenceType": "CUV",
+      "Value": 532
+    },
+    {
+      "Number": 3361,
+      "ReferenceID": 8742,
+      "ReferenceType": "COV",
+      "Value": 18
+    },
+    {
+      "Number": 4185,
+      "ReferenceID": 8976,
+      "ReferenceType": "CBLT",
+      "Value": 850643
+    },
+    {
+      "Number": 1220,
+      "ReferenceID": 20777,
+      "ReferenceType": "CAND",
+      "Value": 1696
+    },
+    {
+      "Number": 1882,
+      "ReferenceID": 8557,
+      "ReferenceType": "WRTN-01",
+      "Value": 14
+    },
+    {
+      "Number": 2005,
+      "ReferenceID": 8606,
+      "ReferenceType": "WRTN-01",
+      "Value": 12
+    },
+    {
+      "Number": 2042,
+      "ReferenceID": 8772,
+      "ReferenceType": "WRTN-01",
+      "Value": 2977
+    },
+    {
+      "Number": 2398,
+      "ReferenceID": 8798,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 64,
+      "ReferenceID": 8570,
+      "ReferenceType": "NSEL-02",
+      "Value": 258
+    },
+    {
+      "Number": 432,
+      "ReferenceID": 8892,
+      "ReferenceType": "NSEL-01",
+      "Value": 23150
+    },
+    {
+      "Number": 439,
+      "ReferenceID": 8963,
+      "ReferenceType": "NSEL-01",
+      "Value": 755
+    },
+    {
+      "Number": 556,
+      "ReferenceID": 21676,
+      "ReferenceType": "CAND",
+      "Value": 2168
+    },
+    {
+      "Number": 892,
+      "ReferenceID": 21418,
+      "ReferenceType": "CAND",
+      "Value": 265
+    },
+    {
+      "Number": 3840,
+      "ReferenceID": 8950,
+      "ReferenceType": "CBLT",
+      "Value": 1535
+    },
+    {
+      "Number": 3283,
+      "ReferenceID": 8726,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 4069,
+      "ReferenceID": 8768,
+      "ReferenceType": "CFV",
+      "Value": 792063
+    },
+    {
+      "Number": 1413,
+      "ReferenceID": 21086,
+      "ReferenceType": "CAND",
+      "Value": 568
+    },
+    {
+      "Number": 1435,
+      "ReferenceID": 21347,
+      "ReferenceType": "CAND",
+      "Value": 11421
+    },
+    {
+      "Number": 1639,
+      "ReferenceID": 20683,
+      "ReferenceType": "CAND",
+      "Value": 147840
+    },
+    {
+      "Number": 2231,
+      "ReferenceID": 8648,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 2869,
+      "ReferenceID": 8433,
+      "ReferenceType": "CFV",
+      "Value": 6990
+    },
+    {
+      "Number": 215,
+      "ReferenceID": 8706,
+      "ReferenceType": "NSEL-01",
+      "Value": 1050
+    },
+    {
+      "Number": 278,
+      "ReferenceID": 8480,
+      "ReferenceType": "NSEL-03",
+      "Value": 1180
+    },
+    {
+      "Number": 883,
+      "ReferenceID": 21653,
+      "ReferenceType": "CAND",
+      "Value": 5787
+    },
+    {
+      "Number": 921,
+      "ReferenceID": 21702,
+      "ReferenceType": "CAND",
+      "Value": 787
+    },
+    {
+      "Number": 1073,
+      "ReferenceID": 20608,
+      "ReferenceType": "CAND",
+      "Value": 1916
+    },
+    {
+      "Number": 3918,
+      "ReferenceID": 8420,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2927,
+      "ReferenceID": 8459,
+      "ReferenceType": "CUV",
+      "Value": 238
+    },
+    {
+      "Number": 2929,
+      "ReferenceID": 8459,
+      "ReferenceType": "CFV",
+      "Value": 579
+    },
+    {
+      "Number": 3081,
+      "ReferenceID": 8671,
+      "ReferenceType": "COV",
+      "Value": 2
+    },
+    {
+      "Number": 3225,
+      "ReferenceID": 8715,
+      "ReferenceType": "CBLT",
+      "Value": 150151
+    },
+    {
+      "Number": 3362,
+      "ReferenceID": 8742,
+      "ReferenceType": "CUV",
+      "Value": 3086
+    },
+    {
+      "Number": 4045,
+      "ReferenceID": 8764,
+      "ReferenceType": "CBLT",
+      "Value": 852257
+    },
+    {
+      "Number": 1125,
+      "ReferenceID": 20657,
+      "ReferenceType": "CAND",
+      "Value": 427
+    },
+    {
+      "Number": 1856,
+      "ReferenceID": 8437,
+      "ReferenceType": "WRTN-01",
+      "Value": 14
+    },
+    {
+      "Number": 2185,
+      "ReferenceID": 8641,
+      "ReferenceType": "CBLT",
+      "Value": 1890
+    },
+    {
+      "Number": 2707,
+      "ReferenceID": 8791,
+      "ReferenceType": "CUV",
+      "Value": 209
+    },
+    {
+      "Number": 2777,
+      "ReferenceID": 8865,
+      "ReferenceType": "CUV",
+      "Value": 208
+    },
+    {
+      "Number": 11,
+      "ReferenceID": 8849,
+      "ReferenceType": "NSEL-01",
+      "Value": 47129
+    },
+    {
+      "Number": 68,
+      "ReferenceID": 8677,
+      "ReferenceType": "NSEL-01",
+      "Value": 104
+    },
+    {
+      "Number": 453,
+      "ReferenceID": 8843,
+      "ReferenceType": "NSEL-01",
+      "Value": 937
+    },
+    {
+      "Number": 614,
+      "ReferenceID": 21633,
+      "ReferenceType": "CAND",
+      "Value": 121
+    },
+    {
+      "Number": 690,
+      "ReferenceID": 21461,
+      "ReferenceType": "CAND",
+      "Value": 298
+    },
+    {
+      "Number": 692,
+      "ReferenceID": 21467,
+      "ReferenceType": "CAND",
+      "Value": 196
+    },
+    {
+      "Number": 1942,
+      "ReferenceID": 8480,
+      "ReferenceType": "WRTN-03",
+      "Value": 22
+    },
+    {
+      "Number": 2103,
+      "ReferenceID": 8849,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2209,
+      "ReferenceID": 8645,
+      "ReferenceType": "CFV",
+      "Value": 1140
+    },
+    {
+      "Number": 2656,
+      "ReferenceID": 8857,
+      "ReferenceType": "COV",
+      "Value": 2
+    },
+    {
+      "Number": 3325,
+      "ReferenceID": 8735,
+      "ReferenceType": "CBLT",
+      "Value": 51409
+    },
+    {
+      "Number": 1068,
+      "ReferenceID": 20969,
+      "ReferenceType": "CAND",
+      "Value": 1250
+    },
+    {
+      "Number": 3675,
+      "ReferenceID": 8907,
+      "ReferenceType": "CBLT",
+      "Value": 4026
+    },
+    {
+      "Number": 3866,
+      "ReferenceID": 8934,
+      "ReferenceType": "COV",
+      "Value": 188
+    },
+    {
+      "Number": 3890,
+      "ReferenceID": 8409,
+      "ReferenceType": "CBLT",
+      "Value": 2567
+    },
+    {
+      "Number": 4052,
+      "ReferenceID": 8765,
+      "ReferenceType": "CUV",
+      "Value": 46749
+    },
+    {
+      "Number": 1670,
+      "ReferenceID": 20892,
+      "ReferenceType": "CAND",
+      "Value": 130220
+    },
+    {
+      "Number": 513,
+      "ReferenceID": 8777,
+      "ReferenceType": "NSEL-01",
+      "Value": 207142
+    },
+    {
+      "Number": 517,
+      "ReferenceID": 8943,
+      "ReferenceType": "NSEL-01",
+      "Value": 92721
+    },
+    {
+      "Number": 531,
+      "ReferenceID": 8826,
+      "ReferenceType": "NSEL-01",
+      "Value": 41935
+    },
+    {
+      "Number": 582,
+      "ReferenceID": 21484,
+      "ReferenceType": "CAND",
+      "Value": 394
+    },
+    {
+      "Number": 773,
+      "ReferenceID": 21490,
+      "ReferenceType": "CAND",
+      "Value": 3101
+    },
+    {
+      "Number": 1055,
+      "ReferenceID": 20820,
+      "ReferenceType": "CAND",
+      "Value": 3420
+    },
+    {
+      "Number": 2957,
+      "ReferenceID": 8487,
+      "ReferenceType": "CUV",
+      "Value": 585
+    },
+    {
+      "Number": 3151,
+      "ReferenceID": 8840,
+      "ReferenceType": "COV",
+      "Value": 3
+    },
+    {
+      "Number": 3379,
+      "ReferenceID": 8745,
+      "ReferenceType": "CFV",
+      "Value": 1054
+    },
+    {
+      "Number": 3398,
+      "ReferenceID": 8749,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 1653,
+      "ReferenceID": 20869,
+      "ReferenceType": "CAND",
+      "Value": 501293
+    },
+    {
+      "Number": 1712,
+      "ReferenceID": 8567,
+      "ReferenceType": "WRTN-02",
+      "Value": 3
+    },
+    {
+      "Number": 1755,
+      "ReferenceID": 8680,
+      "ReferenceType": "WRTN-01",
+      "Value": 10
+    },
+    {
+      "Number": 1822,
+      "ReferenceID": 8610,
+      "ReferenceType": "WRTN-02",
+      "Value": 7
+    },
+    {
+      "Number": 1829,
+      "ReferenceID": 8616,
+      "ReferenceType": "WRTN-02",
+      "Value": 11
+    },
+    {
+      "Number": 2706,
+      "ReferenceID": 8791,
+      "ReferenceType": "COV",
+      "Value": 3
+    },
+    {
+      "Number": 3576,
+      "ReferenceID": 8957,
+      "ReferenceType": "COV",
+      "Value": 4
+    },
+    {
+      "Number": 3581,
+      "ReferenceID": 8834,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 4155,
+      "ReferenceID": 8884,
+      "ReferenceType": "CBLT",
+      "Value": 850785
+    },
+    {
+      "Number": 1232,
+      "ReferenceID": 21533,
+      "ReferenceType": "CAND",
+      "Value": 9097
+    },
+    {
+      "Number": 1518,
+      "ReferenceID": 21367,
+      "ReferenceType": "CAND",
+      "Value": 6746
+    },
+    {
+      "Number": 1555,
+      "ReferenceID": 20826,
+      "ReferenceType": "CAND",
+      "Value": 2770
+    },
+    {
+      "Number": 106,
+      "ReferenceID": 8800,
+      "ReferenceType": "NSEL-01",
+      "Value": 24
+    },
+    {
+      "Number": 361,
+      "ReferenceID": 8726,
+      "ReferenceType": "NSEL-01",
+      "Value": 2478
+    },
+    {
+      "Number": 425,
+      "ReferenceID": 8969,
+      "ReferenceType": "NSEL-01",
+      "Value": 71
+    },
+    {
+      "Number": 607,
+      "ReferenceID": 21682,
+      "ReferenceType": "CAND",
+      "Value": 1050
+    },
+    {
+      "Number": 976,
+      "ReferenceID": 20849,
+      "ReferenceType": "CAND",
+      "Value": 1595
+    },
+    {
+      "Number": 3530,
+      "ReferenceID": 8956,
+      "ReferenceType": "CBLT",
+      "Value": 511
+    },
+    {
+      "Number": 1992,
+      "ReferenceID": 8580,
+      "ReferenceType": "WRTN-01",
+      "Value": 10
+    },
+    {
+      "Number": 2191,
+      "ReferenceID": 8642,
+      "ReferenceType": "COV",
+      "Value": 4
+    },
+    {
+      "Number": 2499,
+      "ReferenceID": 8602,
+      "ReferenceType": "CFV",
+      "Value": 1601
+    },
+    {
+      "Number": 3638,
+      "ReferenceID": 8892,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3955,
+      "ReferenceID": 8784,
+      "ReferenceType": "CBLT",
+      "Value": 11108
+    },
+    {
+      "Number": 4162,
+      "ReferenceID": 8885,
+      "ReferenceType": "CUV",
+      "Value": 248878
+    },
+    {
+      "Number": 1242,
+      "ReferenceID": 21510,
+      "ReferenceType": "CAND",
+      "Value": 2438
+    },
+    {
+      "Number": 1431,
+      "ReferenceID": 21341,
+      "ReferenceType": "CAND",
+      "Value": 8262
+    },
+    {
+      "Number": 1589,
+      "ReferenceID": 20677,
+      "ReferenceType": "CAND",
+      "Value": 273
+    },
+    {
+      "Number": 96,
+      "ReferenceID": 8587,
+      "ReferenceType": "NSEL-02",
+      "Value": 203
+    },
+    {
+      "Number": 332,
+      "ReferenceID": 8700,
+      "ReferenceType": "NSEL-01",
+      "Value": 146
+    },
+    {
+      "Number": 384,
+      "ReferenceID": 8749,
+      "ReferenceType": "NSEL-01",
+      "Value": 6218
+    },
+    {
+      "Number": 847,
+      "ReferenceID": 21610,
+      "ReferenceType": "CAND",
+      "Value": 644
+    },
+    {
+      "Number": 3440,
+      "ReferenceID": 8758,
+      "ReferenceType": "CBLT",
+      "Value": 48715
+    },
+    {
+      "Number": 3523,
+      "ReferenceID": 8918,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2684,
+      "ReferenceID": 8502,
+      "ReferenceType": "CFV",
+      "Value": 2200
+    },
+    {
+      "Number": 2840,
+      "ReferenceID": 8807,
+      "ReferenceType": "CBLT",
+      "Value": 1367
+    },
+    {
+      "Number": 2974,
+      "ReferenceID": 8453,
+      "ReferenceType": "CFV",
+      "Value": 1629
+    },
+    {
+      "Number": 3221,
+      "ReferenceID": 8714,
+      "ReferenceType": "COV",
+      "Value": 19
+    },
+    {
+      "Number": 3577,
+      "ReferenceID": 8957,
+      "ReferenceType": "CUV",
+      "Value": 584
+    },
+    {
+      "Number": 3582,
+      "ReferenceID": 8834,
+      "ReferenceType": "CUV",
+      "Value": 184
+    },
+    {
+      "Number": 3732,
+      "ReferenceID": 8908,
+      "ReferenceType": "CUV",
+      "Value": 142
+    },
+    {
+      "Number": 3902,
+      "ReferenceID": 8416,
+      "ReferenceType": "CUV",
+      "Value": 1348
+    },
+    {
+      "Number": 1201,
+      "ReferenceID": 21659,
+      "ReferenceType": "CAND",
+      "Value": 8798
+    },
+    {
+      "Number": 2259,
+      "ReferenceID": 8576,
+      "ReferenceType": "CFV",
+      "Value": 251
+    },
+    {
+      "Number": 392,
+      "ReferenceID": 8757,
+      "ReferenceType": "NSEL-01",
+      "Value": 2013
+    },
+    {
+      "Number": 525,
+      "ReferenceID": 8769,
+      "ReferenceType": "NSEL-01",
+      "Value": 113696
+    },
+    {
+      "Number": 874,
+      "ReferenceID": 21802,
+      "ReferenceType": "CAND",
+      "Value": 476
+    },
+    {
+      "Number": 3717,
+      "ReferenceID": 8928,
+      "ReferenceType": "CUV",
+      "Value": 775
+    },
+    {
+      "Number": 3986,
+      "ReferenceID": 8771,
+      "ReferenceType": "COV",
+      "Value": 224
+    },
+    {
+      "Number": 4073,
+      "ReferenceID": 8769,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2033,
+      "ReferenceID": 8381,
+      "ReferenceType": "WRTN-02",
+      "Value": 6
+    },
+    {
+      "Number": 2070,
+      "ReferenceID": 8578,
+      "ReferenceType": "CBLT",
+      "Value": 4232
+    },
+    {
+      "Number": 3067,
+      "ReferenceID": 8430,
+      "ReferenceType": "CUV",
+      "Value": 713
+    },
+    {
+      "Number": 3279,
+      "ReferenceID": 8725,
+      "ReferenceType": "CFV",
+      "Value": 28356
+    },
+    {
+      "Number": 4105,
+      "ReferenceID": 8827,
+      "ReferenceType": "CBLT",
+      "Value": 851340
+    },
+    {
+      "Number": 4149,
+      "ReferenceID": 8974,
+      "ReferenceType": "CFV",
+      "Value": 604991
+    },
+    {
+      "Number": 1252,
+      "ReferenceID": 21553,
+      "ReferenceType": "CAND",
+      "Value": 2108
+    },
+    {
+      "Number": 1566,
+      "ReferenceID": 21304,
+      "ReferenceType": "CAND",
+      "Value": 4745
+    },
+    {
+      "Number": 1580,
+      "ReferenceID": 21055,
+      "ReferenceType": "CAND",
+      "Value": 5172
+    },
+    {
+      "Number": 1621,
+      "ReferenceID": 20557,
+      "ReferenceType": "CAND",
+      "Value": 231211
+    },
+    {
+      "Number": 456,
+      "ReferenceID": 8912,
+      "ReferenceType": "NSEL-01",
+      "Value": 1758
+    },
+    {
+      "Number": 730,
+      "ReferenceID": 21398,
+      "ReferenceType": "CAND",
+      "Value": 420
+    },
+    {
+      "Number": 740,
+      "ReferenceID": 21447,
+      "ReferenceType": "CAND",
+      "Value": 571
+    },
+    {
+      "Number": 824,
+      "ReferenceID": 21410,
+      "ReferenceType": "CAND",
+      "Value": 341
+    },
+    {
+      "Number": 997,
+      "ReferenceID": 20912,
+      "ReferenceType": "CAND",
+      "Value": 1392
+    },
+    {
+      "Number": 3796,
+      "ReferenceID": 8914,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 1793,
+      "ReferenceID": 8600,
+      "ReferenceType": "WRTN-01",
+      "Value": 5
+    },
+    {
+      "Number": 1877,
+      "ReferenceID": 8460,
+      "ReferenceType": "WRTN-03",
+      "Value": 0
+    },
+    {
+      "Number": 2252,
+      "ReferenceID": 8573,
+      "ReferenceType": "CUV",
+      "Value": 98
+    },
+    {
+      "Number": 2875,
+      "ReferenceID": 8435,
+      "ReferenceType": "CBLT",
+      "Value": 4727
+    },
+    {
+      "Number": 2903,
+      "ReferenceID": 8663,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3830,
+      "ReferenceID": 8970,
+      "ReferenceType": "CBLT",
+      "Value": 11221
+    },
+    {
+      "Number": 3925,
+      "ReferenceID": 8423,
+      "ReferenceType": "CBLT",
+      "Value": 40802
+    },
+    {
+      "Number": 3981,
+      "ReferenceID": 8379,
+      "ReferenceType": "COV",
+      "Value": 0
+    },
+    {
+      "Number": 4116,
+      "ReferenceID": 8877,
+      "ReferenceType": "COV",
+      "Value": 433
+    },
+    {
+      "Number": 1439,
+      "ReferenceID": 20949,
+      "ReferenceType": "CAND",
+      "Value": 197200
+    },
+    {
+      "Number": 1675,
+      "ReferenceID": 20900,
+      "ReferenceType": "CAND",
+      "Value": 470174
+    },
+    {
+      "Number": 216,
+      "ReferenceID": 8557,
+      "ReferenceType": "NSEL-01",
+      "Value": 1467
+    },
+    {
+      "Number": 246,
+      "ReferenceID": 8471,
+      "ReferenceType": "NSEL-01",
+      "Value": 4097
+    },
+    {
+      "Number": 253,
+      "ReferenceID": 8806,
+      "ReferenceType": "NSEL-01",
+      "Value": 459
+    },
+    {
+      "Number": 355,
+      "ReferenceID": 8720,
+      "ReferenceType": "NSEL-01",
+      "Value": 507
+    },
+    {
+      "Number": 714,
+      "ReferenceID": 21504,
+      "ReferenceType": "CAND",
+      "Value": 160
+    },
+    {
+      "Number": 725,
+      "ReferenceID": 21839,
+      "ReferenceType": "CAND",
+      "Value": 1263
+    },
+    {
+      "Number": 3321,
+      "ReferenceID": 8734,
+      "ReferenceType": "COV",
+      "Value": 17
+    },
+    {
+      "Number": 2570,
+      "ReferenceID": 8615,
+      "ReferenceType": "CBLT",
+      "Value": 1882
+    },
+    {
+      "Number": 2748,
+      "ReferenceID": 8557,
+      "ReferenceType": "CPV",
+      "Value": 1174
+    },
+    {
+      "Number": 2770,
+      "ReferenceID": 8864,
+      "ReferenceType": "CBLT",
+      "Value": 2643
+    },
+    {
+      "Number": 3232,
+      "ReferenceID": 8716,
+      "ReferenceType": "CUV",
+      "Value": 6550
+    },
+    {
+      "Number": 3261,
+      "ReferenceID": 8722,
+      "ReferenceType": "COV",
+      "Value": 8
+    },
+    {
+      "Number": 3292,
+      "ReferenceID": 8728,
+      "ReferenceType": "CUV",
+      "Value": 3371
+    },
+    {
+      "Number": 1325,
+      "ReferenceID": 20508,
+      "ReferenceType": "CAND",
+      "Value": 6547
+    },
+    {
+      "Number": 1759,
+      "ReferenceID": 8586,
+      "ReferenceType": "WRTN-01",
+      "Value": 21
+    },
+    {
+      "Number": 1798,
+      "ReferenceID": 8603,
+      "ReferenceType": "WRTN-03",
+      "Value": 0
+    },
+    {
+      "Number": 1833,
+      "ReferenceID": 8615,
+      "ReferenceType": "WRTN-03",
+      "Value": 0
+    },
+    {
+      "Number": 2218,
+      "ReferenceID": 8569,
+      "ReferenceType": "CPV",
+      "Value": 844
+    },
+    {
+      "Number": 2469,
+      "ReferenceID": 8596,
+      "ReferenceType": "CFV",
+      "Value": 700
+    },
+    {
       "Number": 1168,
       "ReferenceID": 20749,
       "ReferenceType": "CAND",
@@ -14729,6 +13727,1026 @@
       "ReferenceID": 8949,
       "ReferenceType": "NSEL-01",
       "Value": 362
+    },
+    {
+      "Number": 3045,
+      "ReferenceID": 8515,
+      "ReferenceType": "CBLT",
+      "Value": 447521
+    },
+    {
+      "Number": 1503,
+      "ReferenceID": 21361,
+      "ReferenceType": "CAND",
+      "Value": 1668
+    },
+    {
+      "Number": 1572,
+      "ReferenceID": 21023,
+      "ReferenceType": "CAND",
+      "Value": 7874
+    },
+    {
+      "Number": 1922,
+      "ReferenceID": 8803,
+      "ReferenceType": "WRTN-01",
+      "Value": 98
+    },
+    {
+      "Number": 1946,
+      "ReferenceID": 8477,
+      "ReferenceType": "WRTN-01",
+      "Value": 4
+    },
+    {
+      "Number": 2263,
+      "ReferenceID": 8577,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2612,
+      "ReferenceID": 8659,
+      "ReferenceType": "CUV",
+      "Value": 66
+    },
+    {
+      "Number": 307,
+      "ReferenceID": 8551,
+      "ReferenceType": "NSEL-01",
+      "Value": 2819
+    },
+    {
+      "Number": 1023,
+      "ReferenceID": 21756,
+      "ReferenceType": "CAND",
+      "Value": 1596
+    },
+    {
+      "Number": 1322,
+      "ReferenceID": 20505,
+      "ReferenceType": "CAND",
+      "Value": 12351
+    },
+    {
+      "Number": 1416,
+      "ReferenceID": 21338,
+      "ReferenceType": "CAND",
+      "Value": 1772
+    },
+    {
+      "Number": 1450,
+      "ReferenceID": 21092,
+      "ReferenceType": "CAND",
+      "Value": 2821
+    },
+    {
+      "Number": 1573,
+      "ReferenceID": 20674,
+      "ReferenceType": "CAND",
+      "Value": 2916
+    },
+    {
+      "Number": 2099,
+      "ReferenceID": 8848,
+      "ReferenceType": "CFV",
+      "Value": 280990
+    },
+    {
+      "Number": 2223,
+      "ReferenceID": 8646,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2953,
+      "ReferenceID": 8477,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3096,
+      "ReferenceID": 8565,
+      "ReferenceType": "COV",
+      "Value": 7
+    },
+    {
+      "Number": 3102,
+      "ReferenceID": 8636,
+      "ReferenceType": "CUV",
+      "Value": 2445
+    },
+    {
+      "Number": 315,
+      "ReferenceID": 8528,
+      "ReferenceType": "NSEL-01",
+      "Value": 100052
+    },
+    {
+      "Number": 1858,
+      "ReferenceID": 8437,
+      "ReferenceType": "WRTN-03",
+      "Value": 0
+    },
+    {
+      "Number": 1932,
+      "ReferenceID": 8663,
+      "ReferenceType": "WRTN-01",
+      "Value": 3
+    },
+    {
+      "Number": 2407,
+      "ReferenceID": 8799,
+      "ReferenceType": "CUV",
+      "Value": 50
+    },
+    {
+      "Number": 204,
+      "ReferenceID": 8491,
+      "ReferenceType": "NSEL-01",
+      "Value": 3144
+    },
+    {
+      "Number": 372,
+      "ReferenceID": 8737,
+      "ReferenceType": "NSEL-01",
+      "Value": 3571
+    },
+    {
+      "Number": 682,
+      "ReferenceID": 21524,
+      "ReferenceType": "CAND",
+      "Value": 312
+    },
+    {
+      "Number": 1076,
+      "ReferenceID": 20983,
+      "ReferenceType": "CAND",
+      "Value": 2475
+    },
+    {
+      "Number": 3483,
+      "ReferenceID": 8832,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3579,
+      "ReferenceID": 8957,
+      "ReferenceType": "CFV",
+      "Value": 4130
+    },
+    {
+      "Number": 1978,
+      "ReferenceID": 8517,
+      "ReferenceType": "WRTN-01",
+      "Value": 2253
+    },
+    {
+      "Number": 2378,
+      "ReferenceID": 8586,
+      "ReferenceType": "CPV",
+      "Value": 905
+    },
+    {
+      "Number": 2631,
+      "ReferenceID": 8505,
+      "ReferenceType": "COV",
+      "Value": 3
+    },
+    {
+      "Number": 2899,
+      "ReferenceID": 8662,
+      "ReferenceType": "CFV",
+      "Value": 764
+    },
+    {
+      "Number": 3406,
+      "ReferenceID": 8751,
+      "ReferenceType": "COV",
+      "Value": 11
+    },
+    {
+      "Number": 3625,
+      "ReferenceID": 8893,
+      "ReferenceType": "CBLT",
+      "Value": 333039
+    },
+    {
+      "Number": 3642,
+      "ReferenceID": 8945,
+      "ReferenceType": "CUV",
+      "Value": 163
+    },
+    {
+      "Number": 3734,
+      "ReferenceID": 8908,
+      "ReferenceType": "CFV",
+      "Value": 2058
+    },
+    {
+      "Number": 3904,
+      "ReferenceID": 8416,
+      "ReferenceType": "CFV",
+      "Value": 8865
+    },
+    {
+      "Number": 1138,
+      "ReferenceID": 21278,
+      "ReferenceType": "CAND",
+      "Value": 553
+    },
+    {
+      "Number": 1951,
+      "ReferenceID": 8453,
+      "ReferenceType": "WRTN-02",
+      "Value": 8
+    },
+    {
+      "Number": 81,
+      "ReferenceID": 8680,
+      "ReferenceType": "NSEL-01",
+      "Value": 751
+    },
+    {
+      "Number": 162,
+      "ReferenceID": 8616,
+      "ReferenceType": "NSEL-02",
+      "Value": 934
+    },
+    {
+      "Number": 707,
+      "ReferenceID": 21464,
+      "ReferenceType": "CAND",
+      "Value": 545
+    },
+    {
+      "Number": 766,
+      "ReferenceID": 21630,
+      "ReferenceType": "CAND",
+      "Value": 495
+    },
+    {
+      "Number": 3560,
+      "ReferenceID": 8904,
+      "ReferenceType": "CBLT",
+      "Value": 2439
+    },
+    {
+      "Number": 3811,
+      "ReferenceID": 8931,
+      "ReferenceType": "COV",
+      "Value": 3
+    },
+    {
+      "Number": 2234,
+      "ReferenceID": 8648,
+      "ReferenceType": "CFV",
+      "Value": 1176
+    },
+    {
+      "Number": 2321,
+      "ReferenceID": 8860,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 2333,
+      "ReferenceID": 8680,
+      "ReferenceType": "CPV",
+      "Value": 638
+    },
+    {
+      "Number": 2533,
+      "ReferenceID": 8609,
+      "ReferenceType": "CPV",
+      "Value": 373
+    },
+    {
+      "Number": 2866,
+      "ReferenceID": 8433,
+      "ReferenceType": "COV",
+      "Value": 9
+    },
+    {
+      "Number": 3340,
+      "ReferenceID": 8738,
+      "ReferenceType": "CBLT",
+      "Value": 39112
+    },
+    {
+      "Number": 4067,
+      "ReferenceID": 8768,
+      "ReferenceType": "CUV",
+      "Value": 59782
+    },
+    {
+      "Number": 4164,
+      "ReferenceID": 8885,
+      "ReferenceType": "CFV",
+      "Value": 601151
+    },
+    {
+      "Number": 1282,
+      "ReferenceID": 20468,
+      "ReferenceType": "CAND",
+      "Value": 39272
+    },
+    {
+      "Number": 1400,
+      "ReferenceID": 21132,
+      "ReferenceType": "CAND",
+      "Value": 3578
+    },
+    {
+      "Number": 1685,
+      "ReferenceID": 8795,
+      "ReferenceType": "WRTN-01",
+      "Value": 12
+    },
+    {
+      "Number": 2151,
+      "ReferenceID": 8694,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 212,
+      "ReferenceID": 8703,
+      "ReferenceType": "NSEL-01",
+      "Value": 656
+    },
+    {
+      "Number": 851,
+      "ReferenceID": 21607,
+      "ReferenceType": "CAND",
+      "Value": 1488
+    },
+    {
+      "Number": 1072,
+      "ReferenceID": 20611,
+      "ReferenceType": "CAND",
+      "Value": 1763
+    },
+    {
+      "Number": 3455,
+      "ReferenceID": 8761,
+      "ReferenceType": "CBLT",
+      "Value": 8963
+    },
+    {
+      "Number": 3728,
+      "ReferenceID": 8964,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3752,
+      "ReferenceID": 8911,
+      "ReferenceType": "CUV",
+      "Value": 1037
+    },
+    {
+      "Number": 2767,
+      "ReferenceID": 8862,
+      "ReferenceType": "CUV",
+      "Value": 330
+    },
+    {
+      "Number": 2918,
+      "ReferenceID": 8466,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2975,
+      "ReferenceID": 8810,
+      "ReferenceType": "CBLT",
+      "Value": 1580
+    },
+    {
+      "Number": 3084,
+      "ReferenceID": 8671,
+      "ReferenceType": "CFV",
+      "Value": 2335
+    },
+    {
+      "Number": 3162,
+      "ReferenceID": 8696,
+      "ReferenceType": "CUV",
+      "Value": 762
+    },
+    {
+      "Number": 3377,
+      "ReferenceID": 8745,
+      "ReferenceType": "CUV",
+      "Value": 40
+    },
+    {
+      "Number": 1206,
+      "ReferenceID": 21109,
+      "ReferenceType": "CAND",
+      "Value": 46811
+    },
+    {
+      "Number": 1236,
+      "ReferenceID": 21773,
+      "ReferenceType": "CAND",
+      "Value": 830
+    },
+    {
+      "Number": 2012,
+      "ReferenceID": 8391,
+      "ReferenceType": "WRTN-01",
+      "Value": 153
+    },
+    {
+      "Number": 2200,
+      "ReferenceID": 8644,
+      "ReferenceType": "CBLT",
+      "Value": 887
+    },
+    {
+      "Number": 2256,
+      "ReferenceID": 8576,
+      "ReferenceType": "COV",
+      "Value": 0
+    },
+    {
+      "Number": 2460,
+      "ReferenceID": 8595,
+      "ReferenceType": "CBLT",
+      "Value": 4026
+    },
+    {
+      "Number": 20,
+      "ReferenceID": 8631,
+      "ReferenceType": "NSEL-01",
+      "Value": 60
+    },
+    {
+      "Number": 21,
+      "ReferenceID": 8560,
+      "ReferenceType": "NSEL-01",
+      "Value": 681
+    },
+    {
+      "Number": 38,
+      "ReferenceID": 8567,
+      "ReferenceType": "NSEL-02",
+      "Value": 1202
+    },
+    {
+      "Number": 458,
+      "ReferenceID": 8966,
+      "ReferenceType": "NSEL-01",
+      "Value": 1581
+    },
+    {
+      "Number": 605,
+      "ReferenceID": 21679,
+      "ReferenceType": "CAND",
+      "Value": 1034
+    },
+    {
+      "Number": 1027,
+      "ReferenceID": 21015,
+      "ReferenceType": "CAND",
+      "Value": 1429
+    },
+    {
+      "Number": 3247,
+      "ReferenceID": 8719,
+      "ReferenceType": "CUV",
+      "Value": 183
+    },
+    {
+      "Number": 3298,
+      "ReferenceID": 8729,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 1887,
+      "ReferenceID": 8682,
+      "ReferenceType": "WRTN-02",
+      "Value": 15
+    },
+    {
+      "Number": 2206,
+      "ReferenceID": 8645,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 2649,
+      "ReferenceID": 8436,
+      "ReferenceType": "CFV",
+      "Value": 1691
+    },
+    {
+      "Number": 2760,
+      "ReferenceID": 8455,
+      "ReferenceType": "CBLT",
+      "Value": 2438
+    },
+    {
+      "Number": 2825,
+      "ReferenceID": 8787,
+      "ReferenceType": "CBLT",
+      "Value": 11781
+    },
+    {
+      "Number": 3210,
+      "ReferenceID": 8618,
+      "ReferenceType": "CBLT",
+      "Value": 8048
+    },
+    {
+      "Number": 4054,
+      "ReferenceID": 8765,
+      "ReferenceType": "CFV",
+      "Value": 805019
+    },
+    {
+      "Number": 4172,
+      "ReferenceID": 8888,
+      "ReferenceType": "CUV",
+      "Value": 252199
+    },
+    {
+      "Number": 1196,
+      "ReferenceID": 20754,
+      "ReferenceType": "CAND",
+      "Value": 1084
+    },
+    {
+      "Number": 1432,
+      "ReferenceID": 21344,
+      "ReferenceType": "CAND",
+      "Value": 22091
+    },
+    {
+      "Number": 1636,
+      "ReferenceID": 20680,
+      "ReferenceType": "CAND",
+      "Value": 195090
+    },
+    {
+      "Number": 1743,
+      "ReferenceID": 8583,
+      "ReferenceType": "WRTN-01",
+      "Value": 25
+    },
+    {
+      "Number": 948,
+      "ReferenceID": 21038,
+      "ReferenceType": "CAND",
+      "Value": 3110
+    },
+    {
+      "Number": 1003,
+      "ReferenceID": 20940,
+      "ReferenceType": "CAND",
+      "Value": 1517
+    },
+    {
+      "Number": 3476,
+      "ReferenceID": 8954,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 1383,
+      "ReferenceID": 21370,
+      "ReferenceType": "CAND",
+      "Value": 1411
+    },
+    {
+      "Number": 1527,
+      "ReferenceID": 21321,
+      "ReferenceType": "CAND",
+      "Value": 11769
+    },
+    {
+      "Number": 1695,
+      "ReferenceID": 8560,
+      "ReferenceType": "WRTN-01",
+      "Value": 6
+    },
+    {
+      "Number": 1933,
+      "ReferenceID": 8511,
+      "ReferenceType": "WRTN-01",
+      "Value": 19
+    },
+    {
+      "Number": 2500,
+      "ReferenceID": 8973,
+      "ReferenceType": "CBLT",
+      "Value": 2201
+    },
+    {
+      "Number": 2709,
+      "ReferenceID": 8791,
+      "ReferenceType": "CFV",
+      "Value": 1968
+    },
+    {
+      "Number": 2728,
+      "ReferenceID": 8703,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3364,
+      "ReferenceID": 8742,
+      "ReferenceType": "CFV",
+      "Value": 63017
+    },
+    {
+      "Number": 3413,
+      "ReferenceID": 8752,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 257,
+      "ReferenceID": 8454,
+      "ReferenceType": "NSEL-03",
+      "Value": 409
+    },
+    {
+      "Number": 1008,
+      "ReferenceID": 20631,
+      "ReferenceType": "CAND",
+      "Value": 2157
+    },
+    {
+      "Number": 3658,
+      "ReferenceID": 8938,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3812,
+      "ReferenceID": 8931,
+      "ReferenceType": "CUV",
+      "Value": 481
+    },
+    {
+      "Number": 3822,
+      "ReferenceID": 8937,
+      "ReferenceType": "CUV",
+      "Value": 2868
+    },
+    {
+      "Number": 3993,
+      "ReferenceID": 8772,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 1878,
+      "ReferenceID": 8703,
+      "ReferenceType": "WRTN-01",
+      "Value": 14
+    },
+    {
+      "Number": 2466,
+      "ReferenceID": 8596,
+      "ReferenceType": "COV",
+      "Value": 3
+    },
+    {
+      "Number": 2599,
+      "ReferenceID": 8479,
+      "ReferenceType": "CFV",
+      "Value": 4636
+    },
+    {
+      "Number": 2797,
+      "ReferenceID": 8439,
+      "ReferenceType": "CUV",
+      "Value": 1989
+    },
+    {
+      "Number": 3264,
+      "ReferenceID": 8722,
+      "ReferenceType": "CFV",
+      "Value": 13957
+    },
+    {
+      "Number": 4066,
+      "ReferenceID": 8768,
+      "ReferenceType": "COV",
+      "Value": 314
+    },
+    {
+      "Number": 1116,
+      "ReferenceID": 20803,
+      "ReferenceType": "CAND",
+      "Value": 1663
+    },
+    {
+      "Number": 1129,
+      "ReferenceID": 21295,
+      "ReferenceType": "CAND",
+      "Value": 116
+    },
+    {
+      "Number": 1253,
+      "ReferenceID": 21556,
+      "ReferenceType": "CAND",
+      "Value": 2127
+    },
+    {
+      "Number": 1775,
+      "ReferenceID": 8697,
+      "ReferenceType": "WRTN-01",
+      "Value": 3
+    },
+    {
+      "Number": 1875,
+      "ReferenceID": 8460,
+      "ReferenceType": "WRTN-01",
+      "Value": 26
+    },
+    {
+      "Number": 111,
+      "ReferenceID": 8590,
+      "ReferenceType": "NSEL-02",
+      "Value": 501
+    },
+    {
+      "Number": 177,
+      "ReferenceID": 8654,
+      "ReferenceType": "NSEL-01",
+      "Value": 145
+    },
+    {
+      "Number": 235,
+      "ReferenceID": 8541,
+      "ReferenceType": "NSEL-02",
+      "Value": 756
+    },
+    {
+      "Number": 975,
+      "ReferenceID": 20703,
+      "ReferenceType": "CAND",
+      "Value": 1373
+    },
+    {
+      "Number": 3477,
+      "ReferenceID": 8954,
+      "ReferenceType": "CUV",
+      "Value": 151
+    },
+    {
+      "Number": 3928,
+      "ReferenceID": 8423,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2832,
+      "ReferenceID": 8788,
+      "ReferenceType": "CUV",
+      "Value": 2827
+    },
+    {
+      "Number": 3124,
+      "ReferenceID": 8579,
+      "ReferenceType": "CFV",
+      "Value": 3697
+    },
+    {
+      "Number": 3170,
+      "ReferenceID": 8687,
+      "ReferenceType": "CBLT",
+      "Value": 2721
+    },
+    {
+      "Number": 1259,
+      "ReferenceID": 21656,
+      "ReferenceType": "CAND",
+      "Value": 6783
+    },
+    {
+      "Number": 1868,
+      "ReferenceID": 8483,
+      "ReferenceType": "WRTN-01",
+      "Value": 13
+    },
+    {
+      "Number": 2254,
+      "ReferenceID": 8573,
+      "ReferenceType": "CFV",
+      "Value": 231
+    },
+    {
+      "Number": 2373,
+      "ReferenceID": 8872,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2551,
+      "ReferenceID": 8619,
+      "ReferenceType": "COV",
+      "Value": 2
+    },
+    {
+      "Number": 2751,
+      "ReferenceID": 8668,
+      "ReferenceType": "COV",
+      "Value": 1
+    },
+    {
+      "Number": 83,
+      "ReferenceID": 8797,
+      "ReferenceType": "NSEL-01",
+      "Value": 632
+    },
+    {
+      "Number": 223,
+      "ReferenceID": 8682,
+      "ReferenceType": "NSEL-04",
+      "Value": 3525
+    },
+    {
+      "Number": 358,
+      "ReferenceID": 8723,
+      "ReferenceType": "NSEL-01",
+      "Value": 3486
+    },
+    {
+      "Number": 678,
+      "ReferenceID": 21513,
+      "ReferenceType": "CAND",
+      "Value": 178
+    },
+    {
+      "Number": 833,
+      "ReferenceID": 21587,
+      "ReferenceType": "CAND",
+      "Value": 2636
+    },
+    {
+      "Number": 974,
+      "ReferenceID": 20923,
+      "ReferenceType": "CAND",
+      "Value": 1871
+    },
+    {
+      "Number": 1778,
+      "ReferenceID": 8590,
+      "ReferenceType": "WRTN-02",
+      "Value": 10
+    },
+    {
+      "Number": 2484,
+      "ReferenceID": 8599,
+      "ReferenceType": "CFV",
+      "Value": 4395
+    },
+    {
+      "Number": 3069,
+      "ReferenceID": 8430,
+      "ReferenceType": "CFV",
+      "Value": 4052
+    },
+    {
+      "Number": 3071,
+      "ReferenceID": 8811,
+      "ReferenceType": "COV",
+      "Value": 8
+    },
+    {
+      "Number": 3072,
+      "ReferenceID": 8811,
+      "ReferenceType": "CUV",
+      "Value": 408
+    },
+    {
+      "Number": 3268,
+      "ReferenceID": 8723,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3485,
+      "ReferenceID": 8953,
+      "ReferenceType": "CBLT",
+      "Value": 3517
+    },
+    {
+      "Number": 3989,
+      "ReferenceID": 8771,
+      "ReferenceType": "CFV",
+      "Value": 180734
+    },
+    {
+      "Number": 4137,
+      "ReferenceID": 8882,
+      "ReferenceType": "CUV",
+      "Value": 236796
+    },
+    {
+      "Number": 4171,
+      "ReferenceID": 8888,
+      "ReferenceType": "COV",
+      "Value": 591
+    },
+    {
+      "Number": 1541,
+      "ReferenceID": 20846,
+      "ReferenceType": "CAND",
+      "Value": 13058
+    },
+    {
+      "Number": 1732,
+      "ReferenceID": 8577,
+      "ReferenceType": "WRTN-01",
+      "Value": 0
+    },
+    {
+      "Number": 72,
+      "ReferenceID": 8833,
+      "ReferenceType": "NSEL-02",
+      "Value": 807
+    },
+    {
+      "Number": 91,
+      "ReferenceID": 8872,
+      "ReferenceType": "NSEL-01",
+      "Value": 1718
+    },
+    {
+      "Number": 476,
+      "ReferenceID": 8946,
+      "ReferenceType": "NSEL-01",
+      "Value": 3873
+    },
+    {
+      "Number": 528,
+      "ReferenceID": 8823,
+      "ReferenceType": "NSEL-01",
+      "Value": 44706
+    },
+    {
+      "Number": 587,
+      "ReferenceID": 21487,
+      "ReferenceType": "CAND",
+      "Value": 373
+    },
+    {
+      "Number": 777,
+      "ReferenceID": 21536,
+      "ReferenceType": "CAND",
+      "Value": 286
+    },
+    {
+      "Number": 2083,
+      "ReferenceID": 8795,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 2831,
+      "ReferenceID": 8788,
+      "ReferenceType": "COV",
+      "Value": 11
+    },
+    {
+      "Number": 3383,
+      "ReferenceID": 8746,
+      "ReferenceType": "CPV",
+      "Value": 0
+    },
+    {
+      "Number": 3394,
+      "ReferenceID": 8748,
+      "ReferenceType": "CFV",
+      "Value": 71371
+    },
+    {
+      "Number": 1315,
+      "ReferenceID": 20774,
+      "ReferenceType": "CAND",
+      "Value": 5703
+    },
+    {
+      "Number": 1436,
+      "ReferenceID": 20946,
+      "ReferenceType": "CAND",
+      "Value": 214854
+    },
+    {
+      "Number": 1742,
+      "ReferenceID": 8677,
+      "ReferenceType": "WRTN-01",
+      "Value": 0
     },
     {
       "Number": 727,
@@ -17795,24 +17813,6 @@
       "ReferenceID": 21694,
       "ReferenceType": "CAND",
       "Value": 1864
-    },
-    {
-      "Number": 1733,
-      "ReferenceID": 8673,
-      "ReferenceType": "WRTN-01",
-      "Value": 0
-    },
-    {
-      "Number": 1820,
-      "ReferenceID": 8609,
-      "ReferenceType": "WRTN-02",
-      "Value": 2
-    },
-    {
-      "Number": 2116,
-      "ReferenceID": 8692,
-      "ReferenceType": "COV",
-      "Value": 2
     },
     {
       "Number": 2224,
