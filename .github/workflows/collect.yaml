@@ -16,6 +16,8 @@ jobs:
       - name: Download and format the data
         run: |
           curl "https://results.lavote.gov/electionresults/json?electionid=4300" | jq > results.json
+          curl "https://results.lavote.gov/ElectionResults/GetElectionData?electionID=4300" | jq > election_data.json
+          curl "https://results.lavote.gov/ElectionResults/GetCounterData?electionID=4300" | jq > counter_data.json
 
       - name: Get a timestamp
         run: echo "timestamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
@@ -24,5 +26,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Latest results: ${{ env.timestamp }}"
-          file_pattern: results.json
+          file_pattern: "*.json"
           skip_fetch: true
