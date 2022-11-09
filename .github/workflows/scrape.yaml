@@ -1,13 +1,10 @@
 name: Scrape latest election results data
 
 on:
-  # Run every repo push
   push:
-  # Run when triggered manually
   workflow_dispatch:
-  # Run every 5 minutes
   schedule:
-    - cron: "*/4 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   scrape:
