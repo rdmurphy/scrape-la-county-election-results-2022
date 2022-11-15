@@ -40,6 +40,7 @@ def prepare():
             id = contest['ID']
             name = contest['Title']
             contest_type = contest['Type']
+            description = contest['MeasureText']
             candidates = contest['Candidates']
 
             candidates_output = []
@@ -62,6 +63,7 @@ def prepare():
                 'name': name,
                 'type': contest_type,
                 'group': contest_group,
+                "description": description,
                 'candidates': candidates_output,
             })
 
