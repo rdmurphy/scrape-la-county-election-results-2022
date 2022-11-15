@@ -62,6 +62,23 @@ def prepare():
                     'changes': changes,
                 })
 
+            totals = []
+
+            for candidate in candidates_output:
+                for i, change in enumerate(candidate['changes']):
+                    if len(totals) < i + 1:
+                        totals.append(0)
+                    totals[i] += change
+
+            for candidate in candidates_output:
+                candidate['percent'] = []
+
+                for i, change in enumerate(candidate['changes']):
+                    if totals[i] > 0:
+                        candidate['percent'].append(change / totals[i])
+                    else:
+                        candidate['percent'].append(0)
+
             output.append({
                 'id': id,
                 'name': name,
@@ -69,6 +86,7 @@ def prepare():
                 'group': contest_group,
                 "description": description,
                 "vote_for": vote_for,
+                "totals": totals,
                 'candidates': candidates_output,
             })
 
