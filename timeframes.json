@@ -1,5 +1,5 @@
 {
-  "snapshots": [
+  "dates": [
     "2022-11-08",
     "2022-11-09",
     "2022-11-10",
@@ -14,6 +14,7 @@
       "type": "Measure",
       "group": "County Measures",
       "description": "CHARTER AMENDMENT - PROVIDING AUTHORITY TO REMOVE AN ELECTED SHERIFF FOR CAUSE. Shall the measure amending the County of Los Angeles Charter to grant the Board of Supervisors authority to remove an elected Sheriff from office for cause, including a violation of law related to a Sheriff's duties, flagrant or repeated neglect of duties, misappropriation of funds, willful falsification of documents, or obstructing an investigation, by a four-fifths vote of the Board of Supervisors, after written notice and an opportunity to be heard, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21153,
@@ -65,6 +66,7 @@
       "type": "Measure",
       "group": "County Measures",
       "description": "Los Angeles County Cannabis Business Tax Measure. Shall the measure enacting a tax in the unincorporated areas of Los Angeles County on cannabis businesses at annual rates not to exceed $10 per square foot for cultivation (adjusted for inflation) and a percentage of gross receipts for various cannabis businesses, including retail (6 percent), testing laboratory (2 percent), distribution (3 percent), manufacturing and for all other cannabis businesses (4 percent), generating approximately $10,360,000 to $15,170,000 annually, until ended by voters, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21263,
@@ -116,6 +118,7 @@
       "type": "Candidate",
       "group": "Governor",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20554,
@@ -167,6 +170,7 @@
       "type": "Candidate",
       "group": "Lieutenant Governor",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20555,
@@ -218,6 +222,7 @@
       "type": "Candidate",
       "group": "Secretary of State",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20557,
@@ -269,6 +274,7 @@
       "type": "Candidate",
       "group": "Controller",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20559,
@@ -320,6 +326,7 @@
       "type": "Candidate",
       "group": "Treasurer",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20562,
@@ -371,6 +378,7 @@
       "type": "Candidate",
       "group": "Attorney General",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20563,
@@ -422,6 +430,7 @@
       "type": "Candidate",
       "group": "Insurance Commissioner",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20566,
@@ -473,6 +482,7 @@
       "type": "Candidate",
       "group": "Board of Equalization",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20567,
@@ -524,6 +534,7 @@
       "type": "Candidate",
       "group": "United States Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20460,
@@ -575,6 +586,7 @@
       "type": "Candidate",
       "group": "United States Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20587,
@@ -626,6 +638,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20520,
@@ -677,6 +690,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20521,
@@ -728,6 +742,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20523,
@@ -779,6 +794,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20526,
@@ -830,6 +846,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20528,
@@ -881,6 +898,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20529,
@@ -932,6 +950,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20532,
@@ -983,6 +1002,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20533,
@@ -1034,6 +1054,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20536,
@@ -1085,6 +1106,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20537,
@@ -1136,6 +1158,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20539,
@@ -1187,6 +1210,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20541,
@@ -1238,6 +1262,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20544,
@@ -1289,6 +1314,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20546,
@@ -1340,6 +1366,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20548,
@@ -1391,6 +1418,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20549,
@@ -1442,6 +1470,7 @@
       "type": "Candidate",
       "group": "U.S. Representative",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20552,
@@ -1493,6 +1522,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20463,
@@ -1544,6 +1574,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20465,
@@ -1595,6 +1626,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20466,
@@ -1646,6 +1678,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20770,
@@ -1697,6 +1730,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20469,
@@ -1748,6 +1782,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20471,
@@ -1799,6 +1834,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20472,
@@ -1850,6 +1886,7 @@
       "type": "Candidate",
       "group": "State Senator",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20475,
@@ -1901,6 +1938,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20476,
@@ -1952,6 +1990,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20479,
@@ -2003,6 +2042,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20480,
@@ -2054,6 +2094,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20482,
@@ -2105,6 +2146,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20483,
@@ -2156,6 +2198,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20485,
@@ -2207,6 +2250,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20487,
@@ -2258,6 +2302,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20489,
@@ -2309,6 +2354,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20490,
@@ -2360,6 +2406,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20492,
@@ -2411,6 +2458,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20494,
@@ -2462,6 +2510,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20495,
@@ -2513,6 +2562,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20497,
@@ -2564,6 +2614,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20774,
@@ -2615,6 +2666,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20501,
@@ -2666,6 +2718,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20503,
@@ -2717,6 +2770,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20504,
@@ -2747,6 +2801,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20505,
@@ -2798,6 +2853,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20507,
@@ -2849,6 +2905,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20510,
@@ -2900,6 +2957,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20512,
@@ -2951,6 +3009,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20514,
@@ -3002,6 +3061,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20515,
@@ -3053,6 +3113,7 @@
       "type": "Candidate",
       "group": "Member of the Assembly",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20518,
@@ -3104,6 +3165,7 @@
       "type": "Judicial",
       "group": "Supreme Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20866,
@@ -3155,6 +3217,7 @@
       "type": "Judicial",
       "group": "Supreme Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20875,
@@ -3206,6 +3269,7 @@
       "type": "Judicial",
       "group": "Supreme Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20869,
@@ -3257,6 +3321,7 @@
       "type": "Judicial",
       "group": "Supreme Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20863,
@@ -3308,6 +3373,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21778,
@@ -3359,6 +3425,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21781,
@@ -3410,6 +3477,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20897,
@@ -3461,6 +3529,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20888,
@@ -3512,6 +3581,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20891,
@@ -3563,6 +3633,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20900,
@@ -3614,6 +3685,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21299,
@@ -3665,6 +3737,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20885,
@@ -3716,6 +3789,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20882,
@@ -3767,6 +3841,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21775,
@@ -3818,6 +3893,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20894,
@@ -3869,6 +3945,7 @@
       "type": "Judicial",
       "group": "Appellate Court Justices",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20879,
@@ -3920,6 +3997,7 @@
       "type": "Candidate",
       "group": "Superintendent Public Inst",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20569,
@@ -3971,6 +4049,7 @@
       "type": "Measure",
       "group": "State Measures",
       "description": "CONSTITUTIONAL RIGHT TO REPRODUCTIVE FREEDOM. LEGISLATIVE CONSTITUTIONAL AMENDMENT. Amends California Constitution to expressly include an individual's fundamental right to reproductive freedom, which includes the fundamental right to choose to have an abortion and the fundamental right to choose or refuse contraceptives. This amendment does not narrow or limit the existing rights to privacy and equal protection under the California Constitution. Fiscal Impact: No direct fiscal effect because reproductive rights already are protected by state law.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20679,
@@ -4022,6 +4101,7 @@
       "type": "Measure",
       "group": "State Measures",
       "description": "ALLOWS IN-PERSON ROULETTE, DICE GAMES, SPORTS WAGERING ON TRIBAL LANDS. INITIATIVE CONSTITUTIONAL AMENDMENT AND STATUTE. Also allows: sports wagering at certain horseracing tracks; private lawsuits to enforce certain gambling laws. Directs revenues to General Fund, problem-gambling programs, enforcement. Fiscal Impact: Increased state revenues, possibly reaching tens of millions of dollars annually. Some of these revenues would support increased state regulatory and enforcement costs that could reach the low tens of millions of dollars annually.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20681,
@@ -4073,6 +4153,7 @@
       "type": "Measure",
       "group": "State Measures",
       "description": "ALLOWS ONLINE AND MOBILE SPORTS WAGERING OUTSIDE TRIBAL LANDS. INITIATIVE CONSTITUTIONAL AMENDMENT AND STATUTE. Allows Indian tribes and affiliated businesses to operate online/mobile sports wagering outside tribal lands. Directs revenues to regulatory costs, homelessness programs, nonparticipating tribes. Fiscal Impact: Increased state revenues, possibly in the hundreds of millions of dollars but not likely to exceed $500 million annually. Some revenues would support state regulatory costs, possibly reaching the mid-tens of millions of dollars annually.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20683,
@@ -4124,6 +4205,7 @@
       "type": "Measure",
       "group": "State Measures",
       "description": "PROVIDES ADDITIONAL FUNDING FOR ARTS AND MUSIC EDUCATION IN PUBLIC SCHOOLS. INITIATIVE STATUTE. Provides additional funding from state General Fund for arts and music education in all K-12 public schools (including charter schools). Fiscal Impact: Increased state costs of about $1 billion annually, beginning next year, for arts education in public schools.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20686,
@@ -4175,6 +4257,7 @@
       "type": "Measure",
       "group": "State Measures",
       "description": "REQUIRES ON-SITE LICENSED MEDICAL PROFESSIONAL AT KIDNEY DIALYSIS CLINICS AND ESTABLISHES OTHER STATE REQUIREMENTS. INITIATIVE STATUTE. Requires physician, nurse practitioner, or physician assistant on site during treatment. Requires clinics to: disclose physicians' ownership interests; report infection data. Fiscal Impact: Increased state and local government costs likely in the tens of millions of dollars annually.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20688,
@@ -4226,6 +4309,7 @@
       "type": "Measure",
       "group": "State Measures",
       "description": "PROVIDES FUNDING FOR PROGRAMS TO REDUCE AIR POLLUTION AND PREVENT WILDFIRES BY INCREASING TAX ON PERSONAL INCOME OVER $2 MILLION. INITIATIVE STATUTE. Allocates tax revenues to zero-emission vehicle purchase incentives, vehicle charging stations, and wildfire prevention. Fiscal Impact: Increased state tax revenue ranging from $3.5 billion to $5 billion annually, with the new funding used to support zero-emission vehicle programs and wildfire response and prevention activities.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20690,
@@ -4277,6 +4361,7 @@
       "type": "Measure",
       "group": "State Measures",
       "description": "REFERENDUM ON 2020 LAW THAT WOULD PROHIBIT THE RETAIL SALE OF CERTAIN FLAVORED TOBACCO PRODUCTS. A \"Yes\" vote approves, and a \"No\" vote rejects, a 2020 law prohibiting retail sale of certain flavored tobacco products. Fiscal Impact: Decreased state tobacco tax revenues ranging from tens of millions of dollars annually to around $100 million annually.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20692,
@@ -4328,6 +4413,7 @@
       "type": "Candidate",
       "group": "Sheriff",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20574,
@@ -4379,6 +4465,7 @@
       "type": "Candidate",
       "group": "Board of Supervisors",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20571,
@@ -4430,6 +4517,7 @@
       "type": "Candidate",
       "group": "Judge Superior Court",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20576,
@@ -4481,6 +4569,7 @@
       "type": "Candidate",
       "group": "Judge Superior Court",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20577,
@@ -4532,6 +4621,7 @@
       "type": "Candidate",
       "group": "Judge Superior Court",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20579,
@@ -4583,6 +4673,7 @@
       "type": "Candidate",
       "group": "Judge Superior Court",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20581,
@@ -4634,6 +4725,7 @@
       "type": "Candidate",
       "group": "Judge Superior Court",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20583,
@@ -4685,6 +4777,7 @@
       "type": "Candidate",
       "group": "Judge Superior Court",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20586,
@@ -4736,6 +4829,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21565,
@@ -4850,6 +4944,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21486,
@@ -4901,6 +4996,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21482,
@@ -4973,6 +5069,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21485,
@@ -5003,6 +5100,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20666,
@@ -5054,6 +5152,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20659,
@@ -5105,6 +5204,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the City Charter be amended to provide for election of City Councilmembers by-district, to set the general municipal election for the first Tuesday after the first Monday of November in even-numbered years to align with the Statewide General Election date, to amend the procedure to fill vacant elective offices, to change the City Clerk from elected to appointed, to establish a City Prosecutor, to modify City procurement procedures, and to make other modernizing amendments?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21070,
@@ -5156,6 +5256,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall a measure be adopted to increase the maximum rate of the City's Transient Occupancy Tax (also known as Hotel Tax) charged to guests of hotels and any other overnight lodging facilities from a maximum of 10% to 12% as of January 1, 2023, providing an additional estimated $730,000 annually until ended by voters for City services including public safety response, street repair and maintenance, park construction and maintenance, and for general government use?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21072,
@@ -5207,6 +5308,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure to establish a Sports Wagering Tax at a rate of up to 5% of sports wagering gross revenues, providing approximately $1,000,000 annually until ended by voters for general government use such as City parks, streets and public safety, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21074,
@@ -5258,6 +5360,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21428,
@@ -5330,6 +5433,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21432,
@@ -5381,6 +5485,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21440,
@@ -5474,6 +5579,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21612,
@@ -5567,6 +5673,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21383,
@@ -5597,6 +5704,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21382,
@@ -5627,6 +5735,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21377,
@@ -5678,6 +5787,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21381,
@@ -5750,6 +5860,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21378,
@@ -5780,6 +5891,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "To fund Baldwin Park services, including keeping public parks and facilities safe and clean; street maintenance and traffic management; prioritize police response for schools, enhance gang and crime prevention; improve senior, youth, and job programs; shall an ordinance establishing a \u00be cent sales tax be adopted, providing approximately 6 million dollars annually for general government use in Baldwin Park until ended by voters, with annual audits, stakeholders oversight committee, no funds to LA, all funds for Baldwin Park?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21332,
@@ -5831,6 +5943,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure authorizing cannabis retailers to sell and deliver medical cannabis and cannabis products to adults, and adult-use cannabis and cannabis products to persons 21 years and older, with retailers paying a 0.5% tax and 4% tax on gross receipts from sales, respectively, providing $300,000 to $3 million annually for general government use, and authorizing City Council to modify rates up to 5%, until repealed by voters, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20718,
@@ -5882,6 +5995,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall City of Baldwin Park City Council Ordinance No. 1468, establishing campaign contribution limits and penalties lowering the maximum contribution from an individual or political action committee to $750 per candidate/PAC per election cycle be adopted by voters?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21330,
@@ -5933,6 +6047,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the voters elect five Councilmembers to a four-year term with an annually sequential rotating Mayor and Mayor Pro Tempore of the City Council of the City of Baldwin Park commencing in the year 2024?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21369,
@@ -5984,6 +6099,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure, establishing term limits so that no member of the City Council may serve more than three terms in office in their lifetime (12 years) and no directly-elected Mayor may serve more than six terms in office in their lifetime (12 years) and no member of the City Council or directly-elected Mayor may serve more than a combined 12 years in office, regardless of the office be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21334,
@@ -6035,6 +6151,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21683,
@@ -6086,6 +6203,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21685,
@@ -6137,6 +6255,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21675,
@@ -6209,6 +6328,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21678,
@@ -6323,6 +6443,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall an ordinance be adopted establishing term limits for Bell Gardens councilmembers where no person may serve more than 3 four-year terms of office cumulatively over the person's lifetime and where service for the unexpired balance of a vacated City Council seat (whether by appointment or election) will also count as service for a full four-year term of office even if such service is for a period that is less than four years in duration?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20458,
@@ -6374,6 +6495,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21632,
@@ -6593,6 +6715,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21687,
@@ -6644,6 +6767,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21691,
@@ -6695,6 +6819,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21531,
@@ -6767,6 +6892,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21533,
@@ -6797,6 +6923,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21529,
@@ -6911,6 +7038,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21706,
@@ -7025,6 +7153,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "CARSON ESSENTIAL SERVICES PROTECTION MEASURE. To maintain services such as 911 emergency response/public safety; natural disaster/public health emergency preparedness; protect local drinking water; repair streets/potholes and other general City services, shall the measure, continuing the existing 2% Utility Users Tax (no tax increase) limited to electric/gas utilities, exempting senior and low-income households, providing approximately $8,000,000 annually until ended by voters, requiring public spending disclosure, all funds for Carson, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20927,
@@ -7076,6 +7205,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21765,
@@ -7169,6 +7299,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21774,
@@ -7220,6 +7351,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21766,
@@ -7292,6 +7424,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21768,
@@ -7343,6 +7476,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Commerce City Council Term Limits. Shall the City of Commerce modify existing term limits on the office of City Councilperson so that term limits allow for the extension of Council terms due to the change of election dates mandated by state law?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21196,
@@ -7394,6 +7528,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21542,
@@ -7445,6 +7580,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21543,
@@ -7496,6 +7632,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21546,
@@ -7547,6 +7684,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "To fund City services, shall a measure establishing a tax on cannabis and hemp businesses of the following rates: 4%-7% of gross receipts for retail businesses; and the higher of 1%-4% of gross receipts or $1-$10 per square foot for other businesses, with certain rates increasing annually, generating an estimated $500,000 annually if cannabis and hemp businesses were to be authorized in the future, until ended by voters, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21124,
@@ -7598,6 +7736,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure amending the Compton City Charter to reduce the number of required monthly regular City Council meetings from four to two be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21126,
@@ -7649,6 +7788,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure amending the Compton City Charter to change the City's general municipal election date to coincide with the statewide primary election, change the date of the City's primary nominating election to an established election date, and make other related and technical changes to the City's election procedures and terms of office, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21128,
@@ -7700,6 +7840,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Cannabis Businesses Accountability Measure To increase funding for parks, recreational programs, roads and sidewalks and other general governmental purposes, shall an ordinance authorizing and regulating storefront retail cannabis sales and other commercial cannabis activities be approved with prohibitions on retail operations within 600 feet of schools, churches, childcare facilities and other sensitive uses and with retailers required to pay a 15% gross receipts tax to raise approximately $3,581,952.75 annually until ended by Cudahy voters?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21336,
@@ -7751,6 +7892,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21424,
@@ -7886,6 +8028,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Measure BL: Shall the measure updating Culver City's business license tax to either a flat tax up to $1,000, or 0.13%-0.35% of gross receipts (depending on business type), 4% for oil well operations, and an additional 0.01% for gross receipts over $100,000,000, exempting the first $200,000 in gross receipts, updating business classifications, generating approximately $10,000,000 annually, until ended by voters, for such general fund services as emergency response, parks, homelessness services, and requiring annual independent audits, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21132,
@@ -7937,6 +8080,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Measure VY: Shall the measure amending the City of Culver City Charter to allow Culver City residents aged 16 and 17, who are otherwise eligible to vote under state and local law, to vote on City and School District candidates and ballot measures, provided that each legislative body has approved budgetary funds and determined logistical systems are in place, and that inclusion would not prevent consolidation of City or School District elections with county elections, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21130,
@@ -7988,6 +8132,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21646,
@@ -8123,6 +8268,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21547,
@@ -8174,6 +8320,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21549,
@@ -8225,6 +8372,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21551,
@@ -8276,6 +8424,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Downey Transient Occupancy Tax Measure: \"Shall the measure to increase the rate of the City's Transient Occupancy (Room) Tax from 9% to 13%, providing approximately $950,000 annually until ended by voters for general government use such as City parks, streets and public safety, and applying the tax to all rent charged to hotel guests, including by online travel and short term rental companies, for transient occupancy of any hotel, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21076,
@@ -8327,6 +8476,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21729,
@@ -8399,6 +8549,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21733,
@@ -8471,6 +8622,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Measure J: An Ordinance Establishing a Healthcare Workers Minimum Wage Ordinance in the City of Duarte Shall an ordinance establishing a minimum wage of at least $25 per hour for defined healthcare workers in the City of Duarte; requiring an annual healthcare workers minimum wage increase beginning January 2024; requiring enforcement at the City's expense; establishing judicial remedies for violations including penalties up to $120 per healthcare worker for each day a violation occurs, attorneys' fees, and treble damages be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21078,
@@ -8522,6 +8674,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21385,
@@ -8573,6 +8726,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21386,
@@ -8603,6 +8757,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21387,
@@ -8633,6 +8788,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21389,
@@ -8684,6 +8840,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "To enhance funding for police protection and public safety services, community code enforcement and beautification efforts and other general governmental purposes, shall the City of El Monte increase its existing transient occupancy tax paid only by hotel and motel guests from its current rate 10% to a new increased rate of 14% providing an estimated $350,000 annually in additional general fund revenues, until ended by El Monte voters?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21230,
@@ -8735,6 +8892,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21501,
@@ -8786,6 +8944,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21509,
@@ -8837,6 +8996,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21505,
@@ -8888,6 +9048,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21512,
@@ -8939,6 +9100,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21513,
@@ -8990,6 +9152,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21515,
@@ -9041,6 +9204,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21521,
@@ -9092,6 +9256,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall an ordinance amending business taxes, including: $150 for specified businesses; for others, $150 up to five employees, $138 per additional employee, and $0.26 to $0.30 per square foot above 2,000 square feet; for apartments and hotels or motels, $150 up to three units or rooms plus $150 for each additional; sunsetting current tax credits; generating approximately $3,000,000 annually for public safety, maintaining parks and streets, and other general purposes, until repealed, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21088,
@@ -9143,6 +9308,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "City Initiative for Commercial Cannabis Regulation. Shall an ordinance be adopted to repeal the City's current prohibition on commercial cannabis activities to authorize commercial cannabis retailers east of Pacific Coast Highway in the Multimedia Overlay District by right, if no less than 1,750 square feet, with sensitive receptor buffers and away from major arterial frontages, subject to a City permitting process; and authorize the City Council to subsequently regulate non-retail cannabis businesses?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21080,
@@ -9194,6 +9360,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall an ordinance (a \"yes\" vote taxing cannabis does \"not\" make cannabis businesses legal in El Segundo; it creates a tax in case a cannabis business ever becomes legal) funding general municipal expenses such as police, fire, streets, and parks, by establishing taxes upon cannabis businesses not to exceed $20 per square foot for cultivation and 10% of gross receipts for other cannabis businesses, until ended by voters, generating approximately $600,000 to $1,500,000 annually, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21085,
@@ -9245,6 +9412,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21522,
@@ -9359,6 +9527,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21465,
@@ -9494,6 +9663,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21472,
@@ -9545,6 +9715,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "CHARTER ADOPTION. Shall the measure to adopt a Charter to provide the City maximum authority over municipal affairs; allow all Councilmembers to appoint members to City commissions subject to approval of the Council; preserve the authority of the City Attorney to prosecute misdemeanors; and set annual compensation for Councilmembers at the 2021 HUD low-income level for a family of two ($75,700), with any future salary adjustments subject to general law, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21338,
@@ -9596,6 +9767,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21605,
@@ -9647,6 +9819,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21595,
@@ -9698,6 +9871,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21599,
@@ -9875,6 +10049,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "To maintain Hermosa Beach's long-term financial stability with locally controlled funds, to be used for programs such as public safety/911 response, enforcement against property crime; street/pothole repair; protection of beach/coastal waters; school safety; cleaning of public areas; retention/attraction of local businesses; homeless services and for general governmental use; shall an ordinance be adopted establishing a \u00be\u00a2 sales tax requiring public spending disclosure/independent audits, generating approximately $3,000,000 annually until ended by voters?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20721,
@@ -9926,6 +10101,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall an ordinance proposed by initiative petition be adopted that repeals the City's existing ban on cannabis businesses and allows by City-approved permit up to two cannabis retail storefront businesses, including home delivery from those stores?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20725,
@@ -9977,6 +10153,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall an ordinance be adopted enacting a local business tax on cannabis/hemp businesses up to $20.00 per square foot for cultivation and up to 10% of gross receipts for all other cannabis/hemp businesses, estimated to generate $700,000 - $1,500,000 annually (assuming two retail stores operating and taxed at maximum rate), until ended by voters, for general governmental use, subject to independent audits, to be effective only if cannabis business operations are allowed in the City?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20729,
@@ -10028,6 +10205,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall Ordinance No. N.S. 211, establishing a civil service system, adopted on June 7, 1960, be repealed to enable the Hermosa Beach City Council to adopt an updated personnel/civil service ordinance?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20733,
@@ -10079,6 +10257,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21457,
@@ -10256,6 +10435,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21507,
@@ -10349,6 +10529,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Huntington Park Overnight Parking Permit Program A YES vote by the residents will establish a City-Wide Overnight Parking Permit Program on public streets. Should there be a City-wide overnight parking permit program of which times and dates will be set by resolution by the City? Fiscal impact will be minimal because permit fees will offset the City costs of processing the permits.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21362,
@@ -10400,6 +10581,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Ordinance To Establish Minimum Wage For Certain Employees Of Privately Owned Covered Healthcare Facilities. Shall the ordinance to establish a $25 per hour minimum wage, subject to annual increase, for certain employees employed to work at or by a privately owned covered healthcare facility located within the City of Inglewood, and provide for enforcement by the City, a Healthcare Worker or their representative, or another person acting on behalf of the public be approved?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20925,
@@ -10451,6 +10633,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21829,
@@ -10586,6 +10769,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21835,
@@ -10742,6 +10926,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21839,
@@ -10793,6 +10978,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21591,
@@ -10886,6 +11072,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21398,
@@ -10979,6 +11166,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21870,
@@ -11030,6 +11218,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21456,
@@ -11060,6 +11249,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21445,
@@ -11111,6 +11301,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21450,
@@ -11225,6 +11416,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Long Beach Water and Gas Consolidation. Shall the City Charter be amended to merge the existing water, sewer and gas utilities into a single publicly-owned utility, governed by the existing independent Water/Utility Commission; eliminate duplicative costs by consolidating like operations, improve customer service efficiency with increased flexibility in sharing of staffing/equipment, reduce impacts to streets through coordinated utility pipeline street repairs; and achieve cost savings through greater economies of scale?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21346,
@@ -11276,6 +11468,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the Long Beach City Charter be amended to establish a Police Oversight Commission and add a Police Oversight Director, to redesign City's police oversight and accountability through modified practices, including a Director with authority to audit Police Department complaint investigations, review major use of force incidents, and make recommendations on Police Department operations, policies, procedures, and trainings, and a Commission to provide feedback to the Director, and which would replace the Citizen Police Complaint Commission?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21344,
@@ -11327,6 +11520,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Realign City and State Election Dates Shall the City Charter of Long Beach be amended to realign the City's primary and general election dates with the State's primary and general election dates held in even-numbered years, and make other related and technical changes to City election procedures?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21340,
@@ -11378,6 +11572,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21435,
@@ -11429,6 +11624,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21495,
@@ -11480,6 +11676,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21497,
@@ -11531,6 +11728,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21499,
@@ -11582,6 +11780,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "AUTHORIZATION FOR ADDITIONAL LOW-INCOME HOUSING. PROPOSITION LH. Shall a measure authorizing public entities in the City of Los Angeles to develop, construct, or acquire up to 5,000 additional units of low-income rental housing in each Council District to address homelessness and affordable housing needs, subject to availability of funding and City development requirements, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20946,
@@ -11633,6 +11832,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "PARKS AND RECREATIONAL FACILITIES PARCEL TAX. PROPOSITION SP. Shall an ordinance providing funding for parks, recreational centers, pools, playgrounds, waterways, beaches, green spaces, open spaces, childcare and other facilities, and increasing park equity in the City of Los Angeles, through a tax of $0.08414 per square foot on improved parcels, reduced to $0.0222 upon completion of certain programs or in 30 years, with citizen oversight and exemptions for low-income households, generating approximately $227 million annually, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20948,
@@ -11684,6 +11884,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "FUNDING FOR AFFORDABLE HOUSING AND TENANT ASSISTANCE PROGRAMS THROUGH A TAX ON REAL PROPERTY TRANSFERS OVER $5 MILLION. INITIATIVE ORDINANCE ULA. Shall an ordinance funding and authorizing affordable housing programs and resources for tenants at risk of homelessness through a 4% tax on sales/transfers of real property exceeding $5 million, and 5.5% on properties of $10 million or more, with exceptions; until ended by voters; generating approximately $600 million - $1.1 billion annually; be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20929,
@@ -11735,6 +11936,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21850,
@@ -11786,6 +11988,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21852,
@@ -11837,6 +12040,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21848,
@@ -11888,6 +12092,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21853,
@@ -11939,6 +12144,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21856,
@@ -11990,6 +12196,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21857,
@@ -12041,6 +12248,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21859,
@@ -12092,6 +12300,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the City adopt Ordinance No. 1752 establishing a 5%, but not to exceed 10% tax on businesses selling cannabis products at retail stores in the City to help fund City general fund services such as senior citizen programs, City beautification efforts, enforcement of illegal cannabis operations, public safety, housing programs, recreation services, infrastructure, and homeless reduction and other City efforts? Estimated revenues are $3 to $6 million annually until terminated by the City Council.",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21281,
@@ -12143,6 +12352,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21736,
@@ -12278,6 +12488,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "To support such city services as public safety, crime and fire prevention, addressing homelessness, keeping public areas safe and clean, preventing speeding and reckless driving, protecting coastal waters and beaches from pollution, preserving natural areas, supporting local businesses, and other general city services; shall a measure be adopted establishing a 1/2\u00a2 transactions and use (sales) tax providing approximately $3,000,000 annually until ended by voters, requiring public spending disclosures and local control of funds?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21348,
@@ -12329,6 +12540,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21628,
@@ -12464,6 +12676,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall a measure repealing Manhattan Beach's existing prohibition of all commercial cannabis activity; allowing three cannabis retailers within city limits; allowing the Manhattan Beach City Council discretion to legalize other cannabis uses; and imposing operational, design, and location requirements on such businesses, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20742,
@@ -12515,6 +12728,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure readopting Manhattan Beach's existing: (1) prohibition of all commercial cannabis activities in the City; and (2) allowance of limited indoor cannabis cultivation consistent with state law, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21209,
@@ -12566,6 +12780,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21491,
@@ -12722,6 +12937,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21540,
@@ -12752,6 +12968,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21538,
@@ -12887,6 +13104,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21718,
@@ -12938,6 +13156,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21710,
@@ -13031,6 +13250,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21714,
@@ -13082,6 +13302,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21721,
@@ -13133,6 +13354,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21716,
@@ -13184,6 +13406,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21722,
@@ -13277,6 +13500,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall an ordinance maintaining Monterey Park's long term financial stability and locally controlled services such as 9-1-1 emergency/safety response; conducting neighborhood/park police patrols; helping prevent thefts/property crimes; protecting local drinking water; preparing for drought; retaining/attracting local businesses/jobs; repairing streets/potholes; addressing homelessness; and allowing other government use by establishing a \u00be\u00a2 transactions and use (sales) tax until ended by voters, generating approximately $6,000,000 annually, with audits/public spending disclosure, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21092,
@@ -13328,6 +13552,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21553,
@@ -13379,6 +13604,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21563,
@@ -13430,6 +13656,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21555,
@@ -13481,6 +13708,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21559,
@@ -13574,6 +13802,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21560,
@@ -13625,6 +13854,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21788,
@@ -13739,6 +13969,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21743,
@@ -13811,6 +14042,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21745,
@@ -13883,6 +14115,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21748,
@@ -13955,6 +14188,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21400,
@@ -14048,6 +14282,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Pasadena Charter Amendment Initiative Petition Measure Imposing Rent Control Shall an amendment to the Pasadena City Charter limiting rent adjustments in the City of Pasadena annually to 75% of the percentage increase in the Consumer Price Index for multifamily rental units built before February 1, 1995; prohibiting evictions from rental units, except for just cause based on 11 specified criteria; and creating an independent Rental Housing Board appointed by the City Council to oversee and adopt rules and regulations, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21350,
@@ -14099,6 +14334,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Pasadena Public Library Services Continuation Measure To keep City libraries well-maintained; provide books/materials, youth reading/homework programs; maintain library hours/days open; retain qualified librarians; ensure computer access; shall the City of Pasadena continue the voter-approved annual parcel tax, currently $41 for single-family residences and condominium units and specified rates for other parcel types, generating $2,800,000 annually for 15 years, limiting annual increases to the Consumer Price Index; requiring audits, locally controlled funds, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20850,
@@ -14150,6 +14386,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "To improve 911 response, prevent crime/thefts; protect local drinking water sources; repair streets/potholes; address homelessness; other general City services; shall an ordinance to simplify/update Pico Rivera's 64-year-old business license fee, to protect local small businesses and ensure all businesses operating in the City pay their fair share; with no tax increase on residents, be adopted, generating approximately $5,800,000 annually until ended by voters; requiring City spending disclosure/local control of funds?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21096,
@@ -14201,6 +14438,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Term Limits for Members of the City Council Shall the terms served by City Council Members in the City of Pico Rivera be limited to not more than three (3) consecutive four (4) year terms, after which City Council Member shall not be qualified to serve in that elected office for a period of four (4) years?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21094,
@@ -14252,6 +14490,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21453,
@@ -14345,6 +14584,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the Campaign Finance Measure: Shall the City Charter be amended to change the City's campaign finance and conflict of interest laws; including updates to the City's campaign contribution limits, voluntary expenditure ceiling, rules for use of surplus campaign funds, and mandating disclosure of certain campaign contributions by a Councilmember prior to casting a vote on a City matter where the contributor is the applicant?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21149,
@@ -14396,6 +14636,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the Ethics Commission Measure Shall the City Charter be amended to create an ethics commission of Pomona residents who shall be responsible for monitoring, advising, educating and responding to issues regarding applicable State and local governmental ethics laws, including campaign finance limits and disclosure, nepotism, lobbying, conflict of interest and open meeting laws, and for the administration and implementation of programs to accomplish the goals and purposes of the commission?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21139,
@@ -14447,6 +14688,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the General Charter Update Measure: Shall the City Charter be amended to make various updates and clarifications to City policy, including addition of a preamble outlining the City's values, updating rules for filling Mayoral and Council vacancies, increasing notice of public meetings, updating rules for appointed commissions and boards, and making various other technical changes as specified therein?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21151,
@@ -14498,6 +14740,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the Independent Redistricting Commission Measure: Shall the City Charter be amended to create an independent citizens' redistricting commission of Pomona residents who shall determine the boundaries of City Council electoral districts every ten years or as needed after the United States Census in accordance with applicable Federal and State law?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21141,
@@ -14549,6 +14792,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the Local Primary Measure: Shall the City Charter be amended to establish a local primary election for the office of Mayor and City Councilmember to coincide with the Statewide Primary Election, beginning in the year 2024; whereby if a candidate secures majority voter approval in the local primary, he or she will be elected, and if no candidate secures majority voter approval, the top two candidates shall stand for a run-off election to coincide with the Statewide General Election?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21147,
@@ -14600,6 +14844,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the Police Oversight Commission Measure Shall the City Charter be amended to create a police oversight commission of Pomona residents who shall be authorized to receive community complaints and concerns about police matters; to review, investigate and report on incidents in connection with the Pomona Police Department; and to advise City officials and conduct public outreach on policing/community relations issues?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21136,
@@ -14651,6 +14896,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the Resign to Run Measure: Shall the City Charter be amended to establish a \"resign to run\" rule whereby any current City Councilmember running for Mayor must resign his or her Council seat if the new Mayoral term will begin before the City Councilmember's current term ends?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21145,
@@ -14702,6 +14948,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the City of Pomona adopt the measure enacting a $0.15 per gross square foot special tax on industrial parcels located within the City, subject to annual CPI adjustment, generating approximately $14,000,000 annually in dedicated revenue that may be used solely for the capital improvement, operation, maintenance, repair and/or restoration of Pomona public streets, roadways, sidewalks, roadway lighting, traffic signals or other right of way improvements that implement a Complete Streets Plan, until ended by voters?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21352,
@@ -14753,6 +15000,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "For the Term Limits Measure: Shall the City Charter be amended to enact a three consecutive term limit on elected service in Pomona, whether serving as Mayor or as a Council Member, followed by a four-year \"cooling off\" period after serving three consecutive terms during which a person may not serve on the City Council?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21143,
@@ -14804,6 +15052,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21403,
@@ -14855,6 +15104,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21406,
@@ -14906,6 +15156,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21412,
@@ -14957,6 +15208,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21586,
@@ -15092,6 +15344,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21763,
@@ -15206,6 +15459,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21819,
@@ -15320,6 +15574,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21617,
@@ -15371,6 +15626,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21619,
@@ -15422,6 +15678,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21609,
@@ -15578,6 +15835,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure to levy an annual special parcel tax on specified vacant commercial and residential properties within the City of San Marino to fund public safety services (including police, fire protection, and code enforcement), maintenance of school facilities and school staffing, in the flat amount of $10,000, estimated to generate $4,700,000 annually (assuming a 10% vacancy rate), subject to an annual cost of living increase, for ten years, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21098,
@@ -15629,6 +15887,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21792,
@@ -15785,6 +16044,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21481,
@@ -15983,6 +16243,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21805,
@@ -16118,6 +16379,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "MEASURE CS: To address homelessness, improve 911 emergency response times and neighborhood police protection, make public areas safer and cleaner, including streets, sidewalks, parks, and the beach, and provide other vital City services, shall the City of Santa Monica increase the transient occupancy tax - which is paid entirely by overnight visitors - by 1% for hotels and motels, and by 3% for home-shares, providing approximately $4.1 million annually, until ended by voters, with all funds benefitting Santa Monica?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21101,
@@ -16169,6 +16431,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "MEASURE DT: Shall the measure to enhance the City of Santa Monica's general governmental services by increasing the one-time tax on real property sales over $8 million, and establishing an additional incremental tax of $25.00 per $1000 of the value in excess of $8 million, excepting transfers: per State law, involving tax-exempt charitable organizations, and certain ground leases; providing an estimated $12-25 million annually through February 28, 2033, subject to a five-year extension by Council supermajority vote, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21105,
@@ -16220,6 +16483,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "MEASURE DTS: ADVISORY VOTE ONLY: If the \"Comprehensive Real Property Transfer Tax Measure\" is enacted, should at least 30% of its additional revenue be used for housing assistance to protect seniors and low-income families from housing displacement, with the remainder of the additional revenue to be used for homelessness services; behavioral health services; public safety and emergency response teams for City streets and parks; reopening public libraries; after-school programs; and crossing guards near public schools?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21107,
@@ -16271,6 +16535,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "PROPOSITION EM: Shall the City Charter be amended to allow the Rent Control Board to disallow or modify annual general rent adjustments for rent controlled units during a declared state of emergency by the President of the United States, the Governor, the Los Angeles County Department of Public Health Officer, or the City Council or Director of Emergency Services while maintaining the landlord's ability to petition for a rent adjustment per Section 1805 of the City Charter?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21358,
@@ -16322,6 +16587,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "MEASURE GS: Shall the measure adding Santa Monica Municipal Code Chapter 4.90 to establish designated funds for schools, homelessness prevention, and affordable housing, and an eleven-member resident oversight committee, and amending Chapter 6.96 to provide a third tier transfer tax rate of $56.000 per $1,000 of value for property transfers of $8,000,000 or more, providing an estimated $50,000,000 annually for homelessness prevention, affordable housing, and schools, until repealed, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20750,
@@ -16373,6 +16639,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Measure HMP: Shall the measure to establish a business tax on every licensed cannabis business (including adult-use nonmedicinal cannabis retailers, distribution, manufacturing, cultivation, laboratory testing, or any other licensed cannabis business) and retailers of products containing psychoactive cannabinoids, including cannabinoids derived from industrial hemp, up to 10% of gross receipts on cannabis and/or hemp-derived psychoactive products sold in the City, which all together could generate an estimated $3-5 million annually until repealed, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21354,
@@ -16424,6 +16691,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "MEASURE PB: Shall the City Charter be amended to: (a) expand eligibility requirements for service on the City's Personnel Board to include, in addition to City of Santa Monica (\"City\") residents, residents of Los Angeles County that are employed full-time within the City, or own real property in the City, or have been issued a business license by the City; and (b) reduce the term of service for Personnel Board members from five to four years?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21103,
@@ -16475,6 +16743,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "PROPOSITION RC: Shall the City Charter be amended to require intended owner occupancy of rent-controlled units for two years before tenant eviction; require owner occupancy within 60 days of vacancy; reduce the maximum Annual General Adjustment from 6% to 0.8% from 2/1/23 through 8/31/23, or average not to exceed 3%, with a 3% maximum Annual General Adjustment thereafter; and require elections only if the number of qualified candidates exceeds the number of open Board positions?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21356,
@@ -16526,6 +16795,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21655,
@@ -16787,6 +17057,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21656,
@@ -16859,6 +17130,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the general plan land use designation change from \"Institutional\" to \"Hillside\" and the zoning designation change from \"Institutional\" to \"Hillside Management\" for the Mater Dolorosa Property?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21371,
@@ -16910,6 +17182,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21825,
@@ -17024,6 +17297,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21416,
@@ -17054,6 +17328,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21417,
@@ -17084,6 +17359,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21413,
@@ -17177,6 +17453,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure, permitting and thoroughly regulating limited cannabis retail businesses (1 adult-use/medical with option of up to 3 total after the measure's 1st year), establishing a general tax at a maximum 8% of noncultivation cannabis business proceeds and $25/square foot of cultivation space (with CPI increases) applicable to permitted/unpermitted businesses, generating approximately $720,000 annually until ended by voters, for general City services (e.g., police, maintenance), be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21204,
@@ -17228,6 +17505,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Shall the measure, permitting/regulating limited cannabis businesses (5 dispensaries, 2 cultivation, 1 testing facility, 2 manufactures/distributors); regulating personal cannabis use; establishing a maximum 6% special excise tax on retail cannabis/edibles sales generating approximately $126,000 annually until ended by voters for implementation costs, clinical trials, municipalities where cannabis business are located, senior/youth programs, infrastructure (streets/roads/sidewalks), public safety (sheriffs/fire department), existing/future commercial, industrial, and affordable housing developments, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21202,
@@ -17279,6 +17557,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21421,
@@ -17351,6 +17630,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "Business License Tax Measure. To assist in maintaining public safety, repair streets, maintain parks, services for seniors, and other general city services, shall the annual taxes and solid waste processing fees paid by Material Recovery Facilities be increased to $500 plus $1.94 per ton and annual CPI adjustment, and provide for increases every three years to all other Business License Taxes based on cost of living increases, as measured by the Consumer Price Index (CPI), be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21360,
@@ -17402,6 +17682,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21576,
@@ -17432,6 +17713,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21577,
@@ -17483,6 +17765,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21574,
@@ -17618,6 +17901,7 @@
       "type": "Measure",
       "group": "Cities",
       "description": "To maintain funding for the operation and maintenance of the South Pasadena Public Library, including technology upgrades, resources for students, and programs such as family story time and summer reading, shall an ordinance be adopted extending South Pasadena's Library Special Tax, which is due to expire on June 30, 2024, to remain in effect until otherwise terminated by a majority vote of the South Pasadena electorate?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21120,
@@ -17669,6 +17953,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21624,
@@ -17720,6 +18005,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21621,
@@ -17750,6 +18036,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21622,
@@ -17780,6 +18067,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21674,
@@ -17810,6 +18098,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21673,
@@ -17882,6 +18171,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21663,
@@ -17912,6 +18202,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21665,
@@ -17984,6 +18275,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21668,
@@ -18077,6 +18369,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21699,
@@ -18338,6 +18631,7 @@
       "type": "Candidate",
       "group": "Cities",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21582,
@@ -18452,6 +18746,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21267,
@@ -18503,6 +18798,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20831,
@@ -18554,6 +18850,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20991,
@@ -18605,6 +18902,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21256,
@@ -18677,6 +18975,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20911,
@@ -18728,6 +19027,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20803,
@@ -18800,6 +19100,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20807,
@@ -18851,6 +19152,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21241,
@@ -18902,6 +19204,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 20703,
@@ -18974,6 +19277,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21373,
@@ -19067,6 +19371,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20924,
@@ -19181,6 +19486,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 20972,
@@ -19295,6 +19601,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21266,
@@ -19346,6 +19653,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20841,
@@ -19397,6 +19705,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20842,
@@ -19448,6 +19757,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 20913,
@@ -19604,6 +19914,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20648,
@@ -19655,6 +19966,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21057,
@@ -19685,6 +19997,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21211,
@@ -19715,6 +20028,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21025,
@@ -19766,6 +20080,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21268,
@@ -19817,6 +20132,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "CERRITOS COLLEGE SAFETY, REPAIR, CAREER TRAINING MEASURE. To repair, upgrade, and replace instructional, training, and support facilities; remove asbestos/ lead paint; maintain safe drinking water; earthquake/fire safety; prepare local workforce, students/veterans with modern job training and university transfer; acquire equipment, facilities, sites, shall Cerritos Community College District's measure authorizing $425,000,000 in bonds at legal rates, levying $25/$100,000 assessed valuation, raising $19,000,000 annually while bonds are outstanding, be adopted, requiring independent audits/ public disclosure of spending?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21320,
@@ -19868,6 +20184,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21111,
@@ -19940,6 +20257,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21050,
@@ -19991,6 +20309,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20790,
@@ -20063,6 +20382,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21316,
@@ -20114,6 +20434,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21302,
@@ -20165,6 +20486,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To fix deteriorating roofs, plumbing, heating, electrical, and other systems, enhance school safety, and construct, reconstruct, renovate, rehabilitate and modernize classrooms, sites and facilities, including media and performing arts centers, technology centers and athletic complexes, shall Compton Unified School District's measure authorizing $350,000,000 in bonds at legal rates be adopted, levying $0.06 per $100 of assessed valuation ($21,526,770 annually) while bonds are outstanding, with mandatory audits, citizen oversight, no money for administrator salaries, and all money staying local?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21194,
@@ -20216,6 +20538,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21243,
@@ -20267,6 +20590,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20962,
@@ -20423,6 +20747,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To repair and improve Downey's aging neighborhood schools, improve school safety/security systems, fix deteriorating roofs, plumbing, electrical, ventilation; repair, construct, acquire classrooms, labs, facilities/ equipment, support student achievement and college/career readiness in math, science, technology, engineering, arts/ skilled trades, shall Downey Unified School District's measure be adopted authorizing $504,000,000 in bonds at legal rates, levying 5 cents per $100 assessed value ($20,000,000 annually) while bonds are outstanding, with independent citizen oversight and all money locally-controlled?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21322,
@@ -20474,6 +20799,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21065,
@@ -20525,6 +20851,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20741,
@@ -20576,6 +20903,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21027,
@@ -20627,6 +20955,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To repair and improve East Lancaster's aging neighborhood elementary and middle schools, fix deteriorating roofs, plumbing, electrical systems, upgrade school safety systems, repair, construct, and acquire classrooms, labs, facilities/ equipment, support hands-on instruction in math, science/ technology, shall Eastside Union School District's measure be adopted authorizing $23,000,000 in bonds, without raising taxes above current rates, levying 3 cents per $100 assessed value ($1,000,000 annually) while bonds are outstanding, with independent citizen oversight and all money locally-controlled?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21324,
@@ -20678,6 +21007,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21306,
@@ -20771,6 +21101,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20657,
@@ -20822,6 +21153,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21295,
@@ -20894,6 +21226,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21180,
@@ -21008,6 +21341,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20662,
@@ -21122,6 +21456,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20597,
@@ -21173,6 +21508,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20800,
@@ -21224,6 +21560,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21366,
@@ -21296,6 +21633,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20809,
@@ -21347,6 +21685,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21004,
@@ -21419,6 +21758,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21245,
@@ -21470,6 +21810,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21842,
@@ -21542,6 +21883,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21843,
@@ -21572,6 +21914,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21844,
@@ -21602,6 +21945,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21845,
@@ -21632,6 +21976,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21409,
@@ -21746,6 +22091,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20744,
@@ -21839,6 +22185,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20596,
@@ -21932,6 +22279,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To upgrade classrooms, science labs, career-training facilities and instructional technology to support college/career readiness in math, science, technology, engineering, arts and skilled trades; improve safety/security systems; remove asbestos, repair, construct/acquire classrooms, facilities, sites/equipment, shall Las Virgenes Unified School District's measure be adopted authorizing $340,000,000 in bonds at legal rates, without increasing current tax rates, levying $36 per $100,000 assessed value ($23,000,000 annually) while bonds are outstanding, with citizen oversight and all money staying local?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21367,
@@ -21983,6 +22331,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21119,
@@ -22034,6 +22383,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20754,
@@ -22085,6 +22435,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20590,
@@ -22136,6 +22487,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20943,
@@ -22187,6 +22539,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "Realign Long Beach Unified School District and State Election Dates. Shall the City Charter of Long Beach be amended to realign the Long Beach Unified School District's primary and general election dates with the State's primary and general election dates held in even-numbered years, and make other related and technical changes to Long Beach Unified School District election procedures?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21235,
@@ -22238,6 +22591,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "LONG BEACH UNIFIED SCHOOL DISTRICT CLASSROOM REPAIR, STUDENT HEALTH/SAFETY/ACHIEVEMENT MEASURE. To repair/upgrade neighborhood public schools, vocational, technology, math, science classrooms/labs; provide safe drinking water; upgrade security, door locks, cameras, earthquake/fire safety; remove lead paint/asbestos; repair, construct, acquire facilities/equipment, shall Long Beach Unified School District's measure authorizing $1,700,000,000 in bonds, at legal rates levying $0.06 per $100 of assessed valuation ($105,000,000 annually) while bonds are outstanding be adopted, requiring oversight, public spending disclosure, all funds used locally?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21206,
@@ -22289,6 +22643,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21109,
@@ -22361,6 +22716,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20699,
@@ -22433,6 +22789,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20672,
@@ -22484,6 +22841,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "LOS ANGELES COMMUNITY COLLEGE DISTRICT SAFETY, REPAIR, JOB TRAINING MEASURE. To repair/upgrade local community colleges, classrooms, water pipes, sewer/gas lines, technology, science labs for nurses, paramedics, firefighters, veterans; prepare students for jobs/university transfer; remove asbestos, lead paint; acquire, construct, repair facilities, sites, equipment; shall Los Angeles Community College District's measure authorizing $5,300,000,000 in bonds at legal rates, levying $25 per $100,000 of assessed valuation, generating $345,000,000 annually while bonds are outstanding, be adopted, requiring oversight, all funds used locally?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21200,
@@ -22535,6 +22893,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20637,
@@ -22607,6 +22966,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21864,
@@ -22658,6 +23018,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21865,
@@ -22709,6 +23070,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20979,
@@ -22760,6 +23122,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21229,
@@ -22895,6 +23258,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To repair/upgrade classrooms, science labs, career-training facilities, and instructional technology to support student achievement and college/career readiness in math, science, technology, engineering, arts and skilled trades; fix deteriorating roofs, plumbing, electrical systems; and improve school safety/security systems, shall Monrovia Unified School District's measure be adopted authorizing $75,000,000 in bonds at legal rates, levying 3 cents per $100 assessed value ($4,700,000 annually) while bonds are outstanding, with independent citizen oversight and all money locally-controlled?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21326,
@@ -22946,6 +23310,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20627,
@@ -23081,6 +23446,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20830,
@@ -23237,6 +23603,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21213,
@@ -23288,6 +23655,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20796,
@@ -23339,6 +23707,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than four",
       "candidates": [
         {
           "id": 20974,
@@ -23516,6 +23885,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20759,
@@ -23609,6 +23979,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To continue improving local District schools; replacing leaky roofs/windows; making school safety, security, energy, water efficiency improvements; modernizing science, technology, engineering, arts, and math labs; and acquiring learning technology/equipment; shall Palmdale (Elementary) School District's measure authorizing $120,000,000 in bonds, at legal rates, levying approximately 3 cents per $100 of assessed value on average (raising $6,338,000 annually) while bonds are outstanding, with independent oversight, audits, no money for administrators and all funds staying local, be adopted?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21328,
@@ -23660,6 +24031,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20602,
@@ -23816,6 +24188,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21046,
@@ -23867,6 +24240,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21313,
@@ -24023,6 +24397,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "Shall the members of the Paramount Unified School District Board of Education be limited to three (3) four-year terms of office for a maximum of 12 years?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20456,
@@ -24074,6 +24449,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To upgrade aging labs, instructional technology, classrooms and career-training facilities, improve student access to affordable, high quality education in subjects like nursing, health sciences, engineering, technology and skilled trades; fix deteriorating roofs, plumbing and electrical systems; and remove asbestos/ lead pipes, shall the Pasadena Area Community College District bond measure authorizing $565,000,000 at legal rates be adopted, levying 2\u00a2 per $100 of assessed value ($32,000,000 annually) while bonds are outstanding, with citizen oversight and all money locally controlled?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21290,
@@ -24125,6 +24501,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21751,
@@ -24197,6 +24574,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21754,
@@ -24248,6 +24626,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21756,
@@ -24299,6 +24678,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21757,
@@ -24350,6 +24730,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20761,
@@ -24401,6 +24782,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20647,
@@ -24473,6 +24855,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21005,
@@ -24524,6 +24907,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20777,
@@ -24575,6 +24959,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20941,
@@ -24626,6 +25011,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20650,
@@ -24719,6 +25105,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20595,
@@ -24770,6 +25157,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21016,
@@ -24863,6 +25251,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21408,
@@ -24914,6 +25303,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than four",
       "candidates": [
         {
           "id": 21661,
@@ -25028,6 +25418,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "SANTA MONICA COLLEGE AFFORDABLE HIGHER EDUCATION, CAREER TRAINING, CLASSROOM UPGRADES. To improve access to affordable education for local students, veterans, first-generation college students; provide affordable housing for homeless students; modernize instructional labs for nursing, healthcare, sustainability, media, science career training; repair/upgrade obsolete vocational classrooms/aging facilities, shall Santa Monica Community College District authorize $375,000,000 in bonds at legal rates, levying 2.5 cents per $100 assessed valuation, raising $23,000,000 annually while bonds are outstanding, with citizens oversight, public spending disclosure?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20752,
@@ -25079,6 +25470,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than four",
       "candidates": [
         {
           "id": 21808,
@@ -25256,6 +25648,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21303,
@@ -25307,6 +25700,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20782,
@@ -25358,6 +25752,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20794,
@@ -25409,6 +25804,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21868,
@@ -25460,6 +25856,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21244,
@@ -25553,6 +25950,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20617,
@@ -25646,6 +26044,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21100,
@@ -25718,6 +26117,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20763,
@@ -25769,6 +26169,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20805,
@@ -25820,6 +26221,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20704,
@@ -25871,6 +26273,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20607,
@@ -25922,6 +26325,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20645,
@@ -25973,6 +26377,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20783,
@@ -26024,6 +26429,7 @@
       "type": "Candidate",
       "group": "Schools",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21285,
@@ -26075,6 +26481,7 @@
       "type": "Measure",
       "group": "Schools",
       "description": "To upgrade school security, emergency communications and fire safety systems, upgrade classroom technology, science, computer and engineering labs; repair aging gas/water lines, leaky roofs; ensure school drinking water remains safe; repair, construct, acquire equipment, sites/facilities; shall Wiseburn Unified School District's locally controlled measure authorizing $98,000,000 in bonds at legal rates, levying 3\u00a2 per $100 of assessed valuation, generating $6,300,000 annually while bonds are outstanding be adopted, requiring audits, independent oversight and public disclosure of all spending?",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21227,
@@ -26126,6 +26533,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20674,
@@ -26177,6 +26585,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20592,
@@ -26228,6 +26637,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 21250,
@@ -26321,6 +26731,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21066,
@@ -26372,6 +26783,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "Vote for no more than three",
       "candidates": [
         {
           "id": 20626,
@@ -26465,6 +26877,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20944,
@@ -26516,6 +26929,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20968,
@@ -26567,6 +26981,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20603,
@@ -26639,6 +27054,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21055,
@@ -26711,6 +27127,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20707,
@@ -26762,6 +27179,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20938,
@@ -26813,6 +27231,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20826,
@@ -26885,6 +27304,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20599,
@@ -26936,6 +27356,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20858,
@@ -26987,6 +27408,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20933,
@@ -27038,6 +27460,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21002,
@@ -27110,6 +27533,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21258,
@@ -27182,6 +27606,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21023,
@@ -27233,6 +27658,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21272,
@@ -27284,6 +27710,7 @@
       "type": "Candidate",
       "group": "Water Districts",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 20990,
@@ -27335,6 +27762,7 @@
       "type": "Candidate",
       "group": "Health Care",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 20846,
@@ -27512,6 +27940,7 @@
       "type": "Candidate",
       "group": "Health Care",
       "description": "",
+      "vote_for": "",
       "candidates": [
         {
           "id": 21090,
@@ -27584,6 +28013,7 @@
       "type": "Candidate",
       "group": "Health Care",
       "description": "",
+      "vote_for": "Vote for no more than two",
       "candidates": [
         {
           "id": 21298,

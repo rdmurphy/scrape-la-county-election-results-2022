@@ -41,6 +41,7 @@ def prepare():
             name = contest['Title']
             contest_type = contest['Type']
             description = contest['MeasureText']
+            vote_for = contest['VoteFor']
             candidates = contest['Candidates']
 
             candidates_output = []
@@ -67,11 +68,12 @@ def prepare():
                 'type': contest_type,
                 'group': contest_group,
                 "description": description,
+                "vote_for": vote_for,
                 'candidates': candidates_output,
             })
 
-    with open('snapshots.json', 'w') as outfile:
-        dump({'snapshots': dates, 'contests': output}, outfile, indent=2)
+    with open('timeframes.json', 'w') as outfile:
+        dump({'dates': dates, 'contests': output}, outfile, indent=2)
 
 
 
