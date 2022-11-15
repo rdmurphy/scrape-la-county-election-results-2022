@@ -50,12 +50,15 @@ def prepare():
                 candidate_name = candidate['Name']
                 party = candidate['Party']
                 votes = collect_votes(candidate_id, lookups)
+                adjusted_votes = [0] + votes
+                changes = [adjusted_votes[i] - adjusted_votes[i-1] for i in range(1, len(adjusted_votes))]
 
                 candidates_output.append({
                     'id': candidate_id,
                     'name': candidate_name,
                     'party': party,
-                    'votes': votes
+                    'votes': votes,
+                    'changes': changes,
                 })
 
             output.append({
