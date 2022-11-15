@@ -16,7 +16,6 @@ jobs:
       - name: Download and format the data
         run: |
           curl "https://results.lavote.gov/electionresults/json?electionid=4300" | jq > results.json
-          curl "https://results.lavote.gov/ElectionResults/GetElectionData?electionID=4300" | jq > election_data.json
           curl "https://results.lavote.gov/ElectionResults/GetCounterData?electionID=4300" | jq ".Data|=sort_by(.Number)" > counter_data.json
 
       - name: Get a timestamp
