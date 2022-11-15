@@ -62,22 +62,35 @@ def prepare():
                     'changes': changes,
                 })
 
+            cumulative_totals = []
             totals = []
 
             for candidate in candidates_output:
+                for i, votes in enumerate(candidate['votes']):
+                    if len(cumulative_totals) < i + 1:
+                        cumulative_totals.append(0)              
+                    cumulative_totals[i] += votes
+
                 for i, change in enumerate(candidate['changes']):
                     if len(totals) < i + 1:
                         totals.append(0)
                     totals[i] += change
 
             for candidate in candidates_output:
-                candidate['percent'] = []
+                candidate['votes_percent'] = []
+                candidate['change_percent'] = []
+
+                for i, votes in enumerate(candidate['votes']):
+                    if cumulative_totals[i] > 0:
+                        candidate['votes_percent'].append(votes / cumulative_totals[i])
+                    else:
+                        candidate['votes_percent'].append(0)
 
                 for i, change in enumerate(candidate['changes']):
                     if totals[i] > 0:
-                        candidate['percent'].append(change / totals[i])
+                        candidate['change_percent'].append(change / totals[i])
                     else:
-                        candidate['percent'].append(0)
+                        candidate['change_percent'].append(0)
 
             output.append({
                 'id': id,
@@ -86,6 +99,7 @@ def prepare():
                 'group': contest_group,
                 "description": description,
                 "vote_for": vote_for,
+                "cumulative_totals": cumulative_totals,
                 "totals": totals,
                 'candidates': candidates_output,
             })
