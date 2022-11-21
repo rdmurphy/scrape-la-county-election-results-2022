@@ -9,8 +9,8 @@ See this data put to use in [this Observable notebook](https://observablehq.com/
 | File/Directory  | Notes |
 | ------------- | ------------- |
 | `results.json`  | A snapshot of the [JSON results file RR/CC makes available](https://www.lavote.gov/home/voting-elections/current-elections/election-results-file-downloads).   |
-| `election_data.json` | This file is found on the [dynamic updating results page](https://results.lavote.gov/#year=2022&election=4300). It gives every contest and candidate a unique ID. Despite having slots for vote counts, these are always zeroed out.   |
-| `counter_data.json` | This file is found on the [dynamic updating results page](https://results.lavote.gov/#year=2022&election=4300). It provides the vote values (and other totals) found on a results page. The IDs that appear in this file sync up with the ones in `election_data.json`. |
+| `election_data.json` | This file is loaded on the [dynamic updating results page](https://results.lavote.gov/#year=2022&election=4300). It gives every contest and candidate a unique ID. Despite having slots for vote counts, these are always zeroed out.   |
+| `counter_data.json` | This file is loaded on the [dynamic updating results page](https://results.lavote.gov/#year=2022&election=4300). It provides the vote values (and other totals) found on a results page. The IDs that appear in this file sync up with the ones in `election_data.json`. |
 | `results/*.json` | These files represent each copy of `results.json` collected on a given day. |
 | `counter_data/*.json` | These files represent each copy of `counter_data.json` collected on a given day. |
 | `timeframes.json` | This file is where all the historical data here is brought together. It includes historical vote totals and changes for every single contest and candidate. |
