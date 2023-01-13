@@ -423,46 +423,6 @@
             ]
           },
           {
-            "Title": "ALHAMBRA UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area No. 4",
-            "Type": "Candidate",
-            "AdditionalText": "",
-            "MeasureText": "",
-            "MeasurePassRate": "",
-            "VoteFor": "",
-            "Candidates": [
-              {
-                "Name": "ROBERT L. GIN",
-                "Party": "Non Partisan",
-                "Votes": 4565
-              },
-              {
-                "Name": "WEN \"TONY\" FAN",
-                "Party": "Non Partisan",
-                "Votes": 1774
-              }
-            ]
-          },
-          {
-            "Title": "ALHAMBRA UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area No. 5",
-            "Type": "Candidate",
-            "AdditionalText": "",
-            "MeasureText": "",
-            "MeasurePassRate": "",
-            "VoteFor": "",
-            "Candidates": [
-              {
-                "Name": "BRYAN Y. KIM",
-                "Party": "Non Partisan",
-                "Votes": 1317
-              },
-              {
-                "Name": "FRED L. CHANG",
-                "Party": "Non Partisan",
-                "Votes": 1575
-              }
-            ]
-          },
-          {
             "Title": "ARCADIA CITY GENERAL MUNICIPAL ELECTION - MEASURE CA",
             "Type": "Measure",
             "AdditionalText": "",
@@ -6093,6 +6053,46 @@
             ]
           },
           {
+            "Title": "ALHAMBRA UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area No. 4",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ROBERT L. GIN",
+                "Party": "Non Partisan",
+                "Votes": 4565
+              },
+              {
+                "Name": "WEN \"TONY\" FAN",
+                "Party": "Non Partisan",
+                "Votes": 1774
+              }
+            ]
+          },
+          {
+            "Title": "ALHAMBRA UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area No. 5",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BRYAN Y. KIM",
+                "Party": "Non Partisan",
+                "Votes": 1317
+              },
+              {
+                "Name": "FRED L. CHANG",
+                "Party": "Non Partisan",
+                "Votes": 1575
+              }
+            ]
+          },
+          {
             "Title": "ANTELOPE VALLEY COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 2",
             "Type": "Candidate",
             "AdditionalText": "",
@@ -8586,6 +8586,15 @@
                 "Votes": 6886
               }
             ]
+          },
+          {
+            "Title": "WHITTIER CITY SCHOOL DISTRICT Governing Board Member, Trustee Area No. 3 (No Candidates Filed)",
+            "Type": "Candidate",
+            "AdditionalText": "We are required to report on this contest even though there are no candidates filed.",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": []
           },
           {
             "Title": "WHITTIER CITY SCHOOL DISTRICT Governing Board Member, Trustee Area No. 5",
